@@ -60,7 +60,7 @@ Participants were presented with a story about a scientific mission to a distant
 
 For the fire dilemma, the number of aliens in the feature-positive group (see below) was always 10. We determined the number of aliens in the feature-negative group based on the moral decisions of previous participants, following a Markov Chain Monte Carlo with People procedure [@sanborn2008markov]. Specifically, 5 chains of 10 participants completed the experiment. Within each chain, the first participant decided between two groups of 10 aliens for all dimensions. In case the participant decided to save the feature-positive group, the number of feature-negative aliens was increased by 1 for the next participant in the chain. In case they decided to save the feature-negative group, the number of feature-negative aliens was decreased by 1 for the next participants in the chain. The same rule was then followed for all 10 participants in the chain.
 
-Within each pair, the aliens varied along one of the following dimensions of interest: phenomenal richness, evaluative richness, unity, temporality, selfhood, size, physical resemblance to humans in appearance, and biological resemblance to humans. The first 5 dimensions are based on the taxonomy of animal consciousness, described in @birch2020dimensions. The *feature-positive* species had more of the mental capacity of interest, or resembled humans more, compared with the *feature-negative* species. Each dimension was presented as two scientific findings, and their interpretation by the scientists, and was accompanied by cartoon figures of the experimental design. The findings and their interpretations were based on real animal studies. Importantly, in order not to bias participants' perception of the aliens, the figures did not show the aliens. Alien species were given one-syllable gibberish names, counterbalanced across participants. Below we describe the 8 dimensions and their experimental operationzaliations, based on animal studies. The full descriptions as presented to our subjects are available at [github.com/matanmazor/moralWorth](github.com/matanmazor/moralWorth).
+Within each pair, the aliens varied along one of the following dimensions of interest: phenomenal richness, evaluative richness, unity, temporality, selfhood, size, physical resemblance to humans in appearance, and biological resemblance to humans. The first 5 dimensions are based on the taxonomy of animal consciousness, described in @birch2020dimensions. The *feature-positive* species had more of the mental capacity of interest, or resembled humans more, compared with the *feature-negative* species. Each dimension was presented as two scientific findings, and their interpretation by the scientists, and was accompanied by cartoon figures of the experimental design. The findings and their interpretations were based on real animal studies. Importantly, in order not to bias participants' perception of the aliens, the figures did not show the aliens. Alien species were given one-syllable gibberish names, counterbalanced across participants. Below we describe the 8 dimensions and their experimental operationzaliations, based on animal studies. The full descriptions as presented to our subjects are available at [github.com/matanmazor/https://github.com/matanmazor/dimensions_of_moral_status](github.com/matanmazor/dimensions_of_moral_status).
 
 1. *Phenomenal Richness:*
 Phenomenal richness is roughly defined as the 'level of detail with which [animals] consciously perceive aspects of their environment' [@birch2020dimensions]. Phenomenal richness can vary between different sensory modalities, but for our study we focused on phenomenal richness in visual experience. We used fine-grained discrimination learning [@pearce2008nature] and trace-conditioning [@clark2002classical] as our two operationalizations of phenomenal richness. 
@@ -203,7 +203,7 @@ exp1_df <- rbind(exp1.chain1$df.trials,
 
 ```
 
-A total of 50 participants took part in the experiment, in 5 chains of 10 participants each. Participants provided meaningful descriptions of the different dimensions. All recorded responses, including verbal descriptions, are openly available on [github.com/matanmazor/moralWorth](github.com/matanmazor/moralWorth).
+A total of 50 participants took part in the experiment, in 5 chains of 10 participants each. Participants provided meaningful descriptions of the different dimensions. All recorded responses, including verbal descriptions, are openly available on [github.com/matanmazor/https://github.com/matanmazor/dimensions_of_moral_status](github.com/matanmazor/https://github.com/matanmazor/dimensions_of_moral_status).
 
 ## Consciousness ratings
 ```{r consciousness_ratings1, echo=FALSE, cache=TRUE}
@@ -344,7 +344,7 @@ grid::grid.raster(img)
 # simulating a null model for hypothesis testing.
 
 null = c();
-for (simulation in seq(1,10000)) {
+for (simulation in seq(1,100000)) {
   numNeg_vec = c();
   for (chain in seq(1,5)) {
     numNeg=10
@@ -414,7 +414,7 @@ exp2_df <- rbind(exp2.chain1$df.trials,
          'mirror')));
 ```
 
-A total of 220 participants took part in the experiment, in 2 chains of 110 participants each. Participants provided meaningful descriptions of the different dimensions. All recorded responses, including verbal descriptions, are openly available on [github.com/matanmazor/moralWorth](github.com/matanmazor/moralWorth).
+A total of 220 participants took part in the experiment, in 2 chains of 110 participants each. Participants provided meaningful descriptions of the different dimensions. All recorded responses, including verbal descriptions, are openly available on [github.com/matanmazor/https://github.com/matanmazor/dimensions_of_moral_status](github.com/matanmazor/https://github.com/matanmazor/dimensions_of_moral_status).
 
 ## Consciousness ratings
 ```{r consciousness_ratings2, echo=FALSE, cache=TRUE}
