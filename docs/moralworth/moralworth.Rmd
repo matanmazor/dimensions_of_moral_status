@@ -1,0 +1,653 @@
+---
+title: "Dimensions of Moral Status"
+bibliography: library.bib
+csl: apa6.csl
+document-params: "10pt, letterpaper"
+
+author-information: > 
+    \author{{\large \bf Matan Mazor (mtnmzor@ucl.ac.uk)} 
+    \AND {\large \bf Arianna Risoli (arianna.risoli.18@ucl.ac.uk) 
+    \large \bf Anna Eberhardt (anna.everhardt.18@ucl.ac.uk)}
+    \AND {\large \bf Stephen M. Fleming (stephen.fleming@ucl.ac.uk)} \\ University College London, \\ London WC1N 3BG}
+
+abstract: >
+   Here we asked which mental and physical attributes contribute most to decisions about moral status and the presence of consciousness in non-human beings. Participants placed moral value on mental capacities more than physical similarity to humans. Specifically, experimental indications of rich and complex visual experience had strong effects on both consciousness ratings and moral worth judgments, more so than indications of self-awareness. Furthermore, moral worth judgments were highly correlated with consciousness ratings, across items and participants.  
+
+    
+keywords: >
+    ethics; animal consciousness; meta-science
+    
+output: cogsci2016::cogsci_paper
+#final-submission: \cogscifinalcopy
+---
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(fig.width=3, fig.height=3, fig.crop = F, 
+                      fig.pos = "tb", fig.path='figs/',
+                      echo=F, warning=F, cache=F, 
+                      message=F, sanitize = T)
+```
+
+```{r, libraries}
+library('papaja')
+library('tidyverse')
+library('readr')
+library("grid")
+library("ggplot2")
+library("xtable")
+library('stringr')
+library('dplyr')
+library('ggpubr')
+```
+
+> *"Mama, Mama, don't killl the chicken anymore, she laid an egg! she cares about us!"* 
+
+>> (*"Una gallina"*, Clarice Lispector, 1960)
+
+# Introduction 
+
+According to the Stanford Encyclopedia of Philosophy, an entity has *Moral Status* if and only if "it or its interests morally matter to some degree for the entity’s own sake" [@jaworska2013grounds]. The attribution of moral status to a being affects how their interests are taken into account in everyday decision making. For example, the choice not to eat meat is often motivated by an attribution of non-trivial moral status to farm animals. But how do we decide which entities are worthy of a higher moral status, and which can be exploited and harmed without concern for their interests? 
+
+Philosophers have long debated which factors should be taken into account when determining the moral status of agents. Utilitarian philosophers Jeremy Bentham [-@bentham1789utilitarian] and John Stuart Mill [-@mill1861utilitarianism] attached moral status to the capacity to suffer, or to sentience more generally. Contemporary philosophical writings about the origins of moral status debate the extent to which they should be based in private, qualitative experience, or rather in functional or behavioural features which can be observed by others and scientifically quantified [@carruthers2019human; @levy2014value; @danaher2020welcoming]. Crucially, regardless of what the normative answer to this question is, in actual moral decision-making we can only ever have access to the behaviour of other agents, and may only infer their internal states from these third-person observations. In other words, regardless of whether moral status *should* be based on behaviour or experience, in practice it *must* be based on behaviour, because we can never directly perceive the experience of others.
+
+In psychology, behavioural observations are commonly used to learn about internal mental processes, which are often assumed to have an experiential nature for the subject. In comparative psychology, clever experimental manipulations allow scientists to deduce latent mental variables from observable behaviour. The mirror mark test is one such manipulation, in which an animal's response to an unfamiliar mark on its own reflection in the mirror is taken as a measure of self-awareness - a mental property that cannot be directly observed [@gallup2002mirror]. Other known examples are the study of caching behaviour as a measure of episodic memory [@clayton1998episodic] and the use of trace-conditioning as a measure of conscious perception [@clark2002classical]. In all of the above examples, scientists explain an observable behaviour as emerging from an internal mental state.
+
+Here we asked whether, like scientists, a random sample of online participants would also use these and similar behaviours as indicating the presence of mental states. We then asked whether these inferences about conscious experience would bias participants' moral decision making. Our experimental design is largely based on previous studies looking at moral status of non-human entities. Specifically, we followed the imaginary aliens cover story used in @piazza2016meat, and a moral decision-making paradigm similar to the one developed by @wilks2020children. 
+
+# Experiment 1
+## Methods
+Participants were presented with a story about a scientific mission to a distant planet. According to the story, scientists discovered several alien species on the planet, which all had two eyes and hand-like limbs, and all fed on space berries that grow on the planet. The scientist sorted the alien species into 8 pairs. Within each such pair, the two species were identical except for two differences. The experiment then consisted of descriptions of the 8 animal pairs, followed by questions. For each pair, participants were asked to describe in their own words the main difference between the two alien species. This allowed us to monitor the clarity of the descriptions and participants' attention. Then, participants were told that a fire started on the planet, and that two groups of aliens were caught in the fire, one of each species. We asked the participants which group they would rather save, assuming that the other group will die in the fire. Lastly, participants were asked to use two sliders to indicate the extent to which they thought each species was conscious. 
+
+For the fire dilemma, the number of aliens in the feature-positive group (see below) was always 10. We determined the number of aliens in the feature-negative group based on the moral decisions of previous participants, following a Markov Chain Monte Carlo with People procedure [@sanborn2008markov]. Specifically, 5 chains of 10 participants completed the experiment. Within each chain, the first participant decided between two groups of 10 aliens for all dimensions. In case the participant decided to save the feature-positive group, the number of feature-negative aliens was increased by 1 for the next participant in the chain. In case they decided to save the feature-negative group, the number of feature-negative aliens was decreased by 1 for the next participants in the chain. The same rule was then followed for all 10 participants in the chain.
+
+Within each pair, the aliens varied along one of the following dimensions of interest: phenomenal richness, evaluative richness, unity, temporality, selfhood, size, physical resemblance to humans in appearance, and biological resemblance to humans. The first 5 dimensions are based on the taxonomy of animal consciousness, described in @birch2020dimensions. The *feature-positive* species had more of the mental capacity of interest, or resembled humans more, compared with the *feature-negative* species. Each dimension was presented as two scientific findings, and their interpretation by the scientists, and was accompanied by cartoon figures of the experimental design. The findings and their interpretations were based on real animal studies. Importantly, in order not to bias participants' perception of the aliens, the figures did not show the aliens. Alien species were given one-syllable gibberish names, counterbalanced across participants. Below we describe the 8 dimensions and their experimental operationzaliations, based on animal studies. The full descriptions as presented to our subjects are available at [github.com/matanmazor/moralWorth](github.com/matanmazor/moralWorth).
+
+1. *Phenomenal Richness:*
+Phenomenal richness is roughly defined as the 'level of detail with which [animals] consciously perceive aspects of their environment' [@birch2020dimensions]. Phenomenal richness can vary between different sensory modalities, but for our study we focused on phenomenal richness in visual experience. We used fine-grained discrimination learning [@pearce2008nature] and trace-conditioning [@clark2002classical] as our two operationalizations of phenomenal richness. 
+
+2. *Evaluative Richness:*
+Evaluative richness is to valence what phenomenal richness is to sense data. It is roughly defined as the ability to evaluate small changes in valence and to engage in complex affect-based decision-making [@birch2020dimensions]. We used affective bias [@reimert2017emotional] and motivational trade-off [@balasko_motivational_1998] as our operationalizations of evaluative richness. 
+
+3. *Unity:*
+Unity is roughly defined as having a "single, unified perspective as opposed to multiple perspectives" [@birch2020dimensions]. We used interocular transfer [@ortega2008limits] and crossmodal integration [@narins2005cross] as our two measures of unity.
+
+4. *Temporality:*
+Temporality is roughly defined as having an integrated stream of experience, as opposed to "a staccato series of fragmented experiences" [@birch2020dimensions]. Temporality can be defined over short and long time scales. Here we focused on future planning in longer time scales (days). We used two future-planning paradigms [@hillemann2014waiting; @kabadayi2017ravens], as our operationalizations of temporality.
+
+5. *Selfhood:*
+Selfhood is "the conscious awareness of oneself as distinct from the world outside" [@birch2020dimensions]. We used the mirror-mark test [@gallup2002mirror] and experience projection [@de1986deception] as our two operationalizations of selfhood.
+
+6. *Size:*
+One alien species was described as having average weight and height of 45kg and 120cm, while the other was smaller and had average weight and height of 1 gram and 1 cm.
+
+7. *Physical resemblance to humans:* 
+One alien species was described has having right and left eyes, and two hand-like limbs. The other alien species had top and down eyes, and 5 hand-like limbs.
+
+8. *Biological resemblance ot humans:*
+One alien species was described as having red blood, and DNA that is composed of the same four bases as human DNA. The other alien species was described as having yellow blood, and DNA that is composed of entirely different bases.
+
+## Results
+
+```{r load_and_format1, echo=FALSE, cache=TRUE, results='hide'}
+
+# The first chain of experiment 1is handled separately because we didn't yet document chain number, 
+# and we had syncing problems with two participants that are now excluded. 
+
+exp1.chain1 <- list();
+
+exp1.chain1$list <- read_file('../../experiments/Exp1/data/jatos_results_chain1.txt') %>%
+ str_split("Consent given.\nConsent given.\n")
+
+exp1.chain1$df <- data.frame();
+
+for (i in 2:length(exp1.chain1$list[[1]])) {
+  
+   this_subject <- read.csv(text=exp1.chain1$list[[1]][i]) %>%
+   select(c('PROLIFIC_PID',
+           'participant_number',
+           'mwj',
+           'conscPos',
+           'conscNeg',
+           'dimension',
+           'numNeg',
+           'description',
+           'responses',
+           'trial_type'));
+    
+  exp1.chain1$df <- rbind(exp1.chain1$df, this_subject);
+}
+
+# Excluded due to a technical issue in data collection
+excluded <- c('5fedc8ece6b28104f883f096','5d4ad488dfd8230018fd0b45');
+
+exp1.chain1$df.trials <- exp1.chain1$df %>%
+  filter(trial_type=='html-moral-worth-slides-trial' & !(PROLIFIC_PID %in%excluded)) %>%
+  select(c('PROLIFIC_PID',
+           'participant_number',
+           'mwj',
+           'conscPos',
+           'conscNeg',
+           'dimension',
+           'numNeg',
+           'description'))%>%
+  rename(subj_id = PROLIFIC_PID)%>%
+  mutate(description=str_squish(description))%>%
+  arrange('participant_number')%>%
+  mutate(participant_number=ifelse((subj_id=='5fa97a5192918912cb3d8173' | subj_id=='5e2d94d8ed8c8a3887580acb'),
+                                   participant_number,participant_number-1));
+
+exp1.chain1$df.trials$chain_number=1;
+exp1.chain1$df.trials%>%relocate('chain_number');
+
+write.csv(exp1.chain1$df.trials,'../../experiments/Exp1/data/jatos_results_chain1.csv')
+
+
+load_chain <- function(exp_number, chain_number) {
+  
+  chain <-list()
+
+  chain$list <- read_file(
+    sprintf('../../experiments/Exp%d/data/jatos_results_chain%d.txt',
+            exp_number, chain_number)) %>%
+ str_split("Consent given.\nConsent given.\n")
+
+  chain$df <- data.frame();
+
+  for (i in 2:length(chain$list[[1]])) {
+  chain$df <- rbind(chain$df, read.csv(text=chain$list[[1]][i]))
+  }
+
+  chain$df.trials <- chain$df %>%
+    filter(str_detect(trial_type,'^html-moral-worth')) %>%
+    select(c('chain_number',
+             'PROLIFIC_PID',
+             'participant_number',
+             'mwj',
+             'conscPos',
+             'conscNeg',
+             'dimension',
+             'numNeg',
+             'description'))%>%
+    rename('subj_id' = 'PROLIFIC_PID')%>%
+    mutate(description=str_squish(description))%>%
+   arrange('participant_number')
+  
+  chain$df.trials$chain_number = chain_number;
+  
+  write.csv(chain$df.trials,
+            sprintf('../../experiments/Exp%d/data/jatos_results_chain%d.csv',exp_number,chain_number))
+  
+  return(chain)
+}
+
+exp1.chain2 <- load_chain(1,2);
+exp1.chain3 <- load_chain(1,3);
+exp1.chain4 <- load_chain(1,4);
+exp1.chain5 <- load_chain(1,5);
+
+exp1_df <- rbind(exp1.chain1$df.trials, 
+                 exp1.chain2$df.trials, 
+                 exp1.chain3$df.trials,
+                 exp1.chain4$df.trials,
+                 exp1.chain5$df.trials)%>%
+  mutate(consc_diff = conscPos-conscNeg,
+           dimension=factor(dimension, levels=c(
+             'size',
+             'appearance',
+             'biology',
+             'unity',
+             'pRichness',
+             'eRichness',
+             'time',
+             'self')));
+
+```
+
+A total of 50 participants took part in the experiment, in 5 chains of 10 participants each. Participants provided meaningful descriptions of the different dimensions. All recorded responses, including verbal descriptions, are openly available on [github.com/matanmazor/moralWorth](github.com/matanmazor/moralWorth).
+
+## Consciousness ratings
+```{r consciousness_ratings1, echo=FALSE, cache=TRUE}
+exp1.long_df <- exp1_df %>%
+  select('chain_number',
+         'participant_number',
+         'subj_id',
+         'dimension',
+         'mwj',
+         'conscPos',
+         'conscNeg') %>%
+  gather(species, consc, 6:7) %>%
+  mutate(species=substr(species,6,9)) %>%
+  mutate(species=factor(species, levels=c('Neg','Pos')));
+
+# main difference in consciousness ratings between positive and negative aliens
+exp1.main_diff <- exp1_df %>%
+  group_by(subj_id) %>%
+  summarise(diff=mean(conscPos-conscNeg));
+
+# effect for pRichness
+pRichness_diff <- exp1_df %>%
+  filter(dimension=='pRichness')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for eRichness
+eRichness_diff <- exp1_df %>%
+  filter(dimension=='eRichness')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for unity
+unity_diff <- exp1_df %>%
+  filter(dimension=='unity')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for time
+time_diff <- exp1_df %>%
+  filter(dimension=='time')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for self
+self_diff <- exp1_df %>%
+  filter(dimension=='self')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for size
+size_diff <- exp1_df %>%
+  filter(dimension=='size')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for appearance
+appearance_diff <- exp1_df %>%
+  filter(dimension=='appearance')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for appearance
+biology_diff <- exp1_df %>%
+  filter(dimension=='biology')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+```
+
+Participants reported the degree to which they believed the different alien species to be conscious, on a scale of 1 to 100. Overall, consciousness ratings were high, with a distinctive peak at the maximum rating of 100 (mean rating = `r printnum(exp1.long_df$consc%>%mean())`). Feature-positive species were perceived as substantially more conscious than feature-negative species (`r apa_print(t.test(exp1.main_diff$diff))$full_result`; see Fig. 2, upper panel). This difference in consciousness ratings was significant for the dimensions phenomenal richness (`r apa_print(t.test(pRichness_diff$diff))$full_result`), unity (`r apa_print(t.test(pRichness_diff$diff))$full_result`), temporality (`r apa_print(t.test(pRichness_diff$diff))$full_result`), and selfhood (`r apa_print(t.test(self_diff$diff))$full_result`). Interestingly, a substantial difference was also observed for the perceived consciousness of aliens with varying degrees of biological resemblance to humans (`r apa_print(t.test(biology_diff$diff))$full_result`). These effects survived a Bonferroni correction for our 8 manipulated variables. The effects for evaluative richness and size were significant but did not survive correction for multiple comparisons.
+
+## Moral judgments
+```{r mwj1, echo=FALSE, cache=TRUE}
+
+exp1.mwj_df <- exp1_df %>%
+  select('chain_number',
+         'participant_number',
+         'subj_id',
+         'dimension',
+         'mwj',
+         'numNeg',
+         'consc_diff');
+
+# the choice of the last participant determines the numNeg value for the next one.
+exp1.mwj_eleventh_participant <- exp1.mwj_df %>%
+  filter(participant_number==10) %>%
+  mutate(
+    participant_number=11,
+    subj_id='nan',
+    numNeg = ifelse(mwj=='pos',
+                    numNeg+1,
+                    numNeg-1)
+  )
+
+exp1.mwj_df <- bind_rows(exp1.mwj_df, exp1.mwj_eleventh_participant);
+
+# average N- at the end of the chain
+exp1.end_of_chain <- exp1.mwj_df %>%
+  filter(participant_number==11) %>% 
+  group_by(dimension) %>%
+  summarise(numNeg=mean(numNeg)) %>%
+  spread(dimension,numNeg)
+```
+
+
+For each dimension, participants decided whether they would rather save aliens from the feature-negative or the feature-positive species. The number of feature-positive aliens ($N^+$) was always set to 10, and the number of feature-negative aliens ($N^-$) followed the moral judgments of previous participants -- decreasing after decisions to save the feature-negative aliens, and increasing following decisions to save the feature-positive aliens. We ran 5 short (10 participant) chains in an attempt to validate our method and establish a directional effect for our dimensions of interest. The chains are unlikely to have converged after 10 participants, so we refrain from interpreting our results as reflecting a true 'conversion rate' between feature-positive and feature-negative aliens.
+
+```{r mwjplot1, echo=FALSE, cache=TRUE, fig.env="figure", fig.pos = "H", fig.align = "center", fig.cap = "The number of feature-negative aliens for each dimension as a function of participant number. Showing data from all 5 chains. Participant number goes from 1 to 11, because the data of participant 10 dictates the number of aliens for participant 11."}
+
+
+p<- ggplot(exp1.mwj_df, 
+           aes(x=participant_number+chain_number*0.1, 
+               y=numNeg, 
+               group=chain_number)) +
+  geom_hline(yintercept = 10) +
+  geom_line(aes(color=dimension)) +
+  geom_point(aes(color=dimension)) +
+  facet_wrap(~dimension, ncol=2) +
+  labs(title="Number of feature-negative aliens, Exp. 1", 
+       x="Participant number", 
+       y = "Number of feature negative aliens") +
+  theme_bw() + 
+  theme(legend.position = "none", 
+        plot.margin=margin(t = 0, r = 0, b = 0, l = 0, unit = "pt")) +
+  scale_x_continuous(breaks = seq(1,11,2))+
+  scale_y_continuous(breaks = seq(8,18,4))
+  
+ggsave('figs/mwjplot1.png',p, width=4.5, height=5.5);
+
+img <- png::readPNG('figs/mwjplot1.png')
+grid::grid.raster(img)
+
+```
+
+```{r mwj_simulation, echo=FALSE, cache=TRUE}
+
+# simulating a null model for hypothesis testing.
+
+null = c();
+for (simulation in seq(1,10000)) {
+  numNeg_vec = c();
+  for (chain in seq(1,5)) {
+    numNeg=10
+    for (i_s in seq(1,10)) {
+      if (rbinom(1,1,0.8)) {
+        if (numNeg<10) {
+          numNeg=numNeg+1
+        } else if (numNeg>10) {
+          numNeg=numNeg-1
+        } else {
+          numNeg=numNeg+sample(c(-1,1),1);
+        }
+      } else{
+        numNeg=numNeg+sample(c(-1,1),1);
+      }
+    }
+    numNeg_vec = append(numNeg_vec,numNeg);
+  }
+  mean_numNeg = mean(numNeg_vec);
+  null = append(null,mean_numNeg);
+};
+two_sided_null = abs(null-10)
+```
+
+We focused on the average value of $N^-$ at the end of the chain. This value was equal or higher than 10 for all dimensions (see Fig. 1). Specifically, it was `r printnum(exp1.end_of_chain$pRichness)` for phenomenal richness, `r printnum(exp1.end_of_chain$eRichness)` for evaluative richness, `r printnum(exp1.end_of_chain$time)` for temporality and `r printnum(exp1.end_of_chain$time)` for unity. Paralleling the effect of biological resemblance to humans on consciousness, aliens that were biologically similar to humans were also more likely to be saved from the fire ($N^-$=`r printnum(exp1.end_of_chain$biology)`). If our participants were only considering the number of aliens in each group, without any consistent effect of the manipulated dimensions, we would expect $N^-$ to be exactly 10 by the 10th participant. This was the case in four out of five chains for the appearance and size dimensions. As a more conservative null model, we simulated data from a cohort of participants that take into account the number of aliens in each group, but not their descriptions, on 80% of the trials, and choose randomly on the other 20% of the trials. The average $N^-$ for the last participant exceeded 11 (or went below 9) only on `r round(mean(two_sided_null>1)*100,2)`% of our 10,000 simulations, and never exceeded 12. Hence, our empirical data provided strong evidence against this conservative null-effect model for all 5 dimensions of consciousness, as well as for biological resemblance to humans. In the last section of our analysis, we asked whether beliefs about consciousness systematically covary with biases in moral decision making.
+
+## The relation between moral judgments and consciousness ratings
+
+```{r relation1, echo=FALSE, cache=TRUE}
+exp1.relation_df <- exp1.mwj_df %>% 
+  group_by(dimension) %>%
+  summarise(consc_diff=mean(consc_diff), 
+            numNeg=mean(numNeg[participant_number==11]))
+```
+
+So far we have shown that in our data, inference about the presence of consciousness in imaginary aliens was informed by descriptions of behaviours which are interpreted in the scientific literature on animal consciousness as signs of phenomenal richness, evaluative richness, unity, temporality, and selfhood [@birch2020dimensions], as well as by beliefs about their biological resemblance to humans. We also showed that the same factors contributed to moral judgments about these imaginary aliens. Our experimental design is not optimized to test for a causal link between these two findings. However, we can quantify the extent to which variability in beliefs about consciousness explains variability in judgments of moral status. 
+
+Across dimensions, high values of $N^-$ were associated with a more pronounced difference between consciousness ratings for the feature-positive and feature-negative alien species (see Fig. 4). One exception was selfhood, scoring highest in consciousness ratings (with a mean difference of `r printnum(exp1.relation_df[exp1.relation_df$dimension=='self','consc_diff'])` between feature-positive and feature-negative aliens), but having only moderate effects on moral status judgments ($N^-$=`r exp1.relation_df[exp1.relation_df$dimension=='self','numNeg']`). In Experiment 2 we look closer at the two operationalizations of selfhood in our study, mirror self recognition and deception, and ask whether this mismatch between consciousness ratings and moral worth judgments is common to both.
+
+Unlike size and resemblance to humans in physical appearance, biological resemblance to humans (operationalized as the color of aliens' blood and the building blocks that make up their genetic code), had strong effects on moral status judgments and on beliefs about the presence of consciousness. This was the only physical dimension that showed these effects. In order to test if the effect on moral status judgments was related to the effect on consciousness ratings, we contrasted the difference in consciousness ratings between feature-positive and feature-negative species as a function of participants' decision to save the feature-positive or the feature-negative group. A difference would indicate that those participants who saved the feature-positive group also thought they tended to be more conscious. Note that this test marginalizes over different values of $N^-$. Indeed, the difference in consciousness ratings was lower in those participants who chose to save the feature-negative group (`r apa_print(t.test(consc_diff~mwj, exp1.mwj_df%>%filter(dimension=='biology')))$full_result`). 
+
+# Experiment 2
+
+In Experiment 1, we found that short descriptions of scientific findings affected participants' attribution of consciousness to imaginary aliens as well as their moral status judgments. We found evidence for a relation between these two effects, reflected in the alignment of consciousness ratings and moral status judgments between subjects dimensions . One exception to this alignment was the selfhood dimension, where a strong effect on the attribution of consciousness did not translate to a strong effect on moral status judgments. Finally, while size and physical appearance had no effect on the attribution of consciousness and moral status judgments, biological resemblance to humans had strong effects on both. In Experiment 2, we zero in on these effects and focus on the dimensions of selfhood, biological resemblance to humans, phenomenal richness, and physical resemblance to humans in appearance.
+
+## Methods
+
+Experiment 2 followed a similar procedure to Experiemnt 1, except for several differences. First, each alien pair corresponded to a single scientific observation: mirror self-recognition [@gallup2002mirror], capcity for deception [@de1986deception], blood color, DNA building blocks, discrimination learning [@pearce2008nature], trace conditioning [@clark2002classical], eye position and number of limbs. Second, participants were not given information about the way scientists interpreted the findings. Third, to simplify and shorten the experiment, we simplified some of the descriptions, and omitted all figures. Finally, in order to allow the MCMC chains to convergence, we ran two chains of 110 participants each. 
+
+## Results
+
+```{r load_and_format2, echo=FALSE, cache=TRUE, results='hide'}
+exp2.chain1 <- load_chain(2,1);
+exp2.chain2 <- load_chain(2,2);
+
+exp2_df <- rbind(exp2.chain1$df.trials, 
+                 exp2.chain2$df.trials)%>%
+  mutate(consc_diff = conscPos-conscNeg,
+       dimension=factor(dimension, levels=c(
+         'limbs',
+         'blood',
+         'eyes',
+         'DNA',
+         'deception',
+         'trace',
+         'discrimination',
+         'mirror')));
+```
+
+A total of 220 participants took part in the experiment, in 2 chains of 110 participants each. Participants provided meaningful descriptions of the different dimensions. All recorded responses, including verbal descriptions, are openly available on [github.com/matanmazor/moralWorth](github.com/matanmazor/moralWorth).
+
+## Consciousness ratings
+```{r consciousness_ratings2, echo=FALSE, cache=TRUE}
+exp2.long_df <- exp2_df %>%
+  select('chain_number',
+         'participant_number',
+         'subj_id',
+         'dimension',
+         'mwj',
+         'conscPos',
+         'conscNeg') %>%
+  gather(species, consc, 6:7) %>%
+  mutate(species=substr(species,6,9)) %>%
+  mutate(species=factor(species, levels=c('Neg','Pos')));
+
+# main difference in consciousness ratings between positive and negative aliens
+exp2.main_diff <- exp2_df %>%
+  group_by(subj_id) %>%
+  summarise(diff=mean(conscPos-conscNeg));
+
+# effect for trace conditioning
+trace_diff <- exp2_df %>%
+  filter(dimension=='trace')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for discrimination learning
+discrimination_diff <- exp2_df %>%
+  filter(dimension=='discrimination')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for mirror recognition
+mirror_diff <- exp2_df %>%
+  filter(dimension=='mirror')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for deception
+deception_diff <- exp2_df %>%
+  filter(dimension=='deception')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for eyes configuration
+eyes_diff <- exp2_df %>%
+  filter(dimension=='eyes')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for number of limbs
+limbs_diff <- exp2_df %>%
+  filter(dimension=='limbs')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for blood color
+blood_diff <- exp2_df %>%
+  filter(dimension=='blood')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+# effect for DNA bases
+DNA_diff <- exp2_df %>%
+  filter(dimension=='DNA')%>%
+  group_by(subj_id) %>%
+  summarise(diff=conscPos-conscNeg);
+
+```
+
+Participants reported the degree to which they believed the different alien species were conscious, on a scale of 1 to 100. Overall, consciousness ratings were high, with a distinctive peak at the maximum rating of 100 (mean rating = `r printnum(exp2.long_df$consc%>%mean())`). Feature-positive species were perceived as substantially more conscious than feature-negative species (`r apa_print(t.test(exp2.main_diff$diff))$full_result`). This difference in consciousness ratings was significant for all features except for the number of limbs. These effects survived a Bonferroni correction, except for the effect for blood colour.
+
+```{r consciousness_plot2, echo=FALSE, cache=TRUE, fig.env="figure", fig.pos = "H", fig.align = "center", fig.cap = "Consciousness ratings for the eight species pairs in Experiment 1. Participants attributed more consciousness to feature-positive aliens. "}
+
+exp1.long_summary = exp1.long_df%>%
+  group_by(dimension, species) %>%
+  summarise(sem = se(consc, na.rm=TRUE),
+            sd = sd(consc, na.rm=TRUE),
+            consc=mean(consc))
+
+p1<- ggplot(exp1.long_summary, aes(x=dimension, y=consc, fill=species)) + 
+  geom_bar(stat="identity", color="black", 
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=consc-sem, ymax=consc+sem), width=.2,
+                 position=position_dodge(.9))+labs(title="Consciousness ratings for Exp. 1", x="Dimension", y = "Consciousness Rating")+
+   theme_classic() +theme( plot.margin=margin(t = 0, r = 0, b = 0, l = 0, unit = "pt"))+
+   scale_fill_manual(values=c('#999999','#E69F00'))
+
+exp2.long_summary = exp2.long_df%>%
+  group_by(dimension, species) %>%
+  summarise(sem = se(consc, na.rm=TRUE),
+            sd = sd(consc, na.rm=TRUE),
+            consc=mean(consc))
+
+
+p2<- ggplot(exp2.long_summary, aes(x=dimension, y=consc, fill=species)) + 
+  geom_bar(stat="identity", color="black", 
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=consc-sem, ymax=consc+sem), width=.2,
+                 position=position_dodge(.9))+labs(title="Consciousness ratings for Exp. 2", x="Feature", y = "Consciousness Rating")+
+   theme_classic() +theme( plot.margin=margin(t = 0, r = 0, b = 0, l = 0, unit = "pt"))+
+   scale_fill_manual(values=c('#999999','#01A3E6'))
+
+p<- ggarrange(p1, p2, 
+          ncol = 1, nrow = 2)
+
+ggsave('figs/conscplot.png',p, width=8, height=5.5);
+
+img <- png::readPNG('figs/conscplot.png')
+grid::grid.raster(img)
+
+```
+
+## Moral judgments
+```{r mwj2, echo=FALSE, cache=TRUE}
+exp2.mwj_df <- exp2_df %>%
+  select('chain_number',
+         'participant_number',
+         'subj_id',
+         'dimension',
+         'mwj',
+         'numNeg',
+         'consc_diff');
+
+exp2.mwj_101_participant <- mwj_df %>%
+  filter(participant_number==100) %>%
+  mutate(
+    participant_number=101,
+    subj_id='nan',
+    numNeg = ifelse(mwj=='pos',
+                    numNeg+1,
+                    numNeg-1)
+  )
+
+exp2.mwj_df <- bind_rows(exp2.mwj_df, 
+                         exp2.mwj_101_participant);
+
+# average N- at the end of the chain
+exp2.end_of_chain <- exp2.mwj_df %>%
+  filter(participant_number>10) %>% 
+  dplyr::group_by(dimension) %>%
+  dplyr::summarise(numNeg=mean(numNeg))%>%
+  spread(dimension,numNeg)
+
+# average N- at the end of the chain
+exp2.end_of_chain_by_chain <- exp2.mwj_df %>%
+  filter(participant_number>10) %>% 
+  dplyr::group_by(dimension, chain_number) %>%
+  dplyr::summarise(numNeg=mean(numNeg))%>%
+  spread(dimension,numNeg)
+```
+
+
+Similar to experiment 1, participants decided whether they would rather save aliens from the feature-negative or the feature-positive species. Here also, the number of feature-positive aliens ($N^+$) was always set to 10, and the number of feature-negative aliens ($N^-$) followed the moral judgments of previous participants. Longer chains allowed us to estimate the conversion rate between feature-positive and feature-negative aliens for each of our eight features. We discarded the first 10 $N^-$ values as a burn-in period, and took the mean of the remaining 101 values as our estimate for $N^-$. Generally, we observed high levels of agreement between the two chains (see Fig. 3). One exception was mirror recognition, with mean $N^-$ of `r printnum(exp2.end_of_chain_by_chain$mirror[1])` and `r printnum(exp2.end_of_chain_by_chain$mirror[2])` for chains number 1 and 2. 
+
+In line with the results from Experiment 1, $N^-$ was highest for discrimination learning (`r printnum(exp2.end_of_chain$discrimination)`) and trace conditioning (`r printnum(exp2.end_of_chain$trace)`), both operationalizations of the phenomenal richness dimension from Exp. 1. In other words, participants valued the lives of aliens who showed signs of visual phenomenal richness about 1.5 more than the lives of aliens who did not show these signs. Next, mirror self-recognition had moral value ($N^-=$ `r printnum(exp2.end_of_chain$mirror)`, but see above comment about convergence), whereas the capacity to deceive others, also a sign of self-awareness, had a neutral moral value ($N^-=$ `r printnum(exp2.end_of_chain$deception)`). This was the case even though participants saw it as a reliable sign of consciousness (mean difference in consciousness ratings for deceivers and non-deceivers: `r apa_print(t.test(deception_diff$diff))$estimate`). Participants also valued more the lives of aliens whose DNA was composed of the same DNA bases as human DNA ($N^-=$ `r printnum(exp2.end_of_chain$DNA)`). Finally, eye configuration ($N^-=$ `r printnum(exp2.end_of_chain$eyes)`), the colour of the blood ($N^-=$ `r printnum(exp2.end_of_chain$blood)`), and the number of limbs ($N^-=$ `r printnum(exp2.end_of_chain$limbs)`), all had only small to negligible effects on moral judgments.
+
+```{r mwjplot2, echo=FALSE, cache=TRUE, fig.env="figure", fig.pos = "H", fig.align = "center", fig.cap = "Distributions of N- values for the two MCMC chains (red and blue). All features but mirror-recognition showed high levels of convergence between the two chains."}
+
+p <- ggplot(exp2.mwj_df %>%
+              filter(participant_number>10) %>%
+              mutate(chain_number=factor(chain_number)),
+            aes(x=numNeg, fill=chain_number)) + 
+  geom_density(alpha=.3) +
+  theme(axis.ticks.y=element_blank(), axis.text.y=element_blank()) +
+  facet_grid(dimension ~ ., switch = "y") + 
+  geom_vline(xintercept = 10) +
+  labs(title="MCMC Distributions of N- values, Exp. 2",
+       y="Feature", 
+       x = "Number of feature-negative aliens") +
+  theme_classic() +
+  theme(axis.ticks.y=element_blank(), 
+        axis.text.y=element_blank(),
+        legend.position = "none",
+        strip.text.y.left = element_text(angle = 0));
+
+ggsave('figs/exp2Chains.png',p,width=6, height=6);
+
+img <- png::readPNG('figs/exp2Chains.png')
+grid::grid.raster(img)
+```
+
+```{r relation2, echo=FALSE, cache=TRUE}
+exp2.relation_df <- exp2.mwj_df %>% 
+  group_by(dimension) %>%
+  summarise(consc_diff=mean(consc_diff), 
+            numNeg=mean(numNeg[participant_number>10]))
+```
+
+## The relation between moral judgments and consciousness ratings
+
+Consciousness ratings were strongly aligned with $N^-$ across features (see Fig. 4). This alignment is remarkable, as consciousness ratings were reported on a 1-100 scale by individual participants, while $N^-$ was extracted from binary decisions of many participants.  Similar to Experiment 1, this linear alignment held for all features except for the selfhood-related ones: mirror self-recognition and capacity for deception. Finally, in agreement with our results from Experiment 1, participants that chose to save aliens that were more biologically similar to humans (operationalized as blood color, or DNA building blocks), also perceived these aliens to be more consciousness (blood: `r apa_print(t.test(consc_diff~mwj, exp2.mwj_df%>%filter(dimension=='blood')))$full_result`, DNA: `r apa_print(t.test(consc_diff~mwj, exp2.mwj_df%>%filter(dimension=='DNA')))$full_result`), suggesting that the effect of biological similarity to humans on moral status was tightly linked, and potentially causally mediated by beliefs about consciousness.   
+
+```{r relation_scatter, echo=FALSE, cache=TRUE, fig.env="figure", fig.pos = "H", fig.align = "center", fig.cap = "Association between moral status judgments and consciousness attribution for our 8 dimensions of Experiment 1 (red) and the 8 features of Experiment 2 (cyan). Self-related attributes were shifted from the diagonal, with a strong effect on consciousness ratings that did not translate to a strong effect on moral decision making." }
+
+relation_df <- do.call(
+  rbind, 
+  lapply(c('exp1.relation_df','exp2.relation_df'), 
+         function(x){data.frame(id=x, eval(parse(text=x)))}))
+
+p <- ggplot(relation_df,aes(x=consc_diff,y=numNeg, colour=id)) +
+  geom_text(aes(label=dimension), hjust=0.3, vjust=-0.1)+
+  labs(x="Difference in consciousness ratings", 
+       y = "Number of feature negative aliens") +
+  theme_classic() +
+  theme(legend.position = "none")
+
+ggsave('figs/scatter.png',p, width=5, height=5);
+
+img <- png::readPNG('figs/scatter.png')
+grid::grid.raster(img)
+```
+
+# Dicussion
+
+In two experiments, participants made moral judgments about the life and death of imaginary aliens. Using imaginary aliens allowed us to experimentally manipulate beliefs about abstract dimensions (Experiment 1) or specific features (Experiment 2), and measure their causal effect on moral decision making and beliefs about conscious experience. Both consciousness ratings and moral decisions were sensitive to our manipulation. Specifically, consciousness ratings were affected more by our five dimensions of consciousness [phenomenal and evaluative richness, unity, temporality, and selfhood, based on a taxonomy by @birch2020dimensions] than by physical attributes such as biological or visual similarity to humans. Furthermore, we found that dimensions of conscious experience had a substantial effect on participants' moral decisions. One exception was selfhood and its constituent operationalizations mirror self recognition and capacity for deception, which had only weak effects on moral judgments albeit having strong effects on consciousness ratings.   
+
+Previous work has established a strong relation between moral decision making and the ascription of mental attributes such as intelligence, experience, or agency. For example, beliefs about capacity to experience were associated with a desire to avoid harm [@gray2007dimensions]. Similarly, being told that an animal or an alien is more intelligent made participants more likely to report that it was not OK to eat them [@piazza2016meat], and this association between perceived intelligence and moral worth was apparent already in young children [@wilks2020children]. We build and extend on these findings in two ways. First, adopting a fine-grained taxonomy of dimensions of conscious experience [@birch2020dimensions] revealed different effects for different dimensions on moral status. Second, Experiment 2 provided evidence for that people extract information about conscious experience from behavioural findings, similar to the interpretation of behavioural findings by comparative psychologists, and that they use this information to guide their moral decision making. This second finding is especially important in light of the debates over the moral significance of functional versus phenomenal aspects of consciousness [@carruthers2019human; @levy2014value; @danaher2020welcoming]. 
+
+In both experiments we found a strong alignment between consciousness ratings and moral status, with the single exception of selfhood and its contituent operationalizations, which contributed to consciousness ratings much more than to moral status (see Fig. 4). While we are not aware of any study that directly examined the effects of perceived self awareness on moral status, the idea that moral worth is based on self-awareness dates back at least to Emmanuel Kant -@kant1785moral. In a striking contrast with this notion, here we find that beliefs about lower-level aspects of consciousness such as visual awareness and working memory are much more influential in moral decision-making than beliefs about selfhood, more in line with the utilitarian views of Mill -@bentham1789utilitarian and Bentham -@mill1861utilitarianism, and more recently with the the view of @shepherd2018consciousness. 
+
+
+<!-- The observed correlation between consciousness ratings and moral worth judgments may mean that beliefs about consciousness affect moral worth, but it may also indicate a causal effect in the opposite direction. For example, participants may be less inclined to ascribe consciousness to an alien species that they just decided to kill [similar to how participants underestimate the intelligence of animals that are used for food; @piazza2015rationalizing; @piazza2016meat]. Further research is needed to substantiate a causal effect.  -->
+
+# Acknowledgements
+
+# References 
+
+```{r}
+# References will be generated automatically by Pandoc and included here.
+# The following code is some latex to format the bibliography. Do not remove it.
+```
+
+\setlength{\parindent}{-0.1in} 
+\setlength{\leftskip}{0.125in}
+\noindent

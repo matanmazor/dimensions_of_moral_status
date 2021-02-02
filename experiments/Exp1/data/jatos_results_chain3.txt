@@ -1,0 +1,243 @@
+Consent given.
+Consent given.
+"success","trial_type","trial_index","time_elapsed","internal_node_id","STUDY_ID","PROLIFIC_PID","SESSION_ID","followed_instructions","view_history","rt","mwj","conscPos","conscNeg","description","numNeg","participant_number","chain_number","dimension","responses"
+"true","fullscreen","0","3220","0.0-0.0","60117ba9a3924707b065381e","5fde1acf0f62f44eb7affd64","6011ea1494c45f1d9f8112ca","","","","","","","","","","","",""
+"","instructions","1","37420","0.0-1.0","60117ba9a3924707b065381e","5fde1acf0f62f44eb7affd64","6011ea1494c45f1d9f8112ca","","[{""page_index"":0,""viewing_time"":15437.35000002198},{""page_index"":1,""viewing_time"":1847.4050000077114},{""page_index"":2,""viewing_time"":15338.449999922886},{""page_index"":3,""viewing_time"":1574.360000086017}]","34197.82999996096","","","","","","","","",""
+"","html-moral-worth-slides-trial","2","196971","0.0-2.0-0.0","60117ba9a3924707b065381e","5fde1acf0f62f44eb7affd64","6011ea1494c45f1d9f8112ca","","","","pos","100","19","Chups are...
+      more self-aware as they will attempt to wipe remove dirt from themselves or hide themselves if they are caught stealing food. They seem to care a lot about what others think of their appearance and behaviour.","11","10","3","self",""
+"","html-moral-worth-slides-trial","3","297379","0.0-2.0-0.1","60117ba9a3924707b065381e","5fde1acf0f62f44eb7affd64","6011ea1494c45f1d9f8112ca","","","","neg","50","50","Geks are...
+     very similar to humans as they have the same bases that make up human DNA and also have red blood.","17","10","3","biology",""
+"","html-moral-worth-slides-trial","4","411495","0.0-2.0-0.2","60117ba9a3924707b065381e","5fde1acf0f62f44eb7affd64","6011ea1494c45f1d9f8112ca","","","","neg","39","65","Zags are...
+      more logical in their thinking but may make rash decisions due to a lack of patience.","15","10","3","time",""
+"","html-moral-worth-slides-trial","5","473072","0.0-2.0-0.3","60117ba9a3924707b065381e","5fde1acf0f62f44eb7affd64","6011ea1494c45f1d9f8112ca","","","","neg","49","49","Toffs are...
+      more physically resembling human appearance with two aligned eyes and two limbs for arms.","11","10","3","appearance",""
+"","html-moral-worth-slides-trial","6","582967","0.0-2.0-0.4","60117ba9a3924707b065381e","5fde1acf0f62f44eb7affd64","6011ea1494c45f1d9f8112ca","","","","pos","100","94","Huls are...
+      slightly more intelligent than Leems and have the ability to think quicker and effectively at a higher performance.","15","10","3","pRichness",""
+"","html-moral-worth-slides-trial","7","747491","0.0-2.0-0.5","60117ba9a3924707b065381e","5fde1acf0f62f44eb7affd64","6011ea1494c45f1d9f8112ca","","","","pos","82","62","Shuks are...
+      more likely to shy away from their own emotions but are able to cope with lower temperatures for berries.","11","10","3","eRichness",""
+"","html-moral-worth-slides-trial","8","846952","0.0-2.0-0.6","60117ba9a3924707b065381e","5fde1acf0f62f44eb7affd64","6011ea1494c45f1d9f8112ca","","","","pos","100","55","Pods are...
+      very intelligent and able to pick up different senses effectively from very minimal interaction or vision of objects beforehand.","11","10","3","unity",""
+"","html-moral-worth-slides-trial","9","907557","0.0-2.0-0.7","60117ba9a3924707b065381e","5fde1acf0f62f44eb7affd64","6011ea1494c45f1d9f8112ca","","","","neg","51","51","Fiks are...
+      hugely taller and heavier.","11","10","3","size",""
+"","survey-text","10","977776","0.0-3.0","60117ba9a3924707b065381e","5fde1acf0f62f44eb7affd64","6011ea1494c45f1d9f8112ca","","","70214.38000001945","","","","","","","","","{""worker_comments"":""It is difficult to make a decision on which alien should live or die just based on simple characteristics or very little differences. Therefore, people may feel inclined to choose the higher number to survive.""}"
+"true","fullscreen","11","978778","0.0-4.0","60117ba9a3924707b065381e","5fde1acf0f62f44eb7affd64","6011ea1494c45f1d9f8112ca","","","","","","","","","","","",""
+
+Consent given.
+Consent given.
+"success","trial_type","trial_index","time_elapsed","internal_node_id","STUDY_ID","PROLIFIC_PID","SESSION_ID","followed_instructions","view_history","rt","mwj","conscPos","conscNeg","description","numNeg","participant_number","chain_number","dimension","responses"
+"true","fullscreen","0","2922","0.0-0.0","60117ba9a3924707b065381e","5e399832a6df461b2f4db341","6011e1d0dff6371cbca806e1","","","","","","","","","","","",""
+"","instructions","1","129289","0.0-1.0","60117ba9a3924707b065381e","5e399832a6df461b2f4db341","6011e1d0dff6371cbca806e1","","[{""page_index"":0,""viewing_time"":3677.000000000001},{""page_index"":1,""viewing_time"":2210.7999999999984},{""page_index"":2,""viewing_time"":118411.90000000001},{""page_index"":3,""viewing_time"":2070.2000000000116}]","126370.70000000001","","","","","","","","",""
+"","html-moral-worth-slides-trial","2","261020","0.0-2.0-0.0","60117ba9a3924707b065381e","5e399832a6df461b2f4db341","6011e1d0dff6371cbca806e1","","","","pos","100","93","Norps are...
+      much taller than Xons (120 cm compared to 1cm) as well as being heavier (45kg compared to 1 gram)","10","9","3","size",""
+"","html-moral-worth-slides-trial","3","486914","0.0-2.0-0.1","60117ba9a3924707b065381e","5e399832a6df461b2f4db341","6011e1d0dff6371cbca806e1","","","","pos","100","100","Zags are...
+      able to experience both good and bad moods, but look away from the face when in a bad mood, unlike Yubs who look at the face regardless of mood. Zags dislike the cold and leave the room at 12 degrees in the unsweet condition but at 8 degrees in the sweet berry condition, compared with Yubs who leave the room at 12 degrees regardless of sweetness. ","10","9","3","eRichness",""
+"","html-moral-worth-slides-trial","4","641725","0.0-2.0-0.2","60117ba9a3924707b065381e","5e399832a6df461b2f4db341","6011e1d0dff6371cbca806e1","","","","pos","100","100","Fiks are...
+      able to recognise fruit by touch even if they haven't touched it before, whereas Rubs can only recognise it if they have touched it before. Fiks also make a squeak sound when seeing a flower with both the trained and untrained eye, whereas Rubs only respond when it is seen by the trained left eye.","10","9","3","unity",""
+"","html-moral-worth-slides-trial","5","705295","0.0-2.0-0.3","60117ba9a3924707b065381e","5e399832a6df461b2f4db341","6011e1d0dff6371cbca806e1","","","","pos","100","100","Pods are...
+      2 limbed creatures with left and right eyes, whereas Vems have 5 limbs and eyes one on top of the other.","10","9","3","appearance",""
+"","html-moral-worth-slides-trial","6","821746","0.0-2.0-0.4","60117ba9a3924707b065381e","5e399832a6df461b2f4db341","6011e1d0dff6371cbca806e1","","","","pos","100","100","Geks are...
+      able to self-recognise, they like to stay clean and will wipe away flecks of dirt they see in the mirror. Huls also like to be clean but dont recognise themselves in the mirror, evidences by their lack of recognition to seeing dirt on themselves in the mirror. Both live in small groups and sometimes steal from their neighbours, Geks try to hide but Huls dont. ","10","9","3","self",""
+"","html-moral-worth-slides-trial","7","1003002","0.0-2.0-0.5","60117ba9a3924707b065381e","5e399832a6df461b2f4db341","6011e1d0dff6371cbca806e1","","","","pos","100","100","Dobs are...
+      able to understand that they need the triangle key to open the box and access the berries, whereas Chups dont show a preference for selecting the triangle key. When given unripe fruit the Dobs do not immediately eat them, instead they wait, whereas in the same situation the Chups would eat the fruit immediately. ","14","9","3","time",""
+"","html-moral-worth-slides-trial","8","1062663","0.0-2.0-0.6","60117ba9a3924707b065381e","5e399832a6df461b2f4db341","6011e1d0dff6371cbca806e1","","","","pos","100","100","Leems are...
+      made up of the same DNA as humans, whereas Shuks aren't. Leems also bleed red, whereas Shuks bleed yellow. ","16","9","3","biology",""
+"","html-moral-worth-slides-trial","9","1150005","0.0-2.0-0.7","60117ba9a3924707b065381e","5e399832a6df461b2f4db341","6011e1d0dff6371cbca806e1","","","","pos","100","100","Elms are...
+      able to discriminate between very similar object, unlike Toffs. Elms are able to make an associate between the light and the treat even with a delay, unlike Toffs who could only associate with no time delay. ","14","9","3","pRichness",""
+"","survey-text","10","1200019","0.0-3.0","60117ba9a3924707b065381e","5e399832a6df461b2f4db341","6011e1d0dff6371cbca806e1","","","50007.30000000005","","","","","","","","","{""worker_comments"":""Nothing really stands out, other than the fact that I was basing my decisions off of which type I considered more intelligent.""}"
+"true","fullscreen","11","1201021","0.0-4.0","60117ba9a3924707b065381e","5e399832a6df461b2f4db341","6011e1d0dff6371cbca806e1","","","","","","","","","","","",""
+
+Consent given.
+Consent given.
+"success","trial_type","trial_index","time_elapsed","internal_node_id","STUDY_ID","PROLIFIC_PID","SESSION_ID","followed_instructions","view_history","rt","mwj","conscPos","conscNeg","description","numNeg","participant_number","chain_number","dimension","responses"
+"true","fullscreen","0","3431","0.0-0.0","60117ba9a3924707b065381e","5f6c9e7e9d4078069e0d5e08","6011c44f323c7416fedb743d","","","","","","","","","","","",""
+"","instructions","1","36447","0.0-1.0","60117ba9a3924707b065381e","5f6c9e7e9d4078069e0d5e08","6011c44f323c7416fedb743d","","[{""page_index"":0,""viewing_time"":4465.224999992643},{""page_index"":1,""viewing_time"":2025.870000012219},{""page_index"":2,""viewing_time"":25289.82999996515},{""page_index"":3,""viewing_time"":1233.9950000168756}]","33015.98999998532","","","","","","","","",""
+"","html-moral-worth-slides-trial","2","136452","0.0-2.0-0.0","60117ba9a3924707b065381e","5f6c9e7e9d4078069e0d5e08","6011c44f323c7416fedb743d","","","","pos","97","75","Shuks are more able than Rubs to make plans for for the future
+      ","13","8","3","time",""
+"","html-moral-worth-slides-trial","3","244086","0.0-2.0-0.1","60117ba9a3924707b065381e","5f6c9e7e9d4078069e0d5e08","6011c44f323c7416fedb743d","","","","pos","100","100","Huls are more able than Chups to make decisions based on what they like and dislike
+      ","9","8","3","eRichness",""
+"","html-moral-worth-slides-trial","4","324636","0.0-2.0-0.2","60117ba9a3924707b065381e","5f6c9e7e9d4078069e0d5e08","6011c44f323c7416fedb743d","","","","neg","50","50","Leems are have right and left eyes and two humanoid type arms; Zags have two eyes one above the other, and five arms
+      ","11","8","3","appearance",""
+"","html-moral-worth-slides-trial","5","395921","0.0-2.0-0.3","60117ba9a3924707b065381e","5f6c9e7e9d4078069e0d5e08","6011c44f323c7416fedb743d","","","","pos","100","92","Norps are able to recognise themselves in a mirror, and also a figurative mirror (recognising behaviour). Elms cannot. 
+      ","9","8","3","self",""
+"","html-moral-worth-slides-trial","6","455463","0.0-2.0-0.4","60117ba9a3924707b065381e","5f6c9e7e9d4078069e0d5e08","6011c44f323c7416fedb743d","","","","neg","50","50","Yubs are much taller and heavier than Toffs
+      ","11","8","3","size",""
+"","html-moral-worth-slides-trial","7","563669","0.0-2.0-0.5","60117ba9a3924707b065381e","5f6c9e7e9d4078069e0d5e08","6011c44f323c7416fedb743d","","","","neg","89","89","Fiks are more able to recognise and integrate stimulus to different senses
+      ","11","8","3","unity",""
+"","html-moral-worth-slides-trial","8","636059","0.0-2.0-0.6","60117ba9a3924707b065381e","5f6c9e7e9d4078069e0d5e08","6011c44f323c7416fedb743d","","","","neg","100","98","Pods are able to recognise even subtle differences between similar objects, and to make connections between events, even if the time varies. Geks cannot. 
+      ","15","8","3","pRichness",""
+"","html-moral-worth-slides-trial","9","700521","0.0-2.0-0.7","60117ba9a3924707b065381e","5f6c9e7e9d4078069e0d5e08","6011c44f323c7416fedb743d","","","","neg","50","50","Dobs are more similar to humans; their DNA is made up of the same four components and their blood is red. This is not true for Xons. 
+      ","17","8","3","biology",""
+"","survey-text","10","703873","0.0-3.0","60117ba9a3924707b065381e","5f6c9e7e9d4078069e0d5e08","6011c44f323c7416fedb743d","","","3348.6699999775738","","","","","","","","","{""worker_comments"":""""}"
+"true","fullscreen","11","704879","0.0-4.0","60117ba9a3924707b065381e","5f6c9e7e9d4078069e0d5e08","6011c44f323c7416fedb743d","","","","","","","","","","","",""
+
+Consent given.
+Consent given.
+"success","trial_type","trial_index","time_elapsed","internal_node_id","STUDY_ID","PROLIFIC_PID","SESSION_ID","followed_instructions","view_history","rt","mwj","conscPos","conscNeg","description","numNeg","participant_number","chain_number","dimension","responses"
+"true","fullscreen","0","3088","0.0-0.0","60117ba9a3924707b065381e","5e827e743fc2bd0f3dcfc34d","6011bb1f917c7515256fe4ea","","","","","","","","","","","",""
+"","instructions","1","63596","0.0-1.0","60117ba9a3924707b065381e","5e827e743fc2bd0f3dcfc34d","6011bb1f917c7515256fe4ea","","[{""page_index"":0,""viewing_time"":4253.8799999747425},{""page_index"":1,""viewing_time"":4982.30000003241},{""page_index"":2,""viewing_time"":49259.82000003569},{""page_index"":3,""viewing_time"":2008.1050000153482}]","60505.114999832585","","","","","","","","",""
+"","html-moral-worth-slides-trial","2","1121537","0.0-2.0-0.0","60117ba9a3924707b065381e","5e827e743fc2bd0f3dcfc34d","6011bb1f917c7515256fe4ea","","","","pos","82","50","Elms are...
+will mostly follow instructions or familiar steps. They also like to wait until their fruits are ripe to indulge","12","7","3","time",""
+"","html-moral-worth-slides-trial","3","1398151","0.0-2.0-0.1","60117ba9a3924707b065381e","5e827e743fc2bd0f3dcfc34d","6011bb1f917c7515256fe4ea","","","","pos","88","48","Fiks are...
+able to comprehend rules when given a task.They don't just rush to do something. they think before they act","14","7","3","pRichness",""
+"","html-moral-worth-slides-trial","4","1496757","0.0-2.0-0.2","60117ba9a3924707b065381e","5e827e743fc2bd0f3dcfc34d","6011bb1f917c7515256fe4ea","","","","pos","51","50","Rubs are...
+      they have different body types specifically with their eyes and arms","10","7","3","appearance",""
+"","html-moral-worth-slides-trial","5","1879673","0.0-2.0-0.3","60117ba9a3924707b065381e","5e827e743fc2bd0f3dcfc34d","6011bb1f917c7515256fe4ea","","","","pos","56","50","Yubs are...
+      enhanced in having photographic memory. they have a special skill","10","7","3","unity",""
+"","html-moral-worth-slides-trial","6","1949416","0.0-2.0-0.4","60117ba9a3924707b065381e","5e827e743fc2bd0f3dcfc34d","6011bb1f917c7515256fe4ea","","","","pos","83","10","Dobs are...
+      OCD AND FEEL GUILTY WHEN THEY ARE CAUGHT DOING SOMETHING WRONG","8","7","3","self",""
+"","html-moral-worth-slides-trial","7","2013450","0.0-2.0-0.5","60117ba9a3924707b065381e","5e827e743fc2bd0f3dcfc34d","6011bb1f917c7515256fe4ea","","","","pos","46","47","Shuks are... VERY EMPTHATIC. THEY HAVE A RANGE OF EMOTIONS.
+      ","8","7","3","eRichness",""
+"","html-moral-worth-slides-trial","8","2065788","0.0-2.0-0.6","60117ba9a3924707b065381e","5e827e743fc2bd0f3dcfc34d","6011bb1f917c7515256fe4ea","","","","pos","54","50","Vems are...
+      HAVE A DIFFERENT COLOR OF BLOOD AND THEY ALSO HSVE HUMAN GENETIC MAKUP","16","7","3","biology",""
+"","html-moral-worth-slides-trial","9","2106188","0.0-2.0-0.7","60117ba9a3924707b065381e","5e827e743fc2bd0f3dcfc34d","6011bb1f917c7515256fe4ea","","","","neg","57","57","Xons are... TALLER AND HEAVIER IN WEIGHT AND HEIGHT
+      ","12","7","3","size",""
+"","survey-text","10","2114315","0.0-3.0","60117ba9a3924707b065381e","5e827e743fc2bd0f3dcfc34d","6011bb1f917c7515256fe4ea","","","8111.7599999997765","","","","","","","","","{""worker_comments"":""""}"
+"true","fullscreen","11","2115320","0.0-4.0","60117ba9a3924707b065381e","5e827e743fc2bd0f3dcfc34d","6011bb1f917c7515256fe4ea","","","","","","","","","","","",""
+
+Consent given.
+Consent given.
+"success","trial_type","trial_index","time_elapsed","internal_node_id","STUDY_ID","PROLIFIC_PID","SESSION_ID","followed_instructions","view_history","rt","mwj","conscPos","conscNeg","description","numNeg","participant_number","chain_number","dimension","responses"
+"true","fullscreen","0","3447","0.0-0.0","60117ba9a3924707b065381e","58556f5f71a3ef0001cc94f1","6011b3aa0d30e713402ad7e6","","","","","","","","","","","",""
+"","instructions","1","41228","0.0-1.0","60117ba9a3924707b065381e","58556f5f71a3ef0001cc94f1","6011b3aa0d30e713402ad7e6","","[{""page_index"":0,""viewing_time"":2525.415000040084},{""page_index"":1,""viewing_time"":2677.54999990575},{""page_index"":2,""viewing_time"":29984.1599999927},{""page_index"":3,""viewing_time"":2591.0199999343604}]","37779.57500005141","","","","","","","","",""
+"","html-moral-worth-slides-trial","2","154840","0.0-2.0-0.0","60117ba9a3924707b065381e","58556f5f71a3ef0001cc94f1","6011b3aa0d30e713402ad7e6","","","","pos","100","100","Dobs are...
+      Dobs red veins. Vems are yellow.Dob genes are made up of the same four bases that make up human DNA, ACTG.
+The genes of Vems are made up of bases that bear no chemical resemblance to human DNA.","15","6","3","biology",""
+"","html-moral-worth-slides-trial","3","438706","0.0-2.0-0.1","60117ba9a3924707b065381e","58556f5f71a3ef0001cc94f1","6011b3aa0d30e713402ad7e6","","","","pos","100","100","Huls are... able to see the space berries through the glass and understand why they needed a certain key. Fiks did not understand that a triangular key was needed.
+Huls also prefer the larger, sweeter space berries like Fiks but Fiks do not save them for later like Huls","11","6","3","time",""
+"","html-moral-worth-slides-trial","4","752643","0.0-2.0-0.2","60117ba9a3924707b065381e","58556f5f71a3ef0001cc94f1","6011b3aa0d30e713402ad7e6","","","","pos","100","100","Xons are... able to learn simple rules and differentiate between very similar objects. Rubs are also able to do this but cannot differentiate between similar objects. Xions could differentiate between light and treat in all circumstances but Rubs were only able to do this when it was given straight away. 
+      ","13","6","3","pRichness",""
+"","html-moral-worth-slides-trial","5","864770","0.0-2.0-0.3","60117ba9a3924707b065381e","58556f5f71a3ef0001cc94f1","6011b3aa0d30e713402ad7e6","","","","pos","100","100","Zags are... clean and remove dirt when they see it. Geks are clean but they tend to ignore the fleck of dirt on the mirror. Zags live in groups and steal neighbour's food, but hide when they do so, Geks do the same but don't try and hide.
+    ","7","6","3","self",""
+"","html-moral-worth-slides-trial","6","959510","0.0-2.0-0.4","60117ba9a3924707b065381e","58556f5f71a3ef0001cc94f1","6011b3aa0d30e713402ad7e6","","","","neg","100","100","Elms are... physically different from Toffs in that they have left and right eyes, where as Toffs have one above the other, unlike next to each other. Elms have 2 limbs, Toffs have 5.
+      ","11","6","3","appearance",""
+"","html-moral-worth-slides-trial","7","1106985","0.0-2.0-0.5","60117ba9a3924707b065381e","58556f5f71a3ef0001cc94f1","6011b3aa0d30e713402ad7e6","","","","pos","100","100","Yubs are... able to recognise fruit through touch. Chups aren't able to do this unless they have touched it before. Yubs are able to be trained to react to a photo of something but Chups can only recognise it through their left eye.
+       ","9","6","3","unity",""
+"","html-moral-worth-slides-trial","8","1518035","0.0-2.0-0.6","60117ba9a3924707b065381e","58556f5f71a3ef0001cc94f1","6011b3aa0d30e713402ad7e6","","","","pos","100","100","Pods are... able to recognise emotions in faces but look away from the faces when in a bad mood. Norps also do but don't look away regardless of mood. Pods don't like cold weather and unsweet berries, Norps don't either but don't leave the room because of it.
+      ","7","6","3","eRichness",""
+"","html-moral-worth-slides-trial","9","1616456","0.0-2.0-0.7","60117ba9a3924707b065381e","58556f5f71a3ef0001cc94f1","6011b3aa0d30e713402ad7e6","","","","pos","100","100","Shuks are... heavier and taller than Leems
+      ","11","6","3","size",""
+"","survey-text","10","1638432","0.0-3.0","60117ba9a3924707b065381e","58556f5f71a3ef0001cc94f1","6011b3aa0d30e713402ad7e6","","","21968.055000063032","","","","","","","","","{""worker_comments"":""Sometimes I would judge which one I saved depending on how human they were.""}"
+"true","fullscreen","11","1639439","0.0-4.0","60117ba9a3924707b065381e","58556f5f71a3ef0001cc94f1","6011b3aa0d30e713402ad7e6","","","","","","","","","","","",""
+
+Consent given.
+Consent given.
+"success","trial_type","trial_index","time_elapsed","internal_node_id","STUDY_ID","PROLIFIC_PID","SESSION_ID","followed_instructions","view_history","rt","mwj","conscPos","conscNeg","description","numNeg","participant_number","chain_number","dimension","responses"
+"true","fullscreen","0","2861","0.0-0.0","60117ba9a3924707b065381e","5d51f0cd8c48ca0001855d35","60119ad38837400e2aa5c252","","","","","","","","","","","",""
+"","instructions","1","78583","0.0-1.0","60117ba9a3924707b065381e","5d51f0cd8c48ca0001855d35","60119ad38837400e2aa5c252","","[{""page_index"":0,""viewing_time"":2895},{""page_index"":1,""viewing_time"":3807},{""page_index"":2,""viewing_time"":66580},{""page_index"":3,""viewing_time"":2436}]","75719","","","","","","","","",""
+"","html-moral-worth-slides-trial","2","152115","0.0-2.0-0.0","60117ba9a3924707b065381e","5d51f0cd8c48ca0001855d35","60119ad38837400e2aa5c252","","","","pos","80","78","Chups are...
+      taller than vems and weigh more.","10","5","3","size",""
+"","html-moral-worth-slides-trial","3","248137","0.0-2.0-0.1","60117ba9a3924707b065381e","5d51f0cd8c48ca0001855d35","60119ad38837400e2aa5c252","","","","neg","77","55","Geks are...
+      less mobile than huls as they have less legs.","12","5","3","appearance",""
+"","html-moral-worth-slides-trial","4","345673","0.0-2.0-0.2","60117ba9a3924707b065381e","5d51f0cd8c48ca0001855d35","60119ad38837400e2aa5c252","","","","neg","100","38","Rubs are...
+      more self-conscious than Elms and feel more guilt.","8","5","3","self",""
+"","html-moral-worth-slides-trial","5","457521","0.0-2.0-0.3","60117ba9a3924707b065381e","5d51f0cd8c48ca0001855d35","60119ad38837400e2aa5c252","","","","pos","88","45","Xons are...smarter than Leems and more intellectual.
+      ","8","5","3","unity",""
+"","html-moral-worth-slides-trial","6","509759","0.0-2.0-0.4","60117ba9a3924707b065381e","5d51f0cd8c48ca0001855d35","60119ad38837400e2aa5c252","","","","pos","88","50","Pods are...more human-like than Shuks.
+      ","14","5","3","biology",""
+"","html-moral-worth-slides-trial","7","644393","0.0-2.0-0.5","60117ba9a3924707b065381e","5d51f0cd8c48ca0001855d35","60119ad38837400e2aa5c252","","","","neg","59","85","Yubs are...
+      less resistant than Zags.","8","5","3","eRichness",""
+"","html-moral-worth-slides-trial","8","804696","0.0-2.0-0.6","60117ba9a3924707b065381e","5d51f0cd8c48ca0001855d35","60119ad38837400e2aa5c252","","","","neg","55","55","Dobs are...
+      more similar to humans when it comes to reasoning tasks.","12","5","3","time",""
+"","html-moral-worth-slides-trial","9","913561","0.0-2.0-0.7","60117ba9a3924707b065381e","5d51f0cd8c48ca0001855d35","60119ad38837400e2aa5c252","","","","pos","80","47","Toffs are...
+      able to discriminate between things/objects more than Fiks.","12","5","3","pRichness",""
+"","survey-text","10","926453","0.0-3.0","60117ba9a3924707b065381e","5d51f0cd8c48ca0001855d35","60119ad38837400e2aa5c252","","","12889","","","","","","","","","{""worker_comments"":""N/A""}"
+"true","fullscreen","11","927455","0.0-4.0","60117ba9a3924707b065381e","5d51f0cd8c48ca0001855d35","60119ad38837400e2aa5c252","","","","","","","","","","","",""
+
+Consent given.
+Consent given.
+"success","trial_type","trial_index","time_elapsed","internal_node_id","STUDY_ID","PROLIFIC_PID","SESSION_ID","followed_instructions","view_history","rt","mwj","conscPos","conscNeg","description","numNeg","participant_number","chain_number","dimension","responses"
+"true","fullscreen","0","4407","0.0-0.0","60117ba9a3924707b065381e","5dc97a605cb36e6919613bcd","601194830d30e70d39cc3222","","","","","","","","","","","",""
+"","instructions","1","40959","0.0-1.0","60117ba9a3924707b065381e","5dc97a605cb36e6919613bcd","601194830d30e70d39cc3222","","[{""page_index"":0,""viewing_time"":4361.6799999981595},{""page_index"":1,""viewing_time"":2350.9200000007695},{""page_index"":2,""viewing_time"":27096.04500000205},{""page_index"":3,""viewing_time"":2736.1149999996996}]","36547.685000001366","","","","","","","","",""
+"","html-moral-worth-slides-trial","2","185080","0.0-2.0-0.0","60117ba9a3924707b065381e","5dc97a605cb36e6919613bcd","601194830d30e70d39cc3222","","","","neg","65","65","Xons are...
+   they have more bad moods to Geks and disliked the cold more","9","4","3","eRichness",""
+"","html-moral-worth-slides-trial","3","707234","0.0-2.0-0.1","60117ba9a3924707b065381e","5dc97a605cb36e6919613bcd","601194830d30e70d39cc3222","","","","pos","74","58","Dobs are...more intelligent than Norps
+      ","11","4","3","time",""
+"","html-moral-worth-slides-trial","4","788339","0.0-2.0-0.2","60117ba9a3924707b065381e","5dc97a605cb36e6919613bcd","601194830d30e70d39cc3222","","","","pos","83","71","Huls are...
+      more like humans than Zags. Huls blood is red, Zags blood is yellow","13","4","3","biology",""
+"","html-moral-worth-slides-trial","5","901931","0.0-2.0-0.3","60117ba9a3924707b065381e","5dc97a605cb36e6919613bcd","601194830d30e70d39cc3222","","","","pos","72","71","Toffs are...
+      more like humans and have two eyes and two arms whereas Vems two eyes are one above the other and they have five arms","11","4","3","appearance",""
+"","html-moral-worth-slides-trial","6","1036275","0.0-2.0-0.4","60117ba9a3924707b065381e","5dc97a605cb36e6919613bcd","601194830d30e70d39cc3222","","","","pos","69","61","Elms are...able to differentiate between different shades of red. They can also hold information in their memories for longer
+      ","11","4","3","pRichness",""
+"","html-moral-worth-slides-trial","7","1121498","0.0-2.0-0.5","60117ba9a3924707b065381e","5dc97a605cb36e6919613bcd","601194830d30e70d39cc3222","","","","neg","67","68","Chups are...cleaner than Rubs and are also sneakier than Rubs
+      ","9","4","3","self",""
+"","html-moral-worth-slides-trial","8","1308786","0.0-2.0-0.6","60117ba9a3924707b065381e","5dc97a605cb36e6919613bcd","601194830d30e70d39cc3222","","","","neg","84","77","Pods are...able to recognise fruit without touching it first. They can also integrate information better between both eyes than Shuks
+      ","9","4","3","unity",""
+"","html-moral-worth-slides-trial","9","1391696","0.0-2.0-0.7","60117ba9a3924707b065381e","5dc97a605cb36e6919613bcd","601194830d30e70d39cc3222","","","","neg","63","63","Fiks are...taller and heavier than Leems
+      ","11","4","3","size",""
+"","survey-text","10","1397627","0.0-3.0","60117ba9a3924707b065381e","5dc97a605cb36e6919613bcd","601194830d30e70d39cc3222","","","5921.524999998044","","","","","","","","","{""worker_comments"":""""}"
+"true","fullscreen","11","1398633","0.0-4.0","60117ba9a3924707b065381e","5dc97a605cb36e6919613bcd","601194830d30e70d39cc3222","","","","","","","","","","","",""
+
+Consent given.
+Consent given.
+"success","trial_type","trial_index","time_elapsed","internal_node_id","STUDY_ID","PROLIFIC_PID","SESSION_ID","followed_instructions","view_history","rt","mwj","conscPos","conscNeg","description","numNeg","participant_number","chain_number","dimension","responses"
+"true","fullscreen","0","4395","0.0-0.0","60117ba9a3924707b065381e","5eaa97d07eda6e01ec108107","60118f00ba43c30bd2e093cc","","","","","","","","","","","",""
+"","instructions","1","61784","0.0-1.0","60117ba9a3924707b065381e","5eaa97d07eda6e01ec108107","60118f00ba43c30bd2e093cc","","[{""page_index"":0,""viewing_time"":2865},{""page_index"":1,""viewing_time"":3946},{""page_index"":2,""viewing_time"":47061.00000000001},{""page_index"":3,""viewing_time"":3512.9999999999927}]","57385","","","","","","","","",""
+"","html-moral-worth-slides-trial","2","187650","0.0-2.0-0.0","60117ba9a3924707b065381e","5eaa97d07eda6e01ec108107","60118f00ba43c30bd2e093cc","","","","pos","0","0","weight and height
+      ","10","3","3","size",""
+"","html-moral-worth-slides-trial","3","383653","0.0-2.0-0.1","60117ba9a3924707b065381e","5eaa97d07eda6e01ec108107","60118f00ba43c30bd2e093cc","","","","pos","0","0","Zags are able to associate two things with each other without them being present e.g. light = treat
+      ","10","3","3","pRichness",""
+"","html-moral-worth-slides-trial","4","472836","0.0-2.0-0.2","60117ba9a3924707b065381e","5eaa97d07eda6e01ec108107","60118f00ba43c30bd2e093cc","","","","neg","90","29","Geks are more self-conscious
+      ","10","3","3","self",""
+"","html-moral-worth-slides-trial","5","554622","0.0-2.0-0.3","60117ba9a3924707b065381e","5eaa97d07eda6e01ec108107","60118f00ba43c30bd2e093cc","","","","pos","57","35","Shuks are more similar genetically to humans
+      ","12","3","3","biology",""
+"","html-moral-worth-slides-trial","6","804025","0.0-2.0-0.4","60117ba9a3924707b065381e","5eaa97d07eda6e01ec108107","60118f00ba43c30bd2e093cc","","","","neg","38","60","Toffs are able to integrate information between both eyes, whereas Pods need to have interacted with the object e.g. hands, both eyes
+      ","10","3","3","unity",""
+"","html-moral-worth-slides-trial","7","883350","0.0-2.0-0.5","60117ba9a3924707b065381e","5eaa97d07eda6e01ec108107","60118f00ba43c30bd2e093cc","","","","neg","52","58","Dobs have forelimbs than Rubs and also have a different range of vision
+      ","12","3","3","appearance",""
+"","html-moral-worth-slides-trial","8","1101402","0.0-2.0-0.6","60117ba9a3924707b065381e","5eaa97d07eda6e01ec108107","60118f00ba43c30bd2e093cc","","","","neg","63","33","Chups are less impatient
+      ","12","3","3","time",""
+"","html-moral-worth-slides-trial","9","1258766","0.0-2.0-0.7","60117ba9a3924707b065381e","5eaa97d07eda6e01ec108107","60118f00ba43c30bd2e093cc","","","","neg","35","72","Fiks are motivated by rewards
+      ","10","3","3","eRichness",""
+"","survey-text","10","1266609","0.0-3.0","60117ba9a3924707b065381e","5eaa97d07eda6e01ec108107","60118f00ba43c30bd2e093cc","","","7840","","","","","","","","","{""worker_comments"":""""}"
+"true","fullscreen","11","1267610","0.0-4.0","60117ba9a3924707b065381e","5eaa97d07eda6e01ec108107","60118f00ba43c30bd2e093cc","","","","","","","","","","","",""
+
+Consent given.
+Consent given.
+"success","trial_type","trial_index","time_elapsed","internal_node_id","STUDY_ID","PROLIFIC_PID","SESSION_ID","followed_instructions","view_history","rt","mwj","conscPos","conscNeg","description","numNeg","participant_number","chain_number","dimension","responses"
+"true","fullscreen","0","3164","0.0-0.0","60117ba9a3924707b065381e","5ef8bf948a48ac03adaad640","60118a2afd2ca30a57da3fd7","","","","","","","","","","","",""
+"","instructions","1","48883","0.0-1.0","60117ba9a3924707b065381e","5ef8bf948a48ac03adaad640","60118a2afd2ca30a57da3fd7","","[{""page_index"":0,""viewing_time"":2162.0849999999336},{""page_index"":1,""viewing_time"":2149.470000000292},{""page_index"":2,""viewing_time"":39824.56000000093},{""page_index"":3,""viewing_time"":1581.2150000019756}]","45717.72500000225","","","","","","","","",""
+"","html-moral-worth-slides-trial","2","162245","0.0-2.0-0.0","60117ba9a3924707b065381e","5ef8bf948a48ac03adaad640","60118a2afd2ca30a57da3fd7","","","","neg","80","80","Dobs are...
+      recognise fruit from a print image
+make a squeak","11","2","3","unity",""
+"","html-moral-worth-slides-trial","3","244941","0.0-2.0-0.1","60117ba9a3924707b065381e","5ef8bf948a48ac03adaad640","60118a2afd2ca30a57da3fd7","","","","pos","79","82","Leems are...
+      right and left eye, 2 arms
+elms 5 arms eyes on top of each other","11","2","3","appearance",""
+"","html-moral-worth-slides-trial","4","354776","0.0-2.0-0.2","60117ba9a3924707b065381e","5ef8bf948a48ac03adaad640","60118a2afd2ca30a57da3fd7","","","","neg","84","84","Rubs are...
+      light and treat a long time after, see difference in objects","11","2","3","pRichness",""
+"","html-moral-worth-slides-trial","5","491041","0.0-2.0-0.3","60117ba9a3924707b065381e","5ef8bf948a48ac03adaad640","60118a2afd2ca30a57da3fd7","","","","pos","90","74","Norps are...
+      able to remember and process things days later, able to make wise choices ie wait for better things, not immediate gratification","11","2","3","time",""
+"","html-moral-worth-slides-trial","6","549725","0.0-2.0-0.4","60117ba9a3924707b065381e","5ef8bf948a48ac03adaad640","60118a2afd2ca30a57da3fd7","","","","pos","84","84","Chups are...more similar to humans in terms of dna and blood colour
+      ","11","2","3","biology",""
+"","html-moral-worth-slides-trial","7","678145","0.0-2.0-0.5","60117ba9a3924707b065381e","5ef8bf948a48ac03adaad640","60118a2afd2ca30a57da3fd7","","","","neg","80","73","Xons are...
+      react to external factors depending on their mood","11","2","3","eRichness",""
+"","html-moral-worth-slides-trial","8","762620","0.0-2.0-0.6","60117ba9a3924707b065381e","5ef8bf948a48ac03adaad640","60118a2afd2ca30a57da3fd7","","","","neg","87","71","Geks are...
+      self aware - they remove dirt and hide if they have done something wrong","11","2","3","self",""
+"","html-moral-worth-slides-trial","9","817530","0.0-2.0-0.7","60117ba9a3924707b065381e","5ef8bf948a48ac03adaad640","60118a2afd2ca30a57da3fd7","","","","neg","77","75","Pods are...
+      7st, 4ft","11","2","3","size",""
+"","survey-text","10","821785","0.0-3.0","60117ba9a3924707b065381e","5ef8bf948a48ac03adaad640","60118a2afd2ca30a57da3fd7","","","4248.959999997169","","","","","","","","","{""worker_comments"":""""}"
+"true","fullscreen","11","822788","0.0-4.0","60117ba9a3924707b065381e","5ef8bf948a48ac03adaad640","60118a2afd2ca30a57da3fd7","","","","","","","","","","","",""
+
+Consent given.
+Consent given.
+"success","trial_type","trial_index","time_elapsed","internal_node_id","STUDY_ID","PROLIFIC_PID","SESSION_ID","followed_instructions","view_history","rt","mwj","conscPos","conscNeg","description","numNeg","participant_number","chain_number","dimension","responses"
+"true","fullscreen","0","8001","0.0-0.0","60117ba9a3924707b065381e","600fad98481b471b76c467bc","60117da68d4da4079128bf46","","","","","","","","","","","",""
+"","instructions","1","61569","0.0-1.0","60117ba9a3924707b065381e","600fad98481b471b76c467bc","60117da68d4da4079128bf46","","[{""page_index"":0,""viewing_time"":1787.999999942258},{""page_index"":1,""viewing_time"":4099.3999999482185},{""page_index"":2,""viewing_time"":45418.10000012629},{""page_index"":3,""viewing_time"":2258.1999998074025}]","53564.59999992512","","","","","","","","",""
+"","html-moral-worth-slides-trial","2","343354","0.0-2.0-0.0","60117ba9a3924707b065381e","600fad98481b471b76c467bc","60117da68d4da4079128bf46","","","","pos","100","100","Elms are more able to stand the cold is it involves something the like as pods can only take a certain temperature. Elms also seem to not like to look at things they dislike as pods have the ability to always keep everything in front of them. This might lead to Elms falling into trouble by not paying attention in certain situations. 
+      ","10","1","3","eRichness",""
+"","html-moral-worth-slides-trial","3","451845","0.0-2.0-0.1","60117ba9a3924707b065381e","600fad98481b471b76c467bc","60117da68d4da4079128bf46","","","","pos","100","95","Chups are closely related to human well leems are not related at all. The fact they have completely different DNA but still appear to resemble each should be studied further
+      ","10","1","3","biology",""
+"","html-moral-worth-slides-trial","4","744424","0.0-2.0-0.2","60117ba9a3924707b065381e","600fad98481b471b76c467bc","60117da68d4da4079128bf46","","","","pos","79","86","Vems have the ability to recognize an object and know it will be needed for future use but only have the ability to understand instant food needs. Well the Huls lack the ability to recognize tools for future use but understand storing of food makes it taste better and plan ahead. 
+      ","10","1","3","time",""
+"","html-moral-worth-slides-trial","5","836597","0.0-2.0-0.3","60117ba9a3924707b065381e","600fad98481b471b76c467bc","60117da68d4da4079128bf46","","","","pos","80","77","Geks are more humanoid as norps have more developed arms for grabbing more things at once. 
+      ","10","1","3","appearance",""
+"","html-moral-worth-slides-trial","6","930607","0.0-2.0-0.4","60117ba9a3924707b065381e","600fad98481b471b76c467bc","60117da68d4da4079128bf46","","","","pos","100","99","Zags are exactly identical to rubs but suffer from a disease that only allows them to grow really really small
+      ","10","1","3","size",""
+"","html-moral-worth-slides-trial","7","1081931","0.0-2.0-0.5","60117ba9a3924707b065381e","600fad98481b471b76c467bc","60117da68d4da4079128bf46","","","","pos","89","91","Xons seem to have a longer term memory as well as differentiate between like items.  Were as shuks only understand the instant gratification of rewards are seen to be slightly color blind
+      ","10","1","3","pRichness",""
+"","html-moral-worth-slides-trial","8","1269677","0.0-2.0-0.6","60117ba9a3924707b065381e","600fad98481b471b76c467bc","60117da68d4da4079128bf46","","","","pos","90","98","Yubs have the ability to see an object in print and then recognize it by picking it out later, they are both sight and touch able.  Does on the other hand must reply more on feel than sight for their to store the information better.
+      ","10","1","3","unity",""
+"","html-moral-worth-slides-trial","9","1450444","0.0-2.0-0.7","60117ba9a3924707b065381e","600fad98481b471b76c467bc","60117da68d4da4079128bf46","","","","pos","93","92","Toffs seem to understand the ability of an object to help with their grooming as well as right and wrong and understand that wrong makes you feel ashamed and scared.  Fiks see the mirror and only see an object that is trying to give them wrong information,  thus ignoring the dirt on their head, claiming it is fake import. They also don't show any remorse for their actions that hurt others
+      ","10","1","3","self",""
+"","survey-text","10","1528784","0.0-3.0","60117ba9a3924707b065381e","600fad98481b471b76c467bc","60117da68d4da4079128bf46","","","78329.39999992959","","","","","","","","","{""worker_comments"":""It seems as i went on i stated to better correlate the aliens with different behaviors. It just seemed easier to pick up on them in the later question. ""}"
+"true","fullscreen","11","1529787","0.0-4.0","60117ba9a3924707b065381e","600fad98481b471b76c467bc","60117da68d4da4079128bf46","","","","","","","","","","","",""
+
