@@ -80,8 +80,7 @@ load_chain <- function(exp_number, chain_number) {
                     'numNeg',
                     'description'))%>%
     rename('subj_id' = 'PROLIFIC_PID')%>%
-    mutate(description=str_squish(description),
-           subj_id=participant_number)%>%
+    mutate(description=str_squish(description))%>%
     arrange('participant_number')
   
   chain$df.trials$chain_number = chain_number;
@@ -113,6 +112,8 @@ exp1_df <- rbind(exp1.chain1$df.trials,
            'time',
            'self')));
 
+write.csv(exp1_df,'../experiments/Exp1/data/all_data.csv')
+
 # %% Experiment 2 %% 
 
 exp2.chain1 <- load_chain(2,1);
@@ -130,6 +131,8 @@ exp2_df <- rbind(exp2.chain1$df.trials,
            'trace',
            'discrimination',
            'mirror')));
+
+write.csv(exp2_df,'../experiments/Exp2/data/all_data.csv')
 
 # %% Experiment 3
 
@@ -150,3 +153,5 @@ exp3_df <- rbind(exp3.chain1$df.trials,
            'trace',
            'mirror',
            'deception')));
+
+write.csv(exp3_df,'../experiments/Exp3/data/all_data.csv')

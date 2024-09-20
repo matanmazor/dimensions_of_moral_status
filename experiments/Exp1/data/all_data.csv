@@ -1,401 +1,401 @@
 "","subj_id","participant_number","mwj","conscPos","conscNeg","dimension","numNeg","description","chain_number","consc_diff"
-"1",10,10,"pos",86,40,"pRichness",15,"Fiks are... a species with a better reaction time than Norps and with a greater ability to distinguish objects and colors",1,46
-"2",10,10,"pos",81,52,"unity",15,"Chups are... more skilled having better senses such as hearing, sight and touch",1,29
-"3",10,10,"neg",55,74,"size",11,"Shuks are...much heavier and taller",1,-19
-"4",10,10,"pos",93,33,"appearance",9,"Xons are...similar to a human having two eyes and 2 arms",1,60
-"5",10,10,"neg",68,84,"eRichness",11,"Zags are... less expressive about emotions",1,-16
-"6",10,10,"pos",85,73,"biology",15,"Elms are... genetically very similar to humans having the same blood and DNA",1,12
-"7",10,10,"pos",100,26,"time",13,"Yubs are... smarter and more intelligent knowing how to evaluate the situation",1,74
-"8",10,10,"neg",66,74,"self",13,"Rubs are...careful about themselves and their appearance and reserved",1,-8
-"9",9,9,"pos",94,88,"unity",14,"Geks made a sound when a flower was presented to both eyes, why huls made a sound only when the flower was presented to one of their eyes.",1,6
-"10",9,9,"pos",95,87,"time",12,"Fiks saved their fruits later to eat, while yubs ate their immeiately",1,8
-"11",9,9,"neg",97,74,"appearance",10,"Chups have right and left eyes while norp's eyes are situated above each other chups have two arm-like limbs whereas norps have five",1,23
-"12",9,9,"pos",96,42,"size",10,"Toffs are around 120cm tall while zags are around 1cm tall",1,54
-"13",9,9,"pos",96,18,"self",12,"Leems remove a fleck of dirt when the see it on their forehead while pods ignore it leems hide themselves when caught stealing while pods don't",1,78
-"14",9,9,"pos",95,81,"eRichness",10,"rubs left the room when the temp dropped to 12 degree regardless of the berry's temperature while the xons left the room at 12 degrees and also took into consideration the fruits temperature(8 degrees)",1,14
-"15",9,9,"pos",98,5,"biology",14,"Shuks have red blood while dobs have yellow shuks have similar DNA to humans while dobs have no resemblance to humans",1,93
-"16",9,9,"pos",99,30,"pRichness",14,"Elms were able to tell the differences between colours while vems weren't elms where able to hold information while vems weren't",1,69
-"17",8,8,"pos",59,36,"biology",13,"Pods are more similar to humans because of genes. Also they have red blood instead of yellow.",1,23
-"18",8,8,"pos",54,46,"self",11,"Fiks are more inteligent tha Huls. They try to hide when they steal food. Also when they see a problem, they fix it, not like Huls who just ignores the problem.",1,8
-"19",8,8,"pos",56,50,"eRichness",9,"Elms are more similar to human. Similar to me, they don't like to look on angry face when they're in bad mood. Also sometimes even if they see danger, they will last as long as the reward can be get.",1,6
-"20",8,8,"neg",57,57,"appearance",11,"Leems have just more similar to human's body.",1,0
-"21",8,8,"neg",60,54,"unity",15,"Geks are more inteligent. Toffs more seems like kind of robots.",1,6
-"22",8,8,"neg",54,54,"size",11,"Norps are just much bigger species.",1,0
-"23",8,8,"neg",56,56,"pRichness",15,"Shuks have better visual skills and memory skills.",1,0
-"24",8,8,"pos",67,53,"time",11,"Vems are patient and have better memory.",1,14
-"25",7,7,"pos",63,33,"unity",14,"Geks are... more intelagent.",1,30
-"26",7,7,"pos",62,62,"appearance",10,"Huls are...only two arms.",1,0
-"27",7,7,"pos",68,68,"biology",12,"Toffs are...more silialr to humans",1,0
-"28",7,7,"pos",50,50,"size",10,"Dobs are...taller and heavier",1,0
-"29",7,7,"pos",63,36,"self",10,"Elms are...more self conscious.",1,27
-"30",7,7,"pos",64,50,"eRichness",8,"Vems are... more aware of taste and temperature",1,14
-"31",7,7,"pos",65,50,"time",10,"Xons are...better at roblem solving and have a better sense of taste",1,15
-"32",7,7,"pos",72,50,"pRichness",14,"Fiks are..more capable of seeing colours and light.",1,22
-"33",6,6,"neg",100,100,"biology",13,"Leems are an alien species that at a base level, genetically are similar to humans. Whereas Shuks have genes that are completely different. Also, Shuks have yellow blood, and Leems have red blood, again similar to humans.",1,0
-"34",6,6,"pos",100,89,"pRichness",13,"Pods seem to be more aware of their surroundings and are able to learn and retain facts and commands. They can see patterns, learn rules and differentiate between similar objects. They can also retain short-term memories and make distinctions that will benefit them. Geks can perform simple tasks like seeing patterns and learning rules, however they cannot differentiate. It seems they cannot retain much short-term memory.",1,11
-"35",6,6,"neg",100,100,"eRichness",9,"Norps are more susceptible to their surroundings than Vems. Their moods can be more easily influenced by their surroundings, for example being shown a picture of something can alter how they feel. Vems seem more resilient - they do not show susceptibility as easily, they seem to weigh their need for a stable temperature more highly than hunger.",1,0
-"36",6,6,"pos",91,90,"size",9,"A Zag weighs 45,000x more than a Hul, and are 120 times taller.",1,1
-"37",6,6,"pos",100,100,"time",9,"Elms seem to be able to make decisions that will benefit them in the long-term more easily. They can remember details they are told and recall them to make decisions that do not only give them instant gratification. Toffs can recall details, however seem to forget correlations that work in their favour. They also prefer instant gratification, even if waiting would be more beneficial.",1,0
-"38",6,6,"neg",98,98,"appearance",11,"Yubs seem similar to humans, with two side-by-side eyes and two limbs. However, Xons' eyes are above each other, and they have five limbs",1,0
-"39",6,6,"neg",100,100,"self",11,"Chups have more inner reflection than Dobs. Dobs seem to not care if caught doing something wrong, or if they are dirty or have an imperfection. Chups are more insecure, or self aware, as they try to fix the issue and try to hide if they do something wrong.",1,0
-"40",6,6,"pos",100,97,"unity",13,"Rubs seem to have more control over their senses than Fiks. They can associate their senses like sight and touch together, even if they have not touched something before. They can also receive information from either eye equally. Whereas, Fiks seem to rely on previously acquired knowledge and cannot recognise something by touch unless they have touched it before.",1,3
-"41",5,5,"pos",84,50,"biology",12,"Toffs are more human like than Yubs. Tuffs has red blood just like human while Yubs has yellow blood.",1,34
-"42",5,5,"pos",91,46,"self",10,"Rubs are clean and always want to maintain that state all the time. Rubs know when they've done something bad leems also are also clean but can do without maintaining the clean state all the time. leems are comfortable with be caught stealing.",1,45
-"43",5,5,"pos",81,50,"pRichness",12,"Zags are clever and very conscious while geks are also clever but less conscious",1,31
-"44",5,5,"neg",80,82,"time",10,"Huls are calculative for short term plans only while pods are calculative for long term plans only",1,-2
-"45",5,5,"pos",78,68,"appearance",10,"Vems are more human like with two eyes just like the human own and two limbs just like the human upper limbs",1,10
-"46",5,5,"pos",54,50,"size",8,"Dobs are bigger in size and weighs more as compare to norps",1,4
-"47",5,5,"pos",91,77,"eRichness",8,"Elms are express their moods better as compare to chups",1,14
-"48",5,5,"pos",83,50,"unity",12,"Fiks are more brillant with judgement as compare to xons",1,33
-"49",4,4,"pos",55,44,"pRichness",11,"Pods are... able to hold longer memory and cognitively differentiate between objects, which Xons cannot do.",1,11
-"50",4,4,"pos",63,45,"biology",11,"Huls are... more similar to humans genetically than Zags as a result of their base genetic makeup, resulting in likely more physiological and cognitive similarities to humans than Zags have.",1,18
-"51",4,4,"pos",53,53,"appearance",9,"Shuks have eyes horizontally separated while Norps have eyes vertically separated. Shuks also have two arms while Norps have five.",1,0
-"52",4,4,"pos",88,63,"time",9,"Dobs are... more able to cognitively prepare for the future through conscious thought and higher order thinking than Elms.",1,25
-"53",4,4,"pos",94,68,"eRichness",7,"Fiks are... able to use higher order thought, weighing needs and choosing options that are better for their physical and mental states.",1,26
-"54",4,4,"pos",53,48,"unity",11,"Leems are... more well versed in visual learning and visual memory than Geks.",1,5
-"55",4,4,"neg",38,36,"size",9,"Toffs are... far taller and heavier than Vems.",1,2
-"56",4,4,"pos",97,47,"self",9,"Yubs are... more self aware and self conscsious than Chups. They also have a grasp of the idea of risk reward, recognizing being caught would likely lead to punishment of some sort.",1,50
-"57",3,3,"pos",100,100,"unity",10,"Zags are... able to feel the fruit if just shown the picture. They are also able to see the picture and make a sound regardless if one of the eyes is untrained which the pods cannot do. It seems that they have higher sensory capabilities than the Pods.",1,0
-"58",3,3,"neg",100,100,"eRichness",8,"Norps are... more in tune with what they want? Although they are similar to Fiks in disliking temperature, if they eat the sweet space berries they leave at 8, but for some reason they will stay and eat the bitter ones longer.The Fiks will eat and stay regardless despite how cold it gets.",1,0
-"59",3,3,"pos",100,100,"pRichness",10,"Huls are... able to learn association much better than Geks. They could associate that the light meant a treat was coming even if it wasn't immediately. The Geks could understand that the light meant a treat only if it was immediately.",1,0
-"60",3,3,"pos",100,100,"size",8,"Yubs are... heavier and taller. They weigh more and are taller than Rubs according to the reading and charts although the order in the text lead to believe the chart was concurrent with it. The Yubs were listed last in the text and first on the chart.",1,0
-"61",3,3,"pos",100,100,"self",8,"Chups are... more self-aware of themselves. If they notice they're dirty they'll clean themselves. If they get caught stealing, they will try to make an excuse/frame somebody else. The Elms don't like to be dirty, but they don't make the association that it is them that is dirty. They also don't seem to care if they get caught stealing. They are probably not aware of norms/care about their image to others.",1,0
-"62",3,3,"pos",100,100,"biology",10,"Leems are... similar to humans. They have blood that is red, and their DNA is similar to humans. Dobs are like a bear/animal. Their DNA code is similar to a bear, and their blood is not the color red. Leems would be more similar to humans than Dobs.",1,0
-"63",3,3,"pos",100,100,"appearance",8,"Shuks are... normal looking because they look like a human/what we're used to seeing. Animals and humans have eyes that are side by side and have limbs on each side. The Xons look like an alien/foreign. They have a weird assortment of limbs, and their eyes are stacked on top of each other like a stereotypical alien.",1,0
-"64",3,3,"pos",100,100,"time",8,"Toffs are... are able to see the future/make the long term plan. The Toffs would acknowledge that they need the triangular key to open the box to get the berries, so they made note to choose it the next day. They also realize that if they don't eat the berries today, it will ripen and be larger and sweeter the next. They are able to plan ahead/see the benefits of waiting. The Vems are not that smart/have bad memory/not able to plan. They know that they need a triangular key to open the box. However, the next day they seem to not care/remember that the triangular key is best. In terms of the berries, they know they will ripen and become larger and sweeter. However, they still go ahead and eat them now. Perhaps, they also are impatient.",1,0
-"65",2,2,"neg",100,100,"biology",11,"Elms are...Subject of human type DNA, with red blood. Norps have no human related DNA, and have yellow blood.",1,0
-"66",2,2,"neg",100,100,"appearance",9,"Fiks are... subject of two eyes, side by side, and two arms, Dobs have two eyes, one above the other, and the bear x5 arms.",1,0
-"67",2,2,"neg",100,100,"pRichness",11,"Shuks are...able to tell the difference between shades of colour - Geks cannot. Shuks are also able to define the association with blast of light resulting in a treat. Geks only identify this upon being granted the stated treat.",1,0
-"68",2,2,"neg",100,100,"size",9,"Huls are... much heavier than Zags. Zags weight in at 1g, Huls 7kg - however are otherwise identical.",1,0
-"69",2,2,"neg",100,99,"self",9,"Toffs are... concious of cleanliness, and if see dirt - remove. Vems - of they see dirt, they avoid the seeing of it (mirror use). Toffs steal and then hide, Vems steal from neighbours - and do not hide (care not?)",1,1
-"70",2,2,"neg",100,100,"unity",11,"Pods are...Pods can see an image of s fruit - and then recognise the fruit by touch alone - Yubs are unable to do this. Pods - if shown an image of a flower to either left or right eye - they will squeak in recognition. Yubs - will on ly to this to the trained left eye alone.",1,0
-"71",2,2,"neg",100,100,"time",9,"Chups are...identical to Rubs, and are able to associate the requirement to complete a given task, and remebber the key component a day later. Rubs, are unable to complete such task, and have no active memory to assist.",1,0
-"72",2,2,"neg",100,99,"eRichness",9,"Xons are... able to experience both good and bad moods. Xons refuse to look at appearances of anger if they themselves are in a good mood. Leems care not.",1,1
-"73",1,1,"neg",98,98,"appearance",10,"Pods are... almost ""normal"" looking with their eyes being next to each other while Toffs had eyes sort of vertically arranged and had five limbs.",1,0
-"74",1,1,"pos",100,73,"biology",10,"Rubs are... more similar to humans in their genetic makeup while Huls are not similar at all.",1,27
-"75",1,1,"neg",68,90,"time",10,"Yubs are... not as concerned about the future as Chups or they are just less patient.",1,-22
-"76",1,1,"pos",93,61,"pRichness",10,"Xons are... seemingly a bit more intelligent than Norps",1,32
-"77",1,1,"neg",52,52,"size",10,"Elms are... bigger than zags",1,0
-"78",1,1,"neg",84,84,"self",10,"Dobs are... able to recognize themselves while Geks are not able to do so",1,0
-"79",1,1,"pos",82,50,"unity",10,"Fiks are... smarter than leems",1,32
-"80",1,1,"neg",59,50,"eRichness",10,"Vems are... more affected by mood than Shuks",1,9
-"81",10,10,"pos",66,67,"biology",9,"Dobs are more human like with red blood and similar dna chemicals",2,-1
-"82",10,10,"neg",73,75,"appearance",11,"Chups have eyes that are positioned like human with two limbs rather than five",2,-2
-"83",10,10,"neg",73,74,"eRichness",13,"Vems are better at dealing with bad moods and working out when a situation is better for them",2,-1
-"84",10,10,"neg",71,69,"time",13,"Huls are not as smart as the shucks and cannot see past the present",2,2
-"85",10,10,"neg",68,68,"unity",13,"Leems are able to learn quickly when they need to",2,0
-"86",10,10,"neg",65,71,"size",11,"Xons are much larger then xons",2,-6
-"87",10,10,"neg",87,68,"self",13,"Yubs are more aware of their actions",2,19
-"88",10,10,"neg",79,66,"pRichness",13,"Fiks are a lot smarter than geks",2,13
-"89",9,9,"pos",100,100,"appearance",10,"Zags are aliens with two eyes, these are right and left eyes, while Chups still have two eyes, their eyes are located on top of each other. Also another difference is Zags have to limbs that look like arms whilst the Chups have five.",2,0
-"90",9,9,"pos",100,65,"eRichness",12,"Toffs and Leems are both capable of having good and bad moods, the difference lies in their reactions when shown an angry face. A toff will when shown an angry face, keep looking at the angry face if in a good mood but look away when in a bad mood, whereas the Leems will keep looking at the angry face whatever their mood. Another difference is that it appears that Toffs have a preference for sweet berries regardless of their current conditions while the Leems seem not to have a preference for berry taste.",2,35
-"91",9,9,"pos",100,41,"self",12,"Geks appear to have a higher measure of self-recognition, shown with recognition of themselves and an imperfection in the mirror and the fact they know to hide when they have done something wrong (Stealing food). Whereas Rubs do not show much of a measure in terms of recognition, as when presented with a mirror they do not acknowledge themselves or attempt to hide when they have done a misdeed.",2,59
-"92",9,9,"pos",100,48,"time",12,"Pods are aliens that appear to have a higher intelligence, demonstrated by recognition of key shape needed to open the glass box to retrieve the space berries and the fact that they understood to wait for the berries from the tree to sweeten. Elms have a lower intelligence shown by the random pick of key shape for the glass box and the immediate eating of the fruit regardless of their ripeness",2,52
-"93",9,9,"neg",91,66,"pRichness",14,"Vems and Huls are both able to learn simple rules, but Vems demonstrate a higher understanding with more of a long term effect to their learning, this is demonstrated by the ability to tell the difference between very similar objects and when given a treat for making a connection between the light and the treat, they were still able even after waiting, this also demonstrated a higher intellect.",2,25
-"94",9,9,"pos",0,0,"size",10,"Xons are much larger and heavier than Shuks. Xons weigh around the weight of a punching bag while the Shuks weigh around the weight of a paperclip. Therefore the only difference is size and weight.",2,0
-"95",9,9,"pos",54,50,"biology",8,"Dobs are very similar to Yubs. The difference for the Dobs is that their DNA Structure has a closer resemblance to a humans, whilst having the same blood colour of a human. The Yubs do not have any comparative elements to a human, as their DNA is different and blood is yellow. Therefore making Dobs more humanoid.",2,4
-"96",9,9,"pos",100,87,"unity",12,"Fiks appear to show a higher level of inference and a better understanding of senses than Norps. This is demonstrated by the Fiks being able to recognise the touch of a fruit after being shown only a picture, showing they can understand the elements of the fruit in the picture and how they relate to touch and real life, whilst the Norps were only able to do this with previous experience of touching the fruit. Also the Fiks were able to learn a task and then apply it themselves, shown by squeaking when both eyes see a flower even though one is untrained, whilst the Norps were only able to when they are trained.",2,13
-"97",8,8,"neg",68,67,"biology",9,"Fiks are... the fiks have red blood, and have the same dna as humans, the toffs share no dna as humans and fiks and also has yellow blood",2,1
-"98",8,8,"neg",69,70,"self",13,"Shuks are... shuks have more self recognition, with the mirror and hiding when being cought, Dobs odnt have this factor of life, meaning the shuks are closer to humans with the self recognition as we do",2,-1
-"99",8,8,"neg",78,78,"eRichness",13,"Rubs are... yubs are more conditioned to wether than rubs. they have more of a need and state of survival unlike the rubs.",2,0
-"100",8,8,"neg",49,49,"time",13,"Vems are... vems can make quick descions rather than having to wait and make a descion. the quick descion will have more of a positive after, yet they fail when having to wait. xons are able to make descions which they can wait for however, in a moments descion they are fast to get their own needs.",2,0
-"101",8,8,"pos",80,27,"size",9,"Norps are... they both are bulit completly different. norps are havier and taller where as zags are short weigh lighter.",2,53
-"102",8,8,"pos",78,60,"unity",11,"Huls are... pods cant connect information together the way huls can. huls are a little smarter then the pods.",2,18
-"103",8,8,"neg",83,84,"pRichness",15,"Chups are... they have different ways of sotring information, due to memory. chups have a more favourable memory and information process, whereas elms arent able to do this. they are more able to do so in moment.",2,-1
-"104",8,8,"pos",87,88,"appearance",9,"Geks are... they have a completly different body type. leems have five arms which may be better for survival, however with geks being more able of prohibral vision they also have this trait too.",2,-1
-"105",7,7,"pos",88,77,"eRichness",12,"Huls are... more emotionally advanced than gets as they distinguish between angry and non angry faces by turning away. They can also balance their wants and needs by remaining in the cold if they are given sweet berries. Geks seem more simple with not being able to do this and always acting in the same way by staring at the face whatever and always leaving at 12'C",2,11
-"106",7,7,"neg",65,65,"biology",10,"Leems are... similar to humans in terms of their DNA and colour of their blood. Pods seem to differ in the colour of the blood and the chemical that makes them up.",2,0
-"107",7,7,"neg",70,70,"appearance",10,"Zags are...similar to humans in terms of their two eyes being side by side and having two limbs whereas Elms res are one above each other and they have more limbs",2,0
-"108",7,7,"pos",64,64,"size",8,"Shuks are...tall and have a larger weight than chups. Chups are tiny in terms of weight and size similar to a paperclip.",2,0
-"109",7,7,"pos",100,95,"pRichness",14,"Norps are... able to distinguish between similar shades of colour and also seem more advanced in terms of memory and being able to be tried as they can receive the treat up. to 1sec after the light.",2,5
-"110",7,7,"pos",100,99,"self",12,"Toffs are... able to recognise themselves in the mirror and are self aware. They are also capable of knowing when something is wrong as when they steal they will hide. Yubs do not do either of these so do not seem as advanced.",2,1
-"111",7,7,"pos",100,99,"time",12,"Dobs are... able to make plans for the future as they will wait for the berries to ripen whereas Fiks will not and will just eat them. This is similar to comparing humans and animals as an animal will generally not wait. Does are also able to recognise shapes as they will pick the correct shaped key whereas Fiks cannot do this.",2,1
-"112",7,7,"neg",95,96,"unity",12,"Xons are... more capable than vets as they are able to bring together information and recognise a flower even when shown to the other eye. They can also recognise a fruit by touching it when only shown a picture, Vems need to have also touched it before they can do this.",2,-1
-"113",6,6,"pos",94,64,"eRichness",11,"Toffs are...more sensitive to the cold. And more sensitve to loking at angry faces when in a bad mood.",2,30
-"114",6,6,"pos",93,79,"pRichness",13,"Elms are...more able to recognise differences between similar things and have a slightly better/longer memory.",2,14
-"115",6,6,"pos",86,79,"unity",11,"Huls are...more developed in terms of senses and eyesight",2,7
-"116",6,6,"pos",59,55,"biology",9,"Xons are...very similar to humans in terms of dna and blood, Rubs are not.",2,4
-"117",6,6,"neg",56,55,"size",9,"Leems are...extremely small, Vems are similar in size to a small human.",2,1
-"118",6,6,"pos",88,64,"self",11,"Dobs are...high in self awareness/recognition compared to Geks.",2,24
-"119",6,6,"pos",54,53,"appearance",9,"Shuks are...more similar to humans in terms of appearance compared to Chups.",2,1
-"120",6,6,"pos",95,77,"time",11,"Fiks are...more logical compared to Pods.",2,18
-"121",5,5,"neg",100,100,"time",12,"Toffs are...able to plan ahead, resist temptation, solve puzzles to a greater degree than Yubs",2,0
-"122",5,5,"pos",100,100,"appearance",8,"Rubs are...two eyes two limbs, Vems have 5 limbs and eyes one on top of the other",2,0
-"123",5,5,"pos",95,94,"biology",8,"Elms are...more like humans in that they have red blood and share 4 dna bases. Dods are less alike in that they have yellow blood and do not share dna bases",2,1
-"124",5,5,"pos",100,98,"size",8,"Pods are... 4 feet tall and weigh 7 stone, they are larger than Fiks who are 1g and 1 cm tall",2,2
-"125",5,5,"neg",100,100,"self",12,"Zags are...aware of others",2,0
-"126",5,5,"pos",100,98,"eRichness",10,"Shuks are...able to withstand cold to access sweet berries. They alter their behaviour according to their mood. Leems dont",2,2
-"127",5,5,"pos",100,91,"pRichness",12,"Chups are...able to distinguish between similar objects and Geks can't. Chups may have better memory",2,9
-"128",5,5,"neg",95,95,"unity",12,"Norps are...more able to apply information",2,0
-"129",4,4,"pos",100,100,"unity",11,"Dobs can recognize a fruit by touch alone even if they haven't touched it before and make a squeak sound when a picture of a flower is presented to either eye Xons can't recognize a fruit if they haven't touched it before and doesn't make a sound when they see a flower to their untrained right eye",2,0
-"130",4,4,"pos",100,100,"self",11,"Geks are clean and have to clean themselves if they see dirt on their forehead and try to hide themselves when they get caught",2,0
-"131",4,4,"neg",100,100,"biology",9,"Chups have genes like a human and red blood",2,0
-"132",4,4,"pos",100,100,"time",11,"Pods know what shape they need to choose if they want something from the box and tend to save the fruit for later",2,0
-"133",4,4,"pos",100,100,"pRichness",11,"Vems can see and learn simple things and tell the different between similiar things",2,0
-"134",4,4,"neg",50,24,"size",9,"Leems weigh around 45kg and are around 120cm tall",2,26
-"135",4,4,"neg",68,73,"appearance",9,"Shuks have eyes like humans and two arms",2,-5
-"136",4,4,"pos",90,69,"eRichness",9,"Huls have moods like humans and will look at an angry face if they are in a good mood. They like space berries and don't like cold.",2,21
-"137",3,3,"neg",100,100,"appearance",10,"Toffs are... very similar to humans fundamentally. they have 2 arms and eyes in a recognisable place. xons however have 5 arms in a different place. with eyes above one another instead of side by side",2,0
-"138",3,3,"pos",100,94,"eRichness",8,"Norps are... Norps are more effected by emotion of others. and they are more likely to put theyre own desires infront of their health. Vems are less effected by emotion and care more about their health then their own desires",2,6
-"139",3,3,"pos",100,77,"unity",10,"Rubs are... Rubs are more intelligent and can recognise objects easier. they can also recognise from sight where yubs could not do this as productively",2,23
-"140",3,3,"pos",100,100,"biology",8,"Fiks are... fiks are closer related to humans. zags are less related and more unrecognisable",2,0
-"141",3,3,"pos",100,62,"time",10,"Pods are... far more sensible and intelligent. they can remember what has happened in the past.",2,38
-"142",3,3,"neg",100,100,"size",10,"Shuks are...tall and heavy, theyre around the size of a punching bag. Huls are much smaller and lighter",2,0
-"143",3,3,"pos",100,83,"pRichness",10,"Leems are... much better at telling the difference between objects. and much more intelligent and remember things",2,17
-"144",3,3,"pos",100,72,"self",10,"Chups are... good at self care, and are more emotionally effected by things, they feel guilt and fear and remorse for theyre actions, Geks however are less intelligent and cannot feel guilt",2,28
-"145",2,2,"pos",80,71,"unity",9,"Fiks are... able to notice things without being trained- recognise flowers and fruits",2,9
-"146",2,2,"neg",89,89,"eRichness",9,"Zags are... able to recognise emotion in others and label how they feel themselves. They like sweet berries and find it hard to notice the cold if they are distracted",2,0
-"147",2,2,"neg",22,17,"biology",9,"Shuks are... have yellow blood",2,5
-"148",2,2,"pos",36,73,"pRichness",9,"Rubs are... less sentient than elms",2,-37
-"149",2,2,"pos",73,50,"self",9,"Chups are... able to recognise themselves in mirrors",2,23
-"150",2,2,"neg",67,63,"appearance",11,"Yubs are... humanoid with 2 eyes side by side and human like arms",2,4
-"151",2,2,"pos",84,67,"time",9,"Dobs are... able to problem solve and predict the future rewards",2,17
-"152",2,2,"pos",96,95,"size",9,"Vems are... smaller than huls",2,1
-"153",1,1,"neg",100,100,"unity",10,"Norps are... Able to use their senses at a higher level",2,0
-"154",1,1,"neg",100,100,"self",10,"Xons are... Slightly more aware of their surroundings",2,0
-"155",1,1,"pos",100,100,"appearance",10,"Huls are... more similar in appearance to humans",2,0
-"156",1,1,"neg",100,100,"pRichness",10,"Zags are... slightly more intelligent",2,0
-"157",1,1,"neg",100,100,"biology",10,"Leems are... more similar in DNA make up to humans",2,0
-"158",1,1,"neg",100,100,"eRichness",10,"Shuks are... slightly better at prioritising needs and controlling their emotions",2,0
-"159",1,1,"neg",100,100,"time",10,"Pods are... slightly better at preparing for the future rather than only focusing on the present",2,0
-"160",1,1,"neg",100,100,"size",10,"Yubs are... much larger and closer in size to humans",2,0
-"161",10,10,"pos",100,19,"self",11,"Chups are... more self-aware as they will attempt to wipe remove dirt from themselves or hide themselves if they are caught stealing food. They seem to care a lot about what others think of their appearance and behaviour.",3,81
-"162",10,10,"neg",50,50,"biology",17,"Geks are... very similar to humans as they have the same bases that make up human DNA and also have red blood.",3,0
-"163",10,10,"neg",39,65,"time",15,"Zags are... more logical in their thinking but may make rash decisions due to a lack of patience.",3,-26
-"164",10,10,"neg",49,49,"appearance",11,"Toffs are... more physically resembling human appearance with two aligned eyes and two limbs for arms.",3,0
-"165",10,10,"pos",100,94,"pRichness",15,"Huls are... slightly more intelligent than Leems and have the ability to think quicker and effectively at a higher performance.",3,6
-"166",10,10,"pos",82,62,"eRichness",11,"Shuks are... more likely to shy away from their own emotions but are able to cope with lower temperatures for berries.",3,20
-"167",10,10,"pos",100,55,"unity",11,"Pods are... very intelligent and able to pick up different senses effectively from very minimal interaction or vision of objects beforehand.",3,45
-"168",10,10,"neg",51,51,"size",11,"Fiks are... hugely taller and heavier.",3,0
-"169",9,9,"pos",100,93,"size",10,"Norps are... much taller than Xons (120 cm compared to 1cm) as well as being heavier (45kg compared to 1 gram)",3,7
-"170",9,9,"pos",100,100,"eRichness",10,"Zags are... able to experience both good and bad moods, but look away from the face when in a bad mood, unlike Yubs who look at the face regardless of mood. Zags dislike the cold and leave the room at 12 degrees in the unsweet condition but at 8 degrees in the sweet berry condition, compared with Yubs who leave the room at 12 degrees regardless of sweetness.",3,0
-"171",9,9,"pos",100,100,"unity",10,"Fiks are... able to recognise fruit by touch even if they haven't touched it before, whereas Rubs can only recognise it if they have touched it before. Fiks also make a squeak sound when seeing a flower with both the trained and untrained eye, whereas Rubs only respond when it is seen by the trained left eye.",3,0
-"172",9,9,"pos",100,100,"appearance",10,"Pods are... 2 limbed creatures with left and right eyes, whereas Vems have 5 limbs and eyes one on top of the other.",3,0
-"173",9,9,"pos",100,100,"self",10,"Geks are... able to self-recognise, they like to stay clean and will wipe away flecks of dirt they see in the mirror. Huls also like to be clean but dont recognise themselves in the mirror, evidences by their lack of recognition to seeing dirt on themselves in the mirror. Both live in small groups and sometimes steal from their neighbours, Geks try to hide but Huls dont.",3,0
-"174",9,9,"pos",100,100,"time",14,"Dobs are... able to understand that they need the triangle key to open the box and access the berries, whereas Chups dont show a preference for selecting the triangle key. When given unripe fruit the Dobs do not immediately eat them, instead they wait, whereas in the same situation the Chups would eat the fruit immediately.",3,0
-"175",9,9,"pos",100,100,"biology",16,"Leems are... made up of the same DNA as humans, whereas Shuks aren't. Leems also bleed red, whereas Shuks bleed yellow.",3,0
-"176",9,9,"pos",100,100,"pRichness",14,"Elms are... able to discriminate between very similar object, unlike Toffs. Elms are able to make an associate between the light and the treat even with a delay, unlike Toffs who could only associate with no time delay.",3,0
-"177",8,8,"pos",97,75,"time",13,"Shuks are more able than Rubs to make plans for for the future",3,22
-"178",8,8,"pos",100,100,"eRichness",9,"Huls are more able than Chups to make decisions based on what they like and dislike",3,0
-"179",8,8,"neg",50,50,"appearance",11,"Leems are have right and left eyes and two humanoid type arms; Zags have two eyes one above the other, and five arms",3,0
-"180",8,8,"pos",100,92,"self",9,"Norps are able to recognise themselves in a mirror, and also a figurative mirror (recognising behaviour). Elms cannot.",3,8
-"181",8,8,"neg",50,50,"size",11,"Yubs are much taller and heavier than Toffs",3,0
-"182",8,8,"neg",89,89,"unity",11,"Fiks are more able to recognise and integrate stimulus to different senses",3,0
-"183",8,8,"neg",100,98,"pRichness",15,"Pods are able to recognise even subtle differences between similar objects, and to make connections between events, even if the time varies. Geks cannot.",3,2
-"184",8,8,"neg",50,50,"biology",17,"Dobs are more similar to humans; their DNA is made up of the same four components and their blood is red. This is not true for Xons.",3,0
-"185",7,7,"pos",82,50,"time",12,"Elms are... will mostly follow instructions or familiar steps. They also like to wait until their fruits are ripe to indulge",3,32
-"186",7,7,"pos",88,48,"pRichness",14,"Fiks are... able to comprehend rules when given a task.They don't just rush to do something. they think before they act",3,40
-"187",7,7,"pos",51,50,"appearance",10,"Rubs are... they have different body types specifically with their eyes and arms",3,1
-"188",7,7,"pos",56,50,"unity",10,"Yubs are... enhanced in having photographic memory. they have a special skill",3,6
-"189",7,7,"pos",83,10,"self",8,"Dobs are... OCD AND FEEL GUILTY WHEN THEY ARE CAUGHT DOING SOMETHING WRONG",3,73
-"190",7,7,"pos",46,47,"eRichness",8,"Shuks are... VERY EMPTHATIC. THEY HAVE A RANGE OF EMOTIONS.",3,-1
-"191",7,7,"pos",54,50,"biology",16,"Vems are... HAVE A DIFFERENT COLOR OF BLOOD AND THEY ALSO HSVE HUMAN GENETIC MAKUP",3,4
-"192",7,7,"neg",57,57,"size",12,"Xons are... TALLER AND HEAVIER IN WEIGHT AND HEIGHT",3,0
-"193",6,6,"pos",100,100,"biology",15,"Dobs are... Dobs red veins. Vems are yellow.Dob genes are made up of the same four bases that make up human DNA, ACTG. The genes of Vems are made up of bases that bear no chemical resemblance to human DNA.",3,0
-"194",6,6,"pos",100,100,"time",11,"Huls are... able to see the space berries through the glass and understand why they needed a certain key. Fiks did not understand that a triangular key was needed. Huls also prefer the larger, sweeter space berries like Fiks but Fiks do not save them for later like Huls",3,0
-"195",6,6,"pos",100,100,"pRichness",13,"Xons are... able to learn simple rules and differentiate between very similar objects. Rubs are also able to do this but cannot differentiate between similar objects. Xions could differentiate between light and treat in all circumstances but Rubs were only able to do this when it was given straight away.",3,0
-"196",6,6,"pos",100,100,"self",7,"Zags are... clean and remove dirt when they see it. Geks are clean but they tend to ignore the fleck of dirt on the mirror. Zags live in groups and steal neighbour's food, but hide when they do so, Geks do the same but don't try and hide.",3,0
-"197",6,6,"neg",100,100,"appearance",11,"Elms are... physically different from Toffs in that they have left and right eyes, where as Toffs have one above the other, unlike next to each other. Elms have 2 limbs, Toffs have 5.",3,0
-"198",6,6,"pos",100,100,"unity",9,"Yubs are... able to recognise fruit through touch. Chups aren't able to do this unless they have touched it before. Yubs are able to be trained to react to a photo of something but Chups can only recognise it through their left eye.",3,0
-"199",6,6,"pos",100,100,"eRichness",7,"Pods are... able to recognise emotions in faces but look away from the faces when in a bad mood. Norps also do but don't look away regardless of mood. Pods don't like cold weather and unsweet berries, Norps don't either but don't leave the room because of it.",3,0
-"200",6,6,"pos",100,100,"size",11,"Shuks are... heavier and taller than Leems",3,0
-"201",5,5,"pos",80,78,"size",10,"Chups are... taller than vems and weigh more.",3,2
-"202",5,5,"neg",77,55,"appearance",12,"Geks are... less mobile than huls as they have less legs.",3,22
-"203",5,5,"neg",100,38,"self",8,"Rubs are... more self-conscious than Elms and feel more guilt.",3,62
-"204",5,5,"pos",88,45,"unity",8,"Xons are...smarter than Leems and more intellectual.",3,43
-"205",5,5,"pos",88,50,"biology",14,"Pods are...more human-like than Shuks.",3,38
-"206",5,5,"neg",59,85,"eRichness",8,"Yubs are... less resistant than Zags.",3,-26
-"207",5,5,"neg",55,55,"time",12,"Dobs are... more similar to humans when it comes to reasoning tasks.",3,0
-"208",5,5,"pos",80,47,"pRichness",12,"Toffs are... able to discriminate between things/objects more than Fiks.",3,33
-"209",4,4,"neg",65,65,"eRichness",9,"Xons are... they have more bad moods to Geks and disliked the cold more",3,0
-"210",4,4,"pos",74,58,"time",11,"Dobs are...more intelligent than Norps",3,16
-"211",4,4,"pos",83,71,"biology",13,"Huls are... more like humans than Zags. Huls blood is red, Zags blood is yellow",3,12
-"212",4,4,"pos",72,71,"appearance",11,"Toffs are... more like humans and have two eyes and two arms whereas Vems two eyes are one above the other and they have five arms",3,1
-"213",4,4,"pos",69,61,"pRichness",11,"Elms are...able to differentiate between different shades of red. They can also hold information in their memories for longer",3,8
-"214",4,4,"neg",67,68,"self",9,"Chups are...cleaner than Rubs and are also sneakier than Rubs",3,-1
-"215",4,4,"neg",84,77,"unity",9,"Pods are...able to recognise fruit without touching it first. They can also integrate information better between both eyes than Shuks",3,7
-"216",4,4,"neg",63,63,"size",11,"Fiks are...taller and heavier than Leems",3,0
-"217",3,3,"pos",0,0,"size",10,"weight and height",3,0
-"218",3,3,"pos",0,0,"pRichness",10,"Zags are able to associate two things with each other without them being present e.g. light = treat",3,0
-"219",3,3,"neg",90,29,"self",10,"Geks are more self-conscious",3,61
-"220",3,3,"pos",57,35,"biology",12,"Shuks are more similar genetically to humans",3,22
-"221",3,3,"neg",38,60,"unity",10,"Toffs are able to integrate information between both eyes, whereas Pods need to have interacted with the object e.g. hands, both eyes",3,-22
-"222",3,3,"neg",52,58,"appearance",12,"Dobs have forelimbs than Rubs and also have a different range of vision",3,-6
-"223",3,3,"neg",63,33,"time",12,"Chups are less impatient",3,30
-"224",3,3,"neg",35,72,"eRichness",10,"Fiks are motivated by rewards",3,-37
-"225",2,2,"neg",80,80,"unity",11,"Dobs are... recognise fruit from a print image make a squeak",3,0
-"226",2,2,"pos",79,82,"appearance",11,"Leems are... right and left eye, 2 arms elms 5 arms eyes on top of each other",3,-3
-"227",2,2,"neg",84,84,"pRichness",11,"Rubs are... light and treat a long time after, see difference in objects",3,0
-"228",2,2,"pos",90,74,"time",11,"Norps are... able to remember and process things days later, able to make wise choices ie wait for better things, not immediate gratification",3,16
-"229",2,2,"pos",84,84,"biology",11,"Chups are...more similar to humans in terms of dna and blood colour",3,0
-"230",2,2,"neg",80,73,"eRichness",11,"Xons are... react to external factors depending on their mood",3,7
-"231",2,2,"neg",87,71,"self",11,"Geks are... self aware - they remove dirt and hide if they have done something wrong",3,16
-"232",2,2,"neg",77,75,"size",11,"Pods are... 7st, 4ft",3,2
-"233",1,1,"pos",100,100,"eRichness",10,"Elms are more able to stand the cold is it involves something the like as pods can only take a certain temperature. Elms also seem to not like to look at things they dislike as pods have the ability to always keep everything in front of them. This might lead to Elms falling into trouble by not paying attention in certain situations.",3,0
-"234",1,1,"pos",100,95,"biology",10,"Chups are closely related to human well leems are not related at all. The fact they have completely different DNA but still appear to resemble each should be studied further",3,5
-"235",1,1,"pos",79,86,"time",10,"Vems have the ability to recognize an object and know it will be needed for future use but only have the ability to understand instant food needs. Well the Huls lack the ability to recognize tools for future use but understand storing of food makes it taste better and plan ahead.",3,-7
-"236",1,1,"pos",80,77,"appearance",10,"Geks are more humanoid as norps have more developed arms for grabbing more things at once.",3,3
-"237",1,1,"pos",100,99,"size",10,"Zags are exactly identical to rubs but suffer from a disease that only allows them to grow really really small",3,1
-"238",1,1,"pos",89,91,"pRichness",10,"Xons seem to have a longer term memory as well as differentiate between like items. Were as shuks only understand the instant gratification of rewards are seen to be slightly color blind",3,-2
-"239",1,1,"pos",90,98,"unity",10,"Yubs have the ability to see an object in print and then recognize it by picking it out later, they are both sight and touch able. Does on the other hand must reply more on feel than sight for their to store the information better.",3,-8
-"240",1,1,"pos",93,92,"self",10,"Toffs seem to understand the ability of an object to help with their grooming as well as right and wrong and understand that wrong makes you feel ashamed and scared. Fiks see the mirror and only see an object that is trying to give them wrong information, thus ignoring the dirt on their head, claiming it is fake import. They also don't show any remorse for their actions that hurt others",3,1
-"241",10,10,"pos",70,71,"appearance",9,"Xons have two eyes side by side and two limbs. Geks, however, have two eyes one above the other and have five limbs",4,-1
-"242",10,10,"neg",86,63,"pRichness",15,"Vems are are able to distingious between very imilar items whereas the Chups cannot. Both are able to do simple tasks but the Vems remember for longer than the Chups",4,23
-"243",10,10,"pos",83,58,"eRichness",13,"Huls are able to show there moods as when they are shown an angry face they continue to stare at it if they are happy but turn away if they are angry. The Elms just continue to stare regardless of their mood. Also, both the Huls and Elms don't like cold but Huls will stay for longer in a cold room if they have sweet space berries whereas, the Elms show no preferance",4,25
-"244",10,10,"pos",82,58,"biology",13,"Pods are are similar to humans having the same 4 DNA genes and red blood where as the Toof have totally different DNA and yellow blood",4,24
-"245",10,10,"pos",86,53,"time",11,"Dobs are are more intellegent as the mainly pick the right shaped key to access a locked box whereas the Zags just picked random keys. Also, the Dobs would wait for berries to ripen whereas the Zags would eat the less good unripe berries",4,33
-"246",10,10,"neg",59,59,"unity",11,"Yubs are are able to be shown a picture of a fruit and the select it by touch whereas the Shuks cannot. However, when trained the Shuks can give a pavlovs dog reponse whereas the Yubs could not",4,0
-"247",10,10,"pos",26,27,"size",11,"Leems are are a lot heavier and very much taller than the Norps",4,-1
-"248",10,10,"neg",80,46,"self",13,"Fiks and Rubs like to keep themselves clean but if a Fik sees dirt on his face he will try to remove it whereas a Rub would ignore the device showing him the dirt. Also both spieces steal from their neighbours but when the Fiks are caught they try to hid whereas the Rubs do not",4,34
-"249",9,9,"pos",94,55,"biology",12,"Vems are... Vems have similar DNA to humans unlike pods Vems also have red blood whereas pods have yellow blood.",4,39
-"250",9,9,"neg",58,62,"eRichness",14,"Leems are able to feel good and bad moods, however when a leem is shown an angry face it will look away if in a bad mood, whereas shuks will look at the face no matter their mood.",4,-4
-"251",9,9,"neg",45,57,"time",12,"Rubs are... impatient compared to dobs, as they didn't wait for the berries to ripen. Rubs however understood they needed the triangle key to open the box and remembered that whereas the dobs didnt necessarily choose the triangfle key",4,-12
-"252",9,9,"pos",76,42,"pRichness",14,"Chups have stronger memories than elms",4,34
-"253",9,9,"neg",61,56,"appearance",10,"Huls have 5 arms and yubs have 2, yubs also have two eyes on top of eachother whereas huls have right and left eyes.",4,5
-"254",9,9,"neg",60,64,"unity",12,"When Geks are shown a printed image of a new fruit, they are able to recognise it by touch only even if they have never touched t before. When zags are shown the image they cannot recognise the fruit by only touch.",4,-4
-"255",9,9,"neg",77,72,"size",12,"Norps weight about 7 stone and are much taller than xons which are about 1g and a couple cm tall.",4,5
-"256",9,9,"pos",90,68,"self",12,"Toffs clean them self if they see dirt on them self in a mirror, they also live in small groups and steal food from their neighbours and hide if caught Fiks dont clean themselves if they notice they are dirty in the mirror and they also steal food but dont hide if they are caught.",4,22
-"257",8,8,"pos",92,88,"self",11,"Toffs are... able to recognise themselves in the mirror, and have a sense of self-preservation (hide when they're caught stealing food from the neighbours)",4,4
-"258",8,8,"pos",89,76,"eRichness",13,"Chups are... More in tune with their emotional state and can respond to external displays of emotion (when shown an angry/happy face for example). They're also able to weigh their needs and desires and decide on their course of action based on that.",4,13
-"259",8,8,"pos",71,71,"biology",11,"Geks are... Biologically (genetically) more similar to humans; they have the same nucleic acids as humans do, and their blood looks the same to human blood (whether or not their composition is the same isn't known however).",4,0
-"260",8,8,"pos",89,77,"pRichness",13,"Shuks are... able to spot the difference between 2 very similar objects (like shades of colour), and they're also able to retain pieces of information in their memory for some time",4,12
-"261",8,8,"pos",90,79,"unity",11,"Zags are... able to combine information from different senses (like touch and sight), as well as integrate information between 2 eyes (so what they've learnt to do with one eye, they can replicate with the other)",4,11
-"262",8,8,"pos",53,53,"appearance",9,"Elms are... Phenotypically more similar to humans, with the same eye orientation (right and left) and the same limb morphology (2 arm-like limbs)",4,0
-"263",8,8,"pos",86,82,"time",11,"Huls are... able to plan ahead for the future, and also seem to be able to relate certain decisions/choices to what they've previously learned/experienced",4,4
-"264",8,8,"pos",53,53,"size",11,"Leems are... phenotypically more similar to humans, with a weight and height that corresponds to a small human (maybe a child)",4,0
-"265",7,7,"pos",100,100,"time",10,"Yubs are...more able to make plans for the future and take strategic decisions which are more likely to ensure their survival. We might say they are more intelligent than Toffs",4,0
-"266",7,7,"pos",100,100,"pRichness",12,"Vems are...more able than Shuks to hold information for short periods of time",4,0
-"267",7,7,"pos",100,100,"self",10,"Pods are...more likely to exhibit behaviour indicative of shame if they steal food from a neighbour. They also are able to understand that the reflection in the mirror is them. Rubs are unable to do this.",4,0
-"268",7,7,"pos",100,100,"unity",10,"Geks are...better at using information from combined senses, and better at interpreting information shown to the eyes",4,0
-"269",7,7,"neg",49,50,"size",12,"Elms are...smaller and lighter than Huls",4,-1
-"270",7,7,"pos",100,100,"eRichness",12,"Fiks are...more able to choose between different priorities, eg able to tolerate the cold for longer in order to eat sweet berries that they like to eat",4,0
-"271",7,7,"neg",100,100,"appearance",10,"Dobs are...five limbed. They have two yes which are one on top of the other. Chups have two eyes which are side by side. THEY HAVE TWO LIMBS. Chups look more like humans than Dobs",4,0
-"272",7,7,"pos",50,51,"biology",10,"Leems are...more like humans because their blood is red and their DNA is similar to that of humans",4,-1
-"273",6,6,"neg",0,0,"size",13,"Geks are taller and heavier than Zags. Zags are 1cm tall and weigh the same as a paperclip, whilst Geks are as heavy as punching bags and 120cm tall.",4,0
-"274",6,6,"neg",0,0,"self",11,"Elms are clean and like to hide their wrongdoings, whilst Xons don't care about their outward appearance.",4,0
-"275",6,6,"neg",0,0,"appearance",11,"Fiks have 5 limbs and two eyes next to each other, whilst Dobs have two eyes above each other and 2 limbs.",4,0
-"276",6,6,"pos",100,100,"pRichness",11,"Toffs are smarter than Chups",4,0
-"277",6,6,"pos",100,100,"eRichness",11,"Shuks are picky but Vems don't care as long as they get their treat.",4,0
-"278",6,6,"neg",47,42,"biology",11,"Rubs are made of the same genetic material as humans and bleed the same colour, whereas Huls don't",4,5
-"279",6,6,"neg",78,78,"unity",11,"Norps are more intelligent when it comes to sight and object recognition",4,0
-"280",6,6,"neg",92,91,"time",11,"Yubs are smarter than Pods",4,1
-"281",5,5,"neg",100,100,"time",12,"Norps are... able to problem solve, have better space awareness, and understand delay for better reward. Leems sre less developed in these respacts.",4,0
-"282",5,5,"neg",62,61,"biology",12,"Xons are... like humans as same genetic make up and blood colour. Elms do not share our genetic makeup.",4,1
-"283",5,5,"pos",55,54,"appearance",10,"Pods are... more human like than rubs i their appearance. Pods eyes are spaced like ours and they have 2 arms unlike Rubs.",4,1
-"284",5,5,"neg",100,100,"eRichness",12,"Fiks are...emotionally more advanced than vems.",4,0
-"285",5,5,"neg",100,100,"unity",12,"Chups are... able to integrate information better than zags",4,0
-"286",5,5,"neg",100,100,"self",12,"Huls are...better at self recognition than Shuks. They also know how to stay away from danger better.",4,0
-"287",5,5,"pos",100,100,"pRichness",10,"Yubs are... better with short-term memory and can identify colours more easily.",4,0
-"288",5,5,"neg",100,100,"size",14,"Geks are... bigger and heavier than Toffs.",4,0
-"289",4,4,"neg",85,81,"pRichness",11,"Geks are able to to differentiate between similar object but pods are not, Pods have poor short term memory compared to Geks",4,4
-"290",4,4,"pos",93,76,"eRichness",11,"Fiks mood influences their behaviour whereas leems does not. Fiks can endure a degree of discomfort if sufficiently motivated, leems not.",4,17
-"291",4,4,"pos",51,51,"size",13,"Norps are lightwweight and short zags are tall and much heavier..",4,0
-"292",4,4,"pos",51,51,"biology",11,"Vems are Genetically similar to humans with similar appearing blood, neither is true of dobs...",4,0
-"293",4,4,"pos",97,28,"self",11,"Rubs are.able to recognise themselves in a mirror and are(possibly) aware stealing is wrong (or at least frowned upon) neither of these are true of Yubs..",4,69
-"294",4,4,"pos",78,69,"unity",11,"Huls are able to integrate information from different sensory modalities and also information presented to left or right eye neither of these things is true of toffs..",4,9
-"295",4,4,"pos",92,58,"time",11,"Elms are able to plan for the future and will delay gratification (eating berries) for a greater reward (better tasting berries later, shuks do not exhibit this behaviour",4,34
-"296",4,4,"pos",51,51,"appearance",9,"Xons are posseswed of two side by side eyes and two arems wheres chuups eyes are arranged on a verticle axis and they have 5 arms",4,0
-"297",3,3,"neg",100,100,"appearance",10,"Norps are... creatures with 2 arms unlike geks who have 5. Norps also have a different placement of eyes on their body compared to geks",4,0
-"298",3,3,"pos",100,100,"self",10,"Zags are... creautures that care about their appearance and reputation more than leems",4,0
-"299",3,3,"pos",100,100,"unity",10,"Yubs are... more intelligent than elms and can better process information",4,0
-"300",3,3,"pos",100,100,"time",10,"Pods are... more intelligent than chups and have much better memory",4,0
-"301",3,3,"pos",100,100,"biology",10,"Shuks are... creatures who have a DNA with similar base structure to humans. Shuks have red blood whereas toffs have yellow blood",4,0
-"302",3,3,"pos",100,100,"eRichness",10,"Dobs are... more likely to do something if the end result will make them happy. They are also more willing to undergo hardship to achieve a goal",4,0
-"303",3,3,"pos",100,100,"size",12,"Rubs are... much heavier and much taller than vems",4,0
-"304",3,3,"pos",100,100,"pRichness",10,"Xons are... more intelligent than fiks, they have better memory and can pay better attention to detail",4,0
-"305",2,2,"pos",100,100,"size",11,"Fiks are taller and heavier than Leems",4,0
-"306",2,2,"neg",100,100,"biology",11,"Vems are red blooded. Elms are yellow blooded",4,0
-"307",2,2,"neg",81,80,"time",11,"Geks are able to see the space berries through the glass and understand that they needed a triangular key to open the box and they can open it the next day",4,1
-"308",2,2,"neg",81,62,"eRichness",11,"When Chups are are shown an angry face, they keep looking at the face if they are in a good mood, but they look away from the face if they are in a bad mood.",4,19
-"309",2,2,"neg",87,82,"unity",11,"Yubs are shown s picture of a fruit they can later identify it by touch",4,5
-"310",2,2,"pos",78,80,"self",9,"Huls are thieves that steal food from their neighbours",4,-2
-"311",2,2,"pos",82,83,"appearance",9,"Pods have left and right eyes and two limbs",4,-1
-"312",2,2,"neg",74,76,"pRichness",11,"Rubs can make the association between light and a treat",4,-2
-"313",1,1,"neg",49,100,"self",10,"Yubs are...thinking only of themselves and put on a good show. Geks are open and honest",4,-51
-"314",1,1,"pos",0,0,"size",10,"Huls are... are large heavy whereas Chups are small and light",4,0
-"315",1,1,"pos",100,100,"eRichness",10,"Xons are... more adaptable and tolerant",4,0
-"316",1,1,"neg",100,100,"appearance",10,"Shuks are... Norps have 3 more arms",4,0
-"317",1,1,"pos",100,100,"pRichness",10,"Dobs are... Dobs is able to compute information quicker",4,0
-"318",1,1,"pos",100,100,"unity",10,"Fiks are... able to have 2 eyes working the same",4,0
-"319",1,1,"pos",100,35,"biology",10,"Elms are... DNA",4,65
-"320",1,1,"pos",100,100,"time",10,"Toffs are... able to see the bigger picture",4,0
-"321",10,10,"neg",64,64,"size",11,"Rubs are...heaver and taller and Chups are much lighter and smaller in height",5,0
-"322",10,10,"pos",87,28,"time",15,"Dobs are... cleverer and better able to problem solve and wait for reward whilst Geks are not as smart and want immediate gratification.",5,59
-"323",10,10,"pos",70,24,"biology",11,"Pods are... more closely related to humans whilst Hul's DNA is completely unrelated from humans and they share none of the same genetic make up",5,46
-"324",10,10,"neg",79,52,"pRichness",15,"Elms are... more visually aware and have better short term memory whereas Vems cannot distinguish small visual details and cannot hold information in their short term memory.",5,27
-"325",10,10,"neg",55,56,"appearance",15,"Xons are... more like humans in that they have two eyes sat next to each other and two limbs for arms whereas Toffs features do not resemble those of humans because they have more arms and their eyes are placed differently.",5,-1
-"326",10,10,"neg",83,40,"self",11,"Shuks are... better able to recognize themselves in the mirror and attempt to hide if they are caught stealing food.",5,43
-"327",10,10,"pos",95,31,"eRichness",11,"Leems are... better able to recognise emotions and are able to tolerate disliked conditions if they get something out of it but Yubs could not weight up different needs against each other",5,64
-"328",10,10,"pos",82,26,"unity",17,"Fiks are... able to make use of information from their different senses and also share information between their eyes whereas Zags could only respond to information if their specific eye was trained so are not as good at learning",5,56
-"329",9,9,"pos",100,88,"unity",16,"Fiks can recognise a fruit once they have seen a picture of it even without touching it. Yubs have to touvh to recognise. Fiks can make a sound when they see a picture after covering either eye, yubs only play make a sound when they cover their right eye",5,12
-"330",9,9,"pos",96,89,"appearance",14,"rubs have a left and right eye with two limbs. Shuks eyes have one above the other they also have 5 limbs",5,7
-"331",9,9,"pos",100,75,"biology",10,"Geeks have 4 human bases and are red blooded. Dobs have no human bases and have yellow blood",5,25
-"332",9,9,"neg",97,96,"size",12,"Pods are taller and weigh more",5,1
-"333",9,9,"pos",98,93,"pRichness",14,"Xons are able to tell the difference between similar objects and Chups cannot. Xons are immediatly recognise a light with a treat. Chups do not recognise light with a treat if there is a delay in them seeing it",5,5
-"334",9,9,"neg",94,97,"time",16,"Huls are able to associate triangular keys with berries and prefer to eat berries immediately. Norps do not associate any keys with berries. Norps prefer to ripen berries before they eat them as well",5,-3
-"335",9,9,"neg",100,100,"self",12,"Zags like to clean even a small bit of dirt from their faces. When they still food they hide afterwards. Elms don't care if their face is slightly dirty. After elms steal food they do not hide",5,0
-"336",9,9,"neg",98,98,"eRichness",12,"Toffs look away from an angry face if they are in a bad mood, vems do not look away no matter what their mood is. Toffs prefer their berries at a certain room temperature while vems do not mind what the room temperature is",5,0
-"337",8,8,"pos",38,13,"pRichness",13,"Dobs are able to differentiate different shades of similar colours from one another which Fiks cannot. Dobs also appear to have better short term memory than Fiks, being able to associate a treat with a stimulus after as much as a one second time gap, compared to Fiks which require immediate treat dispensation",5,25
-"338",8,8,"neg",37,37,"appearance",15,"Rubs are... circular creatures with two arm like limbs and two eyes, one of which is on the left and one on the right side of the face. Xons have five limbs and two eyes, but their two eyes are separated vertically with one above and one below.",5,0
-"339",8,8,"pos",57,30,"eRichness",11,"Yubs are... affected by the mood of others, as when in a bad mood they will not look at an angry face unlike Elms which do not care. Yubs also are more likely to shift priorities depending on different situations in low temperatures, as opposed to Elms which appear behave the same way regardless of pleasureable stimuli in the face of unpleasureable stimuli",5,27
-"340",8,8,"pos",41,23,"unity",15,"Huls are... more likely able to synthesise stimuli from different sensory organs to reach conclusions than Zags. They do this in a similar way both for utilising information from both eyes and for situations where combining stimuli from touch and visuals. They perform better in both of these than Zags",5,18
-"341",8,8,"neg",31,32,"biology",11,"Geks are...creatures that possess red blood compared to Geks yellow blood. They also have DNA consisting of the four bases that comprise human DNA, unlike Vems which posses none of these bases.",5,-1
-"342",8,8,"pos",59,33,"self",11,"Shuks are... more able to recognise images of the self than Leems, as well as be more aware of how their behavior can be seen by othersthan Leems",5,26
-"343",8,8,"pos",33,9,"size",11,"Toffs are... much taller and heavier than Chups, weighing thousands of times more and measuring over a hundred times taller.",5,24
-"344",8,8,"pos",62,31,"time",15,"Norps are... More able to solve problems than Pods and are more able to abstain from immediate gratification for future pleasure than Pods",5,31
-"345",7,7,"pos",3,4,"appearance",14,"Pods are... pods have 2 eyes beside each other and 2 arms whereas huls have 2 eyes one above the other and 5 arms",5,-1
-"346",7,7,"pos",75,4,"time",14,"Elms are... more inteligent than the toffs",5,71
-"347",7,7,"neg",44,45,"size",12,"Shuks are... fatter and taller than dobs",5,-1
-"348",7,7,"neg",73,77,"self",12,"Xons are... more attentive and clever whereas vems are courageous",5,-4
-"349",7,7,"pos",65,14,"unity",14,"Zags are... are more inteligent than rubs",5,51
-"350",7,7,"pos",53,56,"biology",10,"Norps are...almost identical to human genes whereas fiks are not",5,-3
-"351",7,7,"neg",60,64,"eRichness",12,"Chups are... moody whereas geks are not",5,-4
-"352",7,7,"pos",60,35,"pRichness",12,"Leems are... more clever than yubs",5,25
-"353",6,6,"neg",36,58,"pRichness",13,"Leems are... They were almost identical apart from two things leems can tell the difference between similar objects but zags cannot",5,-22
-"354",6,6,"pos",50,31,"appearance",13,"Elms are... Elms have right and left eyes toffs have two eyes one above the other , elms have 2 arms toff 5",5,19
-"355",6,6,"pos",36,62,"eRichness",11,"Huls are... Huls have good and bad moods bur look away from the face when in a bad mood where ad pods keep looking at the face regardless",5,-26
-"356",6,6,"pos",35,61,"time",13,"Vems are... Vems understood they needed a triangular key to open the box fiks didnt ,vems left the berries to ripen fiks ate them",5,-26
-"357",6,6,"pos",27,36,"biology",9,"Geks are... Geks blood is red xons is yellow ,geks genesare made up of same 4 bases as a human where xons are not",5,-9
-"358",6,6,"neg",28,26,"self",13,"Dobs are... Dobs hide when caught rubs dont ,",5,2
-"359",6,6,"pos",27,38,"unity",13,"Norps are... Norpscan recognise fruits by touch alone shuks cannot norps have the ability to integrate imformation between both eyes",5,-11
-"360",6,6,"pos",50,31,"size",11,"Yubs are... Chiups are significantly lighter than yubs but chups are much shorter than yubs",5,19
-"361",5,5,"pos",80,64,"eRichness",10,"Toffs are more likely to withstand more for greater rewards and have a larger selection criteria for their decisions. Geks are more one dimensional with their decision making.",5,16
-"362",5,5,"pos",79,65,"unity",12,"Zags are more abstract thinking than Dobs. Zags can discern reality a little better.",5,14
-"363",5,5,"pos",68,68,"appearance",12,"Norps are more big picture animals, maybe non-predators and Huls are more directed in their physiology.",5,0
-"364",5,5,"neg",52,52,"biology",10,"Fiks are different in that they derive their DNA from humans whereas Rubs come from a different origin.",5,0
-"365",5,5,"pos",68,55,"pRichness",12,"Vems are able to delay gratification where Chups can only concentrate on the immediate present.",5,13
-"366",5,5,"pos",84,58,"time",12,"Leems are able to process change over time as a concept whereas Xons can not.",5,26
-"367",5,5,"pos",88,54,"self",12,"Pods are more likely to recognize other beings as concious.",5,34
-"368",5,5,"pos",38,38,"size",10,"Elms are much larger than Shuks",5,0
-"369",4,4,"pos",92,92,"size",9,"Geks are... larger in mass",5,0
-"370",4,4,"pos",100,70,"self",11,"Fiks are... more self-aware",5,30
-"371",4,4,"neg",100,100,"unity",13,"Zags have better visual processing",5,0
-"372",4,4,"pos",94,94,"appearance",11,"Toffs are... more similar to humans",5,0
-"373",4,4,"neg",69,69,"biology",11,"Pods are... a very different form of life compared to anything we have seen",5,0
-"374",4,4,"pos",100,100,"eRichness",9,"Leems are more able to weigh advantages and disadvantages, and really like berries.",5,0
-"375",4,4,"pos",100,100,"pRichness",11,"Yubs have better short term memory",5,0
-"376",4,4,"pos",100,98,"time",11,"Xons are... more intelligent & able to plan ahead for the future better",5,2
-"377",3,3,"pos",100,100,"unity",12,"Huls are... more able to understand the images/data they see. They have the ability to extrapolate the visual data they get and show individual thought. Norps tend to only be trained to recognise something how they have originally seen it.",5,0
-"378",3,3,"pos",100,100,"time",10,"Leems are... more able to use thought processes from previous memories for future planning, they may be able to recall memories more easily than Vems.",5,0
-"379",3,3,"neg",66,66,"size",10,"Xons are... much larger than toffs, their height and weight is much larger than toffs",5,0
-"380",3,3,"pos",100,91,"pRichness",10,"Geks have a better memory than Zags, they can remember things even when they may not have an immediate use for that memory",5,9
-"381",3,3,"pos",100,100,"self",10,"Rubs are more self-aware, they can tell it is themselves in the mirror and they try to hide when caught stealing, perhaps because they know it is wrong, Fiks don't do this.",5,0
-"382",3,3,"pos",100,100,"biology",10,"Yubs are... have the same DNA bases as humans whereas Shuks have completely different bases and have yellow blood whereas Yubs have red blood.",5,0
-"383",3,3,"neg",100,100,"eRichness",10,"Elms are... more likely to endure colder temperatures if the food tastes better, whereas Pods do not care how the food tastes, they will leave if they don't like the temperature",5,0
-"384",3,3,"pos",100,100,"appearance",10,"Chups are... more human-like in their physical form, Dobs have more limbs and their eyes are top and bottom rather than left and right",5,0
-"385",2,2,"pos",100,100,"size",9,"Fiks are... heavier and taller",5,0
-"386",2,2,"pos",100,100,"biology",9,"Rubs are... similiar in DNA to humans and their blood is red, not yellow",5,0
-"387",2,2,"neg",100,100,"time",11,"Leems are... able to make plans for the future by thinking ahead, ie by picking the berries, but waiting until they ripen. they are also smarter, as in choosing the triangular key",5,0
-"388",2,2,"neg",100,100,"eRichness",11,"Zags are... able to have emotions and react when shown different faces. They also gauge that eating is perhaps more important than being cold.",5,0
-"389",2,2,"pos",100,100,"unity",11,"Chups are... better able to use all their senses in their ability to recognise everyday objects",5,0
-"390",2,2,"pos",100,100,"pRichness",9,"Dobs are...better able to hold information in their memory, and also to differentiate between shades of colour and objects of a similar shape.",5,0
-"391",2,2,"pos",100,100,"appearance",9,"Norps are... odd looking, their eyes are horizontal like humans but they have 2 pairs of limbs making them look like a crab.",5,0
-"392",2,2,"pos",100,100,"self",9,"Pods are... abelt to recognise themselves and also to know the difference between right and wrong, and be ashamed if they are caught stealing.",5,0
-"393",1,1,"pos",100,100,"eRichness",10,"Norps are... Aliens that dislike the Cold and are able to have good and bad moods. They like Space Berries.",5,0
-"394",1,1,"pos",100,100,"time",10,"Huls are... smarter than Geks and can plan better for the future.",5,0
-"395",1,1,"neg",100,99,"biology",10,"Elms are...Elms share some DNA in common with humans and have red blood Leems have no DNA in common with humans and have yellow blood.",5,1
-"396",1,1,"neg",100,100,"self",10,"Dobs are... Self aware and Xons are not.",5,0
-"397",1,1,"neg",100,100,"size",10,"Yubs are... heavier and taller than Toffs",5,0
-"398",1,1,"neg",100,100,"pRichness",10,"Fiks are... different to Pods in that Pods have shorter memories if they are not immediately rewarded and they have trouble distinguishing between similar objects/concepts.",5,0
-"399",1,1,"neg",100,100,"appearance",10,"Chups are... different because they have a left and right eye and 2 arm like limbs, Vems have 5 limbs and one eye above the other",5,0
-"400",1,1,"pos",100,100,"unity",10,"Zags are... able to recognise items by tough after only seeing a picture, they are also able to recognise things using either eye. The opposite is true of Shuks.",5,0
+"1","10",10,"pos",86,40,"pRichness",15,"Fiks are... a species with a better reaction time than Norps and with a greater ability to distinguish objects and colors",1,46
+"2","10",10,"pos",81,52,"unity",15,"Chups are... more skilled having better senses such as hearing, sight and touch",1,29
+"3","10",10,"neg",55,74,"size",11,"Shuks are...much heavier and taller",1,-19
+"4","10",10,"pos",93,33,"appearance",9,"Xons are...similar to a human having two eyes and 2 arms",1,60
+"5","10",10,"neg",68,84,"eRichness",11,"Zags are... less expressive about emotions",1,-16
+"6","10",10,"pos",85,73,"biology",15,"Elms are... genetically very similar to humans having the same blood and DNA",1,12
+"7","10",10,"pos",100,26,"time",13,"Yubs are... smarter and more intelligent knowing how to evaluate the situation",1,74
+"8","10",10,"neg",66,74,"self",13,"Rubs are...careful about themselves and their appearance and reserved",1,-8
+"9","9",9,"pos",94,88,"unity",14,"Geks made a sound when a flower was presented to both eyes, why huls made a sound only when the flower was presented to one of their eyes.",1,6
+"10","9",9,"pos",95,87,"time",12,"Fiks saved their fruits later to eat, while yubs ate their immeiately",1,8
+"11","9",9,"neg",97,74,"appearance",10,"Chups have right and left eyes while norp's eyes are situated above each other chups have two arm-like limbs whereas norps have five",1,23
+"12","9",9,"pos",96,42,"size",10,"Toffs are around 120cm tall while zags are around 1cm tall",1,54
+"13","9",9,"pos",96,18,"self",12,"Leems remove a fleck of dirt when the see it on their forehead while pods ignore it leems hide themselves when caught stealing while pods don't",1,78
+"14","9",9,"pos",95,81,"eRichness",10,"rubs left the room when the temp dropped to 12 degree regardless of the berry's temperature while the xons left the room at 12 degrees and also took into consideration the fruits temperature(8 degrees)",1,14
+"15","9",9,"pos",98,5,"biology",14,"Shuks have red blood while dobs have yellow shuks have similar DNA to humans while dobs have no resemblance to humans",1,93
+"16","9",9,"pos",99,30,"pRichness",14,"Elms were able to tell the differences between colours while vems weren't elms where able to hold information while vems weren't",1,69
+"17","8",8,"pos",59,36,"biology",13,"Pods are more similar to humans because of genes. Also they have red blood instead of yellow.",1,23
+"18","8",8,"pos",54,46,"self",11,"Fiks are more inteligent tha Huls. They try to hide when they steal food. Also when they see a problem, they fix it, not like Huls who just ignores the problem.",1,8
+"19","8",8,"pos",56,50,"eRichness",9,"Elms are more similar to human. Similar to me, they don't like to look on angry face when they're in bad mood. Also sometimes even if they see danger, they will last as long as the reward can be get.",1,6
+"20","8",8,"neg",57,57,"appearance",11,"Leems have just more similar to human's body.",1,0
+"21","8",8,"neg",60,54,"unity",15,"Geks are more inteligent. Toffs more seems like kind of robots.",1,6
+"22","8",8,"neg",54,54,"size",11,"Norps are just much bigger species.",1,0
+"23","8",8,"neg",56,56,"pRichness",15,"Shuks have better visual skills and memory skills.",1,0
+"24","8",8,"pos",67,53,"time",11,"Vems are patient and have better memory.",1,14
+"25","7",7,"pos",63,33,"unity",14,"Geks are... more intelagent.",1,30
+"26","7",7,"pos",62,62,"appearance",10,"Huls are...only two arms.",1,0
+"27","7",7,"pos",68,68,"biology",12,"Toffs are...more silialr to humans",1,0
+"28","7",7,"pos",50,50,"size",10,"Dobs are...taller and heavier",1,0
+"29","7",7,"pos",63,36,"self",10,"Elms are...more self conscious.",1,27
+"30","7",7,"pos",64,50,"eRichness",8,"Vems are... more aware of taste and temperature",1,14
+"31","7",7,"pos",65,50,"time",10,"Xons are...better at roblem solving and have a better sense of taste",1,15
+"32","7",7,"pos",72,50,"pRichness",14,"Fiks are..more capable of seeing colours and light.",1,22
+"33","6",6,"neg",100,100,"biology",13,"Leems are an alien species that at a base level, genetically are similar to humans. Whereas Shuks have genes that are completely different. Also, Shuks have yellow blood, and Leems have red blood, again similar to humans.",1,0
+"34","6",6,"pos",100,89,"pRichness",13,"Pods seem to be more aware of their surroundings and are able to learn and retain facts and commands. They can see patterns, learn rules and differentiate between similar objects. They can also retain short-term memories and make distinctions that will benefit them. Geks can perform simple tasks like seeing patterns and learning rules, however they cannot differentiate. It seems they cannot retain much short-term memory.",1,11
+"35","6",6,"neg",100,100,"eRichness",9,"Norps are more susceptible to their surroundings than Vems. Their moods can be more easily influenced by their surroundings, for example being shown a picture of something can alter how they feel. Vems seem more resilient - they do not show susceptibility as easily, they seem to weigh their need for a stable temperature more highly than hunger.",1,0
+"36","6",6,"pos",91,90,"size",9,"A Zag weighs 45,000x more than a Hul, and are 120 times taller.",1,1
+"37","6",6,"pos",100,100,"time",9,"Elms seem to be able to make decisions that will benefit them in the long-term more easily. They can remember details they are told and recall them to make decisions that do not only give them instant gratification. Toffs can recall details, however seem to forget correlations that work in their favour. They also prefer instant gratification, even if waiting would be more beneficial.",1,0
+"38","6",6,"neg",98,98,"appearance",11,"Yubs seem similar to humans, with two side-by-side eyes and two limbs. However, Xons' eyes are above each other, and they have five limbs",1,0
+"39","6",6,"neg",100,100,"self",11,"Chups have more inner reflection than Dobs. Dobs seem to not care if caught doing something wrong, or if they are dirty or have an imperfection. Chups are more insecure, or self aware, as they try to fix the issue and try to hide if they do something wrong.",1,0
+"40","6",6,"pos",100,97,"unity",13,"Rubs seem to have more control over their senses than Fiks. They can associate their senses like sight and touch together, even if they have not touched something before. They can also receive information from either eye equally. Whereas, Fiks seem to rely on previously acquired knowledge and cannot recognise something by touch unless they have touched it before.",1,3
+"41","5",5,"pos",84,50,"biology",12,"Toffs are more human like than Yubs. Tuffs has red blood just like human while Yubs has yellow blood.",1,34
+"42","5",5,"pos",91,46,"self",10,"Rubs are clean and always want to maintain that state all the time. Rubs know when they've done something bad leems also are also clean but can do without maintaining the clean state all the time. leems are comfortable with be caught stealing.",1,45
+"43","5",5,"pos",81,50,"pRichness",12,"Zags are clever and very conscious while geks are also clever but less conscious",1,31
+"44","5",5,"neg",80,82,"time",10,"Huls are calculative for short term plans only while pods are calculative for long term plans only",1,-2
+"45","5",5,"pos",78,68,"appearance",10,"Vems are more human like with two eyes just like the human own and two limbs just like the human upper limbs",1,10
+"46","5",5,"pos",54,50,"size",8,"Dobs are bigger in size and weighs more as compare to norps",1,4
+"47","5",5,"pos",91,77,"eRichness",8,"Elms are express their moods better as compare to chups",1,14
+"48","5",5,"pos",83,50,"unity",12,"Fiks are more brillant with judgement as compare to xons",1,33
+"49","4",4,"pos",55,44,"pRichness",11,"Pods are... able to hold longer memory and cognitively differentiate between objects, which Xons cannot do.",1,11
+"50","4",4,"pos",63,45,"biology",11,"Huls are... more similar to humans genetically than Zags as a result of their base genetic makeup, resulting in likely more physiological and cognitive similarities to humans than Zags have.",1,18
+"51","4",4,"pos",53,53,"appearance",9,"Shuks have eyes horizontally separated while Norps have eyes vertically separated. Shuks also have two arms while Norps have five.",1,0
+"52","4",4,"pos",88,63,"time",9,"Dobs are... more able to cognitively prepare for the future through conscious thought and higher order thinking than Elms.",1,25
+"53","4",4,"pos",94,68,"eRichness",7,"Fiks are... able to use higher order thought, weighing needs and choosing options that are better for their physical and mental states.",1,26
+"54","4",4,"pos",53,48,"unity",11,"Leems are... more well versed in visual learning and visual memory than Geks.",1,5
+"55","4",4,"neg",38,36,"size",9,"Toffs are... far taller and heavier than Vems.",1,2
+"56","4",4,"pos",97,47,"self",9,"Yubs are... more self aware and self conscsious than Chups. They also have a grasp of the idea of risk reward, recognizing being caught would likely lead to punishment of some sort.",1,50
+"57","3",3,"pos",100,100,"unity",10,"Zags are... able to feel the fruit if just shown the picture. They are also able to see the picture and make a sound regardless if one of the eyes is untrained which the pods cannot do. It seems that they have higher sensory capabilities than the Pods.",1,0
+"58","3",3,"neg",100,100,"eRichness",8,"Norps are... more in tune with what they want? Although they are similar to Fiks in disliking temperature, if they eat the sweet space berries they leave at 8, but for some reason they will stay and eat the bitter ones longer.The Fiks will eat and stay regardless despite how cold it gets.",1,0
+"59","3",3,"pos",100,100,"pRichness",10,"Huls are... able to learn association much better than Geks. They could associate that the light meant a treat was coming even if it wasn't immediately. The Geks could understand that the light meant a treat only if it was immediately.",1,0
+"60","3",3,"pos",100,100,"size",8,"Yubs are... heavier and taller. They weigh more and are taller than Rubs according to the reading and charts although the order in the text lead to believe the chart was concurrent with it. The Yubs were listed last in the text and first on the chart.",1,0
+"61","3",3,"pos",100,100,"self",8,"Chups are... more self-aware of themselves. If they notice they're dirty they'll clean themselves. If they get caught stealing, they will try to make an excuse/frame somebody else. The Elms don't like to be dirty, but they don't make the association that it is them that is dirty. They also don't seem to care if they get caught stealing. They are probably not aware of norms/care about their image to others.",1,0
+"62","3",3,"pos",100,100,"biology",10,"Leems are... similar to humans. They have blood that is red, and their DNA is similar to humans. Dobs are like a bear/animal. Their DNA code is similar to a bear, and their blood is not the color red. Leems would be more similar to humans than Dobs.",1,0
+"63","3",3,"pos",100,100,"appearance",8,"Shuks are... normal looking because they look like a human/what we're used to seeing. Animals and humans have eyes that are side by side and have limbs on each side. The Xons look like an alien/foreign. They have a weird assortment of limbs, and their eyes are stacked on top of each other like a stereotypical alien.",1,0
+"64","3",3,"pos",100,100,"time",8,"Toffs are... are able to see the future/make the long term plan. The Toffs would acknowledge that they need the triangular key to open the box to get the berries, so they made note to choose it the next day. They also realize that if they don't eat the berries today, it will ripen and be larger and sweeter the next. They are able to plan ahead/see the benefits of waiting. The Vems are not that smart/have bad memory/not able to plan. They know that they need a triangular key to open the box. However, the next day they seem to not care/remember that the triangular key is best. In terms of the berries, they know they will ripen and become larger and sweeter. However, they still go ahead and eat them now. Perhaps, they also are impatient.",1,0
+"65","2",2,"neg",100,100,"biology",11,"Elms are...Subject of human type DNA, with red blood. Norps have no human related DNA, and have yellow blood.",1,0
+"66","2",2,"neg",100,100,"appearance",9,"Fiks are... subject of two eyes, side by side, and two arms, Dobs have two eyes, one above the other, and the bear x5 arms.",1,0
+"67","2",2,"neg",100,100,"pRichness",11,"Shuks are...able to tell the difference between shades of colour - Geks cannot. Shuks are also able to define the association with blast of light resulting in a treat. Geks only identify this upon being granted the stated treat.",1,0
+"68","2",2,"neg",100,100,"size",9,"Huls are... much heavier than Zags. Zags weight in at 1g, Huls 7kg - however are otherwise identical.",1,0
+"69","2",2,"neg",100,99,"self",9,"Toffs are... concious of cleanliness, and if see dirt - remove. Vems - of they see dirt, they avoid the seeing of it (mirror use). Toffs steal and then hide, Vems steal from neighbours - and do not hide (care not?)",1,1
+"70","2",2,"neg",100,100,"unity",11,"Pods are...Pods can see an image of s fruit - and then recognise the fruit by touch alone - Yubs are unable to do this. Pods - if shown an image of a flower to either left or right eye - they will squeak in recognition. Yubs - will on ly to this to the trained left eye alone.",1,0
+"71","2",2,"neg",100,100,"time",9,"Chups are...identical to Rubs, and are able to associate the requirement to complete a given task, and remebber the key component a day later. Rubs, are unable to complete such task, and have no active memory to assist.",1,0
+"72","2",2,"neg",100,99,"eRichness",9,"Xons are... able to experience both good and bad moods. Xons refuse to look at appearances of anger if they themselves are in a good mood. Leems care not.",1,1
+"73","1",1,"neg",98,98,"appearance",10,"Pods are... almost ""normal"" looking with their eyes being next to each other while Toffs had eyes sort of vertically arranged and had five limbs.",1,0
+"74","1",1,"pos",100,73,"biology",10,"Rubs are... more similar to humans in their genetic makeup while Huls are not similar at all.",1,27
+"75","1",1,"neg",68,90,"time",10,"Yubs are... not as concerned about the future as Chups or they are just less patient.",1,-22
+"76","1",1,"pos",93,61,"pRichness",10,"Xons are... seemingly a bit more intelligent than Norps",1,32
+"77","1",1,"neg",52,52,"size",10,"Elms are... bigger than zags",1,0
+"78","1",1,"neg",84,84,"self",10,"Dobs are... able to recognize themselves while Geks are not able to do so",1,0
+"79","1",1,"pos",82,50,"unity",10,"Fiks are... smarter than leems",1,32
+"80","1",1,"neg",59,50,"eRichness",10,"Vems are... more affected by mood than Shuks",1,9
+"81","5ec19ee0501a370888fa99b0",10,"pos",66,67,"biology",9,"Dobs are more human like with red blood and similar dna chemicals",2,-1
+"82","5ec19ee0501a370888fa99b0",10,"neg",73,75,"appearance",11,"Chups have eyes that are positioned like human with two limbs rather than five",2,-2
+"83","5ec19ee0501a370888fa99b0",10,"neg",73,74,"eRichness",13,"Vems are better at dealing with bad moods and working out when a situation is better for them",2,-1
+"84","5ec19ee0501a370888fa99b0",10,"neg",71,69,"time",13,"Huls are not as smart as the shucks and cannot see past the present",2,2
+"85","5ec19ee0501a370888fa99b0",10,"neg",68,68,"unity",13,"Leems are able to learn quickly when they need to",2,0
+"86","5ec19ee0501a370888fa99b0",10,"neg",65,71,"size",11,"Xons are much larger then xons",2,-6
+"87","5ec19ee0501a370888fa99b0",10,"neg",87,68,"self",13,"Yubs are more aware of their actions",2,19
+"88","5ec19ee0501a370888fa99b0",10,"neg",79,66,"pRichness",13,"Fiks are a lot smarter than geks",2,13
+"89","5e9aff02f4a78b1a1fe7fc3c",9,"pos",100,100,"appearance",10,"Zags are aliens with two eyes, these are right and left eyes, while Chups still have two eyes, their eyes are located on top of each other. Also another difference is Zags have to limbs that look like arms whilst the Chups have five.",2,0
+"90","5e9aff02f4a78b1a1fe7fc3c",9,"pos",100,65,"eRichness",12,"Toffs and Leems are both capable of having good and bad moods, the difference lies in their reactions when shown an angry face. A toff will when shown an angry face, keep looking at the angry face if in a good mood but look away when in a bad mood, whereas the Leems will keep looking at the angry face whatever their mood. Another difference is that it appears that Toffs have a preference for sweet berries regardless of their current conditions while the Leems seem not to have a preference for berry taste.",2,35
+"91","5e9aff02f4a78b1a1fe7fc3c",9,"pos",100,41,"self",12,"Geks appear to have a higher measure of self-recognition, shown with recognition of themselves and an imperfection in the mirror and the fact they know to hide when they have done something wrong (Stealing food). Whereas Rubs do not show much of a measure in terms of recognition, as when presented with a mirror they do not acknowledge themselves or attempt to hide when they have done a misdeed.",2,59
+"92","5e9aff02f4a78b1a1fe7fc3c",9,"pos",100,48,"time",12,"Pods are aliens that appear to have a higher intelligence, demonstrated by recognition of key shape needed to open the glass box to retrieve the space berries and the fact that they understood to wait for the berries from the tree to sweeten. Elms have a lower intelligence shown by the random pick of key shape for the glass box and the immediate eating of the fruit regardless of their ripeness",2,52
+"93","5e9aff02f4a78b1a1fe7fc3c",9,"neg",91,66,"pRichness",14,"Vems and Huls are both able to learn simple rules, but Vems demonstrate a higher understanding with more of a long term effect to their learning, this is demonstrated by the ability to tell the difference between very similar objects and when given a treat for making a connection between the light and the treat, they were still able even after waiting, this also demonstrated a higher intellect.",2,25
+"94","5e9aff02f4a78b1a1fe7fc3c",9,"pos",0,0,"size",10,"Xons are much larger and heavier than Shuks. Xons weigh around the weight of a punching bag while the Shuks weigh around the weight of a paperclip. Therefore the only difference is size and weight.",2,0
+"95","5e9aff02f4a78b1a1fe7fc3c",9,"pos",54,50,"biology",8,"Dobs are very similar to Yubs. The difference for the Dobs is that their DNA Structure has a closer resemblance to a humans, whilst having the same blood colour of a human. The Yubs do not have any comparative elements to a human, as their DNA is different and blood is yellow. Therefore making Dobs more humanoid.",2,4
+"96","5e9aff02f4a78b1a1fe7fc3c",9,"pos",100,87,"unity",12,"Fiks appear to show a higher level of inference and a better understanding of senses than Norps. This is demonstrated by the Fiks being able to recognise the touch of a fruit after being shown only a picture, showing they can understand the elements of the fruit in the picture and how they relate to touch and real life, whilst the Norps were only able to do this with previous experience of touching the fruit. Also the Fiks were able to learn a task and then apply it themselves, shown by squeaking when both eyes see a flower even though one is untrained, whilst the Norps were only able to when they are trained.",2,13
+"97","5deeae4afe675754baef331c",8,"neg",68,67,"biology",9,"Fiks are... the fiks have red blood, and have the same dna as humans, the toffs share no dna as humans and fiks and also has yellow blood",2,1
+"98","5deeae4afe675754baef331c",8,"neg",69,70,"self",13,"Shuks are... shuks have more self recognition, with the mirror and hiding when being cought, Dobs odnt have this factor of life, meaning the shuks are closer to humans with the self recognition as we do",2,-1
+"99","5deeae4afe675754baef331c",8,"neg",78,78,"eRichness",13,"Rubs are... yubs are more conditioned to wether than rubs. they have more of a need and state of survival unlike the rubs.",2,0
+"100","5deeae4afe675754baef331c",8,"neg",49,49,"time",13,"Vems are... vems can make quick descions rather than having to wait and make a descion. the quick descion will have more of a positive after, yet they fail when having to wait. xons are able to make descions which they can wait for however, in a moments descion they are fast to get their own needs.",2,0
+"101","5deeae4afe675754baef331c",8,"pos",80,27,"size",9,"Norps are... they both are bulit completly different. norps are havier and taller where as zags are short weigh lighter.",2,53
+"102","5deeae4afe675754baef331c",8,"pos",78,60,"unity",11,"Huls are... pods cant connect information together the way huls can. huls are a little smarter then the pods.",2,18
+"103","5deeae4afe675754baef331c",8,"neg",83,84,"pRichness",15,"Chups are... they have different ways of sotring information, due to memory. chups have a more favourable memory and information process, whereas elms arent able to do this. they are more able to do so in moment.",2,-1
+"104","5deeae4afe675754baef331c",8,"pos",87,88,"appearance",9,"Geks are... they have a completly different body type. leems have five arms which may be better for survival, however with geks being more able of prohibral vision they also have this trait too.",2,-1
+"105","5a88863f5292b80001231680",7,"pos",88,77,"eRichness",12,"Huls are... more emotionally advanced than gets as they distinguish between angry and non angry faces by turning away. They can also balance their wants and needs by remaining in the cold if they are given sweet berries. Geks seem more simple with not being able to do this and always acting in the same way by staring at the face whatever and always leaving at 12'C",2,11
+"106","5a88863f5292b80001231680",7,"neg",65,65,"biology",10,"Leems are... similar to humans in terms of their DNA and colour of their blood. Pods seem to differ in the colour of the blood and the chemical that makes them up.",2,0
+"107","5a88863f5292b80001231680",7,"neg",70,70,"appearance",10,"Zags are...similar to humans in terms of their two eyes being side by side and having two limbs whereas Elms res are one above each other and they have more limbs",2,0
+"108","5a88863f5292b80001231680",7,"pos",64,64,"size",8,"Shuks are...tall and have a larger weight than chups. Chups are tiny in terms of weight and size similar to a paperclip.",2,0
+"109","5a88863f5292b80001231680",7,"pos",100,95,"pRichness",14,"Norps are... able to distinguish between similar shades of colour and also seem more advanced in terms of memory and being able to be tried as they can receive the treat up. to 1sec after the light.",2,5
+"110","5a88863f5292b80001231680",7,"pos",100,99,"self",12,"Toffs are... able to recognise themselves in the mirror and are self aware. They are also capable of knowing when something is wrong as when they steal they will hide. Yubs do not do either of these so do not seem as advanced.",2,1
+"111","5a88863f5292b80001231680",7,"pos",100,99,"time",12,"Dobs are... able to make plans for the future as they will wait for the berries to ripen whereas Fiks will not and will just eat them. This is similar to comparing humans and animals as an animal will generally not wait. Does are also able to recognise shapes as they will pick the correct shaped key whereas Fiks cannot do this.",2,1
+"112","5a88863f5292b80001231680",7,"neg",95,96,"unity",12,"Xons are... more capable than vets as they are able to bring together information and recognise a flower even when shown to the other eye. They can also recognise a fruit by touching it when only shown a picture, Vems need to have also touched it before they can do this.",2,-1
+"113","54247957fdf99b691fb38467",6,"pos",94,64,"eRichness",11,"Toffs are...more sensitive to the cold. And more sensitve to loking at angry faces when in a bad mood.",2,30
+"114","54247957fdf99b691fb38467",6,"pos",93,79,"pRichness",13,"Elms are...more able to recognise differences between similar things and have a slightly better/longer memory.",2,14
+"115","54247957fdf99b691fb38467",6,"pos",86,79,"unity",11,"Huls are...more developed in terms of senses and eyesight",2,7
+"116","54247957fdf99b691fb38467",6,"pos",59,55,"biology",9,"Xons are...very similar to humans in terms of dna and blood, Rubs are not.",2,4
+"117","54247957fdf99b691fb38467",6,"neg",56,55,"size",9,"Leems are...extremely small, Vems are similar in size to a small human.",2,1
+"118","54247957fdf99b691fb38467",6,"pos",88,64,"self",11,"Dobs are...high in self awareness/recognition compared to Geks.",2,24
+"119","54247957fdf99b691fb38467",6,"pos",54,53,"appearance",9,"Shuks are...more similar to humans in terms of appearance compared to Chups.",2,1
+"120","54247957fdf99b691fb38467",6,"pos",95,77,"time",11,"Fiks are...more logical compared to Pods.",2,18
+"121","5ef4c2caf175f90c394dd1ab",5,"neg",100,100,"time",12,"Toffs are...able to plan ahead, resist temptation, solve puzzles to a greater degree than Yubs",2,0
+"122","5ef4c2caf175f90c394dd1ab",5,"pos",100,100,"appearance",8,"Rubs are...two eyes two limbs, Vems have 5 limbs and eyes one on top of the other",2,0
+"123","5ef4c2caf175f90c394dd1ab",5,"pos",95,94,"biology",8,"Elms are...more like humans in that they have red blood and share 4 dna bases. Dods are less alike in that they have yellow blood and do not share dna bases",2,1
+"124","5ef4c2caf175f90c394dd1ab",5,"pos",100,98,"size",8,"Pods are... 4 feet tall and weigh 7 stone, they are larger than Fiks who are 1g and 1 cm tall",2,2
+"125","5ef4c2caf175f90c394dd1ab",5,"neg",100,100,"self",12,"Zags are...aware of others",2,0
+"126","5ef4c2caf175f90c394dd1ab",5,"pos",100,98,"eRichness",10,"Shuks are...able to withstand cold to access sweet berries. They alter their behaviour according to their mood. Leems dont",2,2
+"127","5ef4c2caf175f90c394dd1ab",5,"pos",100,91,"pRichness",12,"Chups are...able to distinguish between similar objects and Geks can't. Chups may have better memory",2,9
+"128","5ef4c2caf175f90c394dd1ab",5,"neg",95,95,"unity",12,"Norps are...more able to apply information",2,0
+"129","5faf2c7dd2cbea1a11baa817",4,"pos",100,100,"unity",11,"Dobs can recognize a fruit by touch alone even if they haven't touched it before and make a squeak sound when a picture of a flower is presented to either eye Xons can't recognize a fruit if they haven't touched it before and doesn't make a sound when they see a flower to their untrained right eye",2,0
+"130","5faf2c7dd2cbea1a11baa817",4,"pos",100,100,"self",11,"Geks are clean and have to clean themselves if they see dirt on their forehead and try to hide themselves when they get caught",2,0
+"131","5faf2c7dd2cbea1a11baa817",4,"neg",100,100,"biology",9,"Chups have genes like a human and red blood",2,0
+"132","5faf2c7dd2cbea1a11baa817",4,"pos",100,100,"time",11,"Pods know what shape they need to choose if they want something from the box and tend to save the fruit for later",2,0
+"133","5faf2c7dd2cbea1a11baa817",4,"pos",100,100,"pRichness",11,"Vems can see and learn simple things and tell the different between similiar things",2,0
+"134","5faf2c7dd2cbea1a11baa817",4,"neg",50,24,"size",9,"Leems weigh around 45kg and are around 120cm tall",2,26
+"135","5faf2c7dd2cbea1a11baa817",4,"neg",68,73,"appearance",9,"Shuks have eyes like humans and two arms",2,-5
+"136","5faf2c7dd2cbea1a11baa817",4,"pos",90,69,"eRichness",9,"Huls have moods like humans and will look at an angry face if they are in a good mood. They like space berries and don't like cold.",2,21
+"137","5f0dcbee2c8118077e57b600",3,"neg",100,100,"appearance",10,"Toffs are... very similar to humans fundamentally. they have 2 arms and eyes in a recognisable place. xons however have 5 arms in a different place. with eyes above one another instead of side by side",2,0
+"138","5f0dcbee2c8118077e57b600",3,"pos",100,94,"eRichness",8,"Norps are... Norps are more effected by emotion of others. and they are more likely to put theyre own desires infront of their health. Vems are less effected by emotion and care more about their health then their own desires",2,6
+"139","5f0dcbee2c8118077e57b600",3,"pos",100,77,"unity",10,"Rubs are... Rubs are more intelligent and can recognise objects easier. they can also recognise from sight where yubs could not do this as productively",2,23
+"140","5f0dcbee2c8118077e57b600",3,"pos",100,100,"biology",8,"Fiks are... fiks are closer related to humans. zags are less related and more unrecognisable",2,0
+"141","5f0dcbee2c8118077e57b600",3,"pos",100,62,"time",10,"Pods are... far more sensible and intelligent. they can remember what has happened in the past.",2,38
+"142","5f0dcbee2c8118077e57b600",3,"neg",100,100,"size",10,"Shuks are...tall and heavy, theyre around the size of a punching bag. Huls are much smaller and lighter",2,0
+"143","5f0dcbee2c8118077e57b600",3,"pos",100,83,"pRichness",10,"Leems are... much better at telling the difference between objects. and much more intelligent and remember things",2,17
+"144","5f0dcbee2c8118077e57b600",3,"pos",100,72,"self",10,"Chups are... good at self care, and are more emotionally effected by things, they feel guilt and fear and remorse for theyre actions, Geks however are less intelligent and cannot feel guilt",2,28
+"145","5fd7702a90c6f7067ef8e5e5",2,"pos",80,71,"unity",9,"Fiks are... able to notice things without being trained- recognise flowers and fruits",2,9
+"146","5fd7702a90c6f7067ef8e5e5",2,"neg",89,89,"eRichness",9,"Zags are... able to recognise emotion in others and label how they feel themselves. They like sweet berries and find it hard to notice the cold if they are distracted",2,0
+"147","5fd7702a90c6f7067ef8e5e5",2,"neg",22,17,"biology",9,"Shuks are... have yellow blood",2,5
+"148","5fd7702a90c6f7067ef8e5e5",2,"pos",36,73,"pRichness",9,"Rubs are... less sentient than elms",2,-37
+"149","5fd7702a90c6f7067ef8e5e5",2,"pos",73,50,"self",9,"Chups are... able to recognise themselves in mirrors",2,23
+"150","5fd7702a90c6f7067ef8e5e5",2,"neg",67,63,"appearance",11,"Yubs are... humanoid with 2 eyes side by side and human like arms",2,4
+"151","5fd7702a90c6f7067ef8e5e5",2,"pos",84,67,"time",9,"Dobs are... able to problem solve and predict the future rewards",2,17
+"152","5fd7702a90c6f7067ef8e5e5",2,"pos",96,95,"size",9,"Vems are... smaller than huls",2,1
+"153","5de77dcd7da01d6f051f6bff",1,"neg",100,100,"unity",10,"Norps are... Able to use their senses at a higher level",2,0
+"154","5de77dcd7da01d6f051f6bff",1,"neg",100,100,"self",10,"Xons are... Slightly more aware of their surroundings",2,0
+"155","5de77dcd7da01d6f051f6bff",1,"pos",100,100,"appearance",10,"Huls are... more similar in appearance to humans",2,0
+"156","5de77dcd7da01d6f051f6bff",1,"neg",100,100,"pRichness",10,"Zags are... slightly more intelligent",2,0
+"157","5de77dcd7da01d6f051f6bff",1,"neg",100,100,"biology",10,"Leems are... more similar in DNA make up to humans",2,0
+"158","5de77dcd7da01d6f051f6bff",1,"neg",100,100,"eRichness",10,"Shuks are... slightly better at prioritising needs and controlling their emotions",2,0
+"159","5de77dcd7da01d6f051f6bff",1,"neg",100,100,"time",10,"Pods are... slightly better at preparing for the future rather than only focusing on the present",2,0
+"160","5de77dcd7da01d6f051f6bff",1,"neg",100,100,"size",10,"Yubs are... much larger and closer in size to humans",2,0
+"161","5fde1acf0f62f44eb7affd64",10,"pos",100,19,"self",11,"Chups are... more self-aware as they will attempt to wipe remove dirt from themselves or hide themselves if they are caught stealing food. They seem to care a lot about what others think of their appearance and behaviour.",3,81
+"162","5fde1acf0f62f44eb7affd64",10,"neg",50,50,"biology",17,"Geks are... very similar to humans as they have the same bases that make up human DNA and also have red blood.",3,0
+"163","5fde1acf0f62f44eb7affd64",10,"neg",39,65,"time",15,"Zags are... more logical in their thinking but may make rash decisions due to a lack of patience.",3,-26
+"164","5fde1acf0f62f44eb7affd64",10,"neg",49,49,"appearance",11,"Toffs are... more physically resembling human appearance with two aligned eyes and two limbs for arms.",3,0
+"165","5fde1acf0f62f44eb7affd64",10,"pos",100,94,"pRichness",15,"Huls are... slightly more intelligent than Leems and have the ability to think quicker and effectively at a higher performance.",3,6
+"166","5fde1acf0f62f44eb7affd64",10,"pos",82,62,"eRichness",11,"Shuks are... more likely to shy away from their own emotions but are able to cope with lower temperatures for berries.",3,20
+"167","5fde1acf0f62f44eb7affd64",10,"pos",100,55,"unity",11,"Pods are... very intelligent and able to pick up different senses effectively from very minimal interaction or vision of objects beforehand.",3,45
+"168","5fde1acf0f62f44eb7affd64",10,"neg",51,51,"size",11,"Fiks are... hugely taller and heavier.",3,0
+"169","5e399832a6df461b2f4db341",9,"pos",100,93,"size",10,"Norps are... much taller than Xons (120 cm compared to 1cm) as well as being heavier (45kg compared to 1 gram)",3,7
+"170","5e399832a6df461b2f4db341",9,"pos",100,100,"eRichness",10,"Zags are... able to experience both good and bad moods, but look away from the face when in a bad mood, unlike Yubs who look at the face regardless of mood. Zags dislike the cold and leave the room at 12 degrees in the unsweet condition but at 8 degrees in the sweet berry condition, compared with Yubs who leave the room at 12 degrees regardless of sweetness.",3,0
+"171","5e399832a6df461b2f4db341",9,"pos",100,100,"unity",10,"Fiks are... able to recognise fruit by touch even if they haven't touched it before, whereas Rubs can only recognise it if they have touched it before. Fiks also make a squeak sound when seeing a flower with both the trained and untrained eye, whereas Rubs only respond when it is seen by the trained left eye.",3,0
+"172","5e399832a6df461b2f4db341",9,"pos",100,100,"appearance",10,"Pods are... 2 limbed creatures with left and right eyes, whereas Vems have 5 limbs and eyes one on top of the other.",3,0
+"173","5e399832a6df461b2f4db341",9,"pos",100,100,"self",10,"Geks are... able to self-recognise, they like to stay clean and will wipe away flecks of dirt they see in the mirror. Huls also like to be clean but dont recognise themselves in the mirror, evidences by their lack of recognition to seeing dirt on themselves in the mirror. Both live in small groups and sometimes steal from their neighbours, Geks try to hide but Huls dont.",3,0
+"174","5e399832a6df461b2f4db341",9,"pos",100,100,"time",14,"Dobs are... able to understand that they need the triangle key to open the box and access the berries, whereas Chups dont show a preference for selecting the triangle key. When given unripe fruit the Dobs do not immediately eat them, instead they wait, whereas in the same situation the Chups would eat the fruit immediately.",3,0
+"175","5e399832a6df461b2f4db341",9,"pos",100,100,"biology",16,"Leems are... made up of the same DNA as humans, whereas Shuks aren't. Leems also bleed red, whereas Shuks bleed yellow.",3,0
+"176","5e399832a6df461b2f4db341",9,"pos",100,100,"pRichness",14,"Elms are... able to discriminate between very similar object, unlike Toffs. Elms are able to make an associate between the light and the treat even with a delay, unlike Toffs who could only associate with no time delay.",3,0
+"177","5f6c9e7e9d4078069e0d5e08",8,"pos",97,75,"time",13,"Shuks are more able than Rubs to make plans for for the future",3,22
+"178","5f6c9e7e9d4078069e0d5e08",8,"pos",100,100,"eRichness",9,"Huls are more able than Chups to make decisions based on what they like and dislike",3,0
+"179","5f6c9e7e9d4078069e0d5e08",8,"neg",50,50,"appearance",11,"Leems are have right and left eyes and two humanoid type arms; Zags have two eyes one above the other, and five arms",3,0
+"180","5f6c9e7e9d4078069e0d5e08",8,"pos",100,92,"self",9,"Norps are able to recognise themselves in a mirror, and also a figurative mirror (recognising behaviour). Elms cannot.",3,8
+"181","5f6c9e7e9d4078069e0d5e08",8,"neg",50,50,"size",11,"Yubs are much taller and heavier than Toffs",3,0
+"182","5f6c9e7e9d4078069e0d5e08",8,"neg",89,89,"unity",11,"Fiks are more able to recognise and integrate stimulus to different senses",3,0
+"183","5f6c9e7e9d4078069e0d5e08",8,"neg",100,98,"pRichness",15,"Pods are able to recognise even subtle differences between similar objects, and to make connections between events, even if the time varies. Geks cannot.",3,2
+"184","5f6c9e7e9d4078069e0d5e08",8,"neg",50,50,"biology",17,"Dobs are more similar to humans; their DNA is made up of the same four components and their blood is red. This is not true for Xons.",3,0
+"185","5e827e743fc2bd0f3dcfc34d",7,"pos",82,50,"time",12,"Elms are... will mostly follow instructions or familiar steps. They also like to wait until their fruits are ripe to indulge",3,32
+"186","5e827e743fc2bd0f3dcfc34d",7,"pos",88,48,"pRichness",14,"Fiks are... able to comprehend rules when given a task.They don't just rush to do something. they think before they act",3,40
+"187","5e827e743fc2bd0f3dcfc34d",7,"pos",51,50,"appearance",10,"Rubs are... they have different body types specifically with their eyes and arms",3,1
+"188","5e827e743fc2bd0f3dcfc34d",7,"pos",56,50,"unity",10,"Yubs are... enhanced in having photographic memory. they have a special skill",3,6
+"189","5e827e743fc2bd0f3dcfc34d",7,"pos",83,10,"self",8,"Dobs are... OCD AND FEEL GUILTY WHEN THEY ARE CAUGHT DOING SOMETHING WRONG",3,73
+"190","5e827e743fc2bd0f3dcfc34d",7,"pos",46,47,"eRichness",8,"Shuks are... VERY EMPTHATIC. THEY HAVE A RANGE OF EMOTIONS.",3,-1
+"191","5e827e743fc2bd0f3dcfc34d",7,"pos",54,50,"biology",16,"Vems are... HAVE A DIFFERENT COLOR OF BLOOD AND THEY ALSO HSVE HUMAN GENETIC MAKUP",3,4
+"192","5e827e743fc2bd0f3dcfc34d",7,"neg",57,57,"size",12,"Xons are... TALLER AND HEAVIER IN WEIGHT AND HEIGHT",3,0
+"193","58556f5f71a3ef0001cc94f1",6,"pos",100,100,"biology",15,"Dobs are... Dobs red veins. Vems are yellow.Dob genes are made up of the same four bases that make up human DNA, ACTG. The genes of Vems are made up of bases that bear no chemical resemblance to human DNA.",3,0
+"194","58556f5f71a3ef0001cc94f1",6,"pos",100,100,"time",11,"Huls are... able to see the space berries through the glass and understand why they needed a certain key. Fiks did not understand that a triangular key was needed. Huls also prefer the larger, sweeter space berries like Fiks but Fiks do not save them for later like Huls",3,0
+"195","58556f5f71a3ef0001cc94f1",6,"pos",100,100,"pRichness",13,"Xons are... able to learn simple rules and differentiate between very similar objects. Rubs are also able to do this but cannot differentiate between similar objects. Xions could differentiate between light and treat in all circumstances but Rubs were only able to do this when it was given straight away.",3,0
+"196","58556f5f71a3ef0001cc94f1",6,"pos",100,100,"self",7,"Zags are... clean and remove dirt when they see it. Geks are clean but they tend to ignore the fleck of dirt on the mirror. Zags live in groups and steal neighbour's food, but hide when they do so, Geks do the same but don't try and hide.",3,0
+"197","58556f5f71a3ef0001cc94f1",6,"neg",100,100,"appearance",11,"Elms are... physically different from Toffs in that they have left and right eyes, where as Toffs have one above the other, unlike next to each other. Elms have 2 limbs, Toffs have 5.",3,0
+"198","58556f5f71a3ef0001cc94f1",6,"pos",100,100,"unity",9,"Yubs are... able to recognise fruit through touch. Chups aren't able to do this unless they have touched it before. Yubs are able to be trained to react to a photo of something but Chups can only recognise it through their left eye.",3,0
+"199","58556f5f71a3ef0001cc94f1",6,"pos",100,100,"eRichness",7,"Pods are... able to recognise emotions in faces but look away from the faces when in a bad mood. Norps also do but don't look away regardless of mood. Pods don't like cold weather and unsweet berries, Norps don't either but don't leave the room because of it.",3,0
+"200","58556f5f71a3ef0001cc94f1",6,"pos",100,100,"size",11,"Shuks are... heavier and taller than Leems",3,0
+"201","5d51f0cd8c48ca0001855d35",5,"pos",80,78,"size",10,"Chups are... taller than vems and weigh more.",3,2
+"202","5d51f0cd8c48ca0001855d35",5,"neg",77,55,"appearance",12,"Geks are... less mobile than huls as they have less legs.",3,22
+"203","5d51f0cd8c48ca0001855d35",5,"neg",100,38,"self",8,"Rubs are... more self-conscious than Elms and feel more guilt.",3,62
+"204","5d51f0cd8c48ca0001855d35",5,"pos",88,45,"unity",8,"Xons are...smarter than Leems and more intellectual.",3,43
+"205","5d51f0cd8c48ca0001855d35",5,"pos",88,50,"biology",14,"Pods are...more human-like than Shuks.",3,38
+"206","5d51f0cd8c48ca0001855d35",5,"neg",59,85,"eRichness",8,"Yubs are... less resistant than Zags.",3,-26
+"207","5d51f0cd8c48ca0001855d35",5,"neg",55,55,"time",12,"Dobs are... more similar to humans when it comes to reasoning tasks.",3,0
+"208","5d51f0cd8c48ca0001855d35",5,"pos",80,47,"pRichness",12,"Toffs are... able to discriminate between things/objects more than Fiks.",3,33
+"209","5dc97a605cb36e6919613bcd",4,"neg",65,65,"eRichness",9,"Xons are... they have more bad moods to Geks and disliked the cold more",3,0
+"210","5dc97a605cb36e6919613bcd",4,"pos",74,58,"time",11,"Dobs are...more intelligent than Norps",3,16
+"211","5dc97a605cb36e6919613bcd",4,"pos",83,71,"biology",13,"Huls are... more like humans than Zags. Huls blood is red, Zags blood is yellow",3,12
+"212","5dc97a605cb36e6919613bcd",4,"pos",72,71,"appearance",11,"Toffs are... more like humans and have two eyes and two arms whereas Vems two eyes are one above the other and they have five arms",3,1
+"213","5dc97a605cb36e6919613bcd",4,"pos",69,61,"pRichness",11,"Elms are...able to differentiate between different shades of red. They can also hold information in their memories for longer",3,8
+"214","5dc97a605cb36e6919613bcd",4,"neg",67,68,"self",9,"Chups are...cleaner than Rubs and are also sneakier than Rubs",3,-1
+"215","5dc97a605cb36e6919613bcd",4,"neg",84,77,"unity",9,"Pods are...able to recognise fruit without touching it first. They can also integrate information better between both eyes than Shuks",3,7
+"216","5dc97a605cb36e6919613bcd",4,"neg",63,63,"size",11,"Fiks are...taller and heavier than Leems",3,0
+"217","5eaa97d07eda6e01ec108107",3,"pos",0,0,"size",10,"weight and height",3,0
+"218","5eaa97d07eda6e01ec108107",3,"pos",0,0,"pRichness",10,"Zags are able to associate two things with each other without them being present e.g. light = treat",3,0
+"219","5eaa97d07eda6e01ec108107",3,"neg",90,29,"self",10,"Geks are more self-conscious",3,61
+"220","5eaa97d07eda6e01ec108107",3,"pos",57,35,"biology",12,"Shuks are more similar genetically to humans",3,22
+"221","5eaa97d07eda6e01ec108107",3,"neg",38,60,"unity",10,"Toffs are able to integrate information between both eyes, whereas Pods need to have interacted with the object e.g. hands, both eyes",3,-22
+"222","5eaa97d07eda6e01ec108107",3,"neg",52,58,"appearance",12,"Dobs have forelimbs than Rubs and also have a different range of vision",3,-6
+"223","5eaa97d07eda6e01ec108107",3,"neg",63,33,"time",12,"Chups are less impatient",3,30
+"224","5eaa97d07eda6e01ec108107",3,"neg",35,72,"eRichness",10,"Fiks are motivated by rewards",3,-37
+"225","5ef8bf948a48ac03adaad640",2,"neg",80,80,"unity",11,"Dobs are... recognise fruit from a print image make a squeak",3,0
+"226","5ef8bf948a48ac03adaad640",2,"pos",79,82,"appearance",11,"Leems are... right and left eye, 2 arms elms 5 arms eyes on top of each other",3,-3
+"227","5ef8bf948a48ac03adaad640",2,"neg",84,84,"pRichness",11,"Rubs are... light and treat a long time after, see difference in objects",3,0
+"228","5ef8bf948a48ac03adaad640",2,"pos",90,74,"time",11,"Norps are... able to remember and process things days later, able to make wise choices ie wait for better things, not immediate gratification",3,16
+"229","5ef8bf948a48ac03adaad640",2,"pos",84,84,"biology",11,"Chups are...more similar to humans in terms of dna and blood colour",3,0
+"230","5ef8bf948a48ac03adaad640",2,"neg",80,73,"eRichness",11,"Xons are... react to external factors depending on their mood",3,7
+"231","5ef8bf948a48ac03adaad640",2,"neg",87,71,"self",11,"Geks are... self aware - they remove dirt and hide if they have done something wrong",3,16
+"232","5ef8bf948a48ac03adaad640",2,"neg",77,75,"size",11,"Pods are... 7st, 4ft",3,2
+"233","600fad98481b471b76c467bc",1,"pos",100,100,"eRichness",10,"Elms are more able to stand the cold is it involves something the like as pods can only take a certain temperature. Elms also seem to not like to look at things they dislike as pods have the ability to always keep everything in front of them. This might lead to Elms falling into trouble by not paying attention in certain situations.",3,0
+"234","600fad98481b471b76c467bc",1,"pos",100,95,"biology",10,"Chups are closely related to human well leems are not related at all. The fact they have completely different DNA but still appear to resemble each should be studied further",3,5
+"235","600fad98481b471b76c467bc",1,"pos",79,86,"time",10,"Vems have the ability to recognize an object and know it will be needed for future use but only have the ability to understand instant food needs. Well the Huls lack the ability to recognize tools for future use but understand storing of food makes it taste better and plan ahead.",3,-7
+"236","600fad98481b471b76c467bc",1,"pos",80,77,"appearance",10,"Geks are more humanoid as norps have more developed arms for grabbing more things at once.",3,3
+"237","600fad98481b471b76c467bc",1,"pos",100,99,"size",10,"Zags are exactly identical to rubs but suffer from a disease that only allows them to grow really really small",3,1
+"238","600fad98481b471b76c467bc",1,"pos",89,91,"pRichness",10,"Xons seem to have a longer term memory as well as differentiate between like items. Were as shuks only understand the instant gratification of rewards are seen to be slightly color blind",3,-2
+"239","600fad98481b471b76c467bc",1,"pos",90,98,"unity",10,"Yubs have the ability to see an object in print and then recognize it by picking it out later, they are both sight and touch able. Does on the other hand must reply more on feel than sight for their to store the information better.",3,-8
+"240","600fad98481b471b76c467bc",1,"pos",93,92,"self",10,"Toffs seem to understand the ability of an object to help with their grooming as well as right and wrong and understand that wrong makes you feel ashamed and scared. Fiks see the mirror and only see an object that is trying to give them wrong information, thus ignoring the dirt on their head, claiming it is fake import. They also don't show any remorse for their actions that hurt others",3,1
+"241","5780d9a1900cc80001d2d1c2",10,"pos",70,71,"appearance",9,"Xons have two eyes side by side and two limbs. Geks, however, have two eyes one above the other and have five limbs",4,-1
+"242","5780d9a1900cc80001d2d1c2",10,"neg",86,63,"pRichness",15,"Vems are are able to distingious between very imilar items whereas the Chups cannot. Both are able to do simple tasks but the Vems remember for longer than the Chups",4,23
+"243","5780d9a1900cc80001d2d1c2",10,"pos",83,58,"eRichness",13,"Huls are able to show there moods as when they are shown an angry face they continue to stare at it if they are happy but turn away if they are angry. The Elms just continue to stare regardless of their mood. Also, both the Huls and Elms don't like cold but Huls will stay for longer in a cold room if they have sweet space berries whereas, the Elms show no preferance",4,25
+"244","5780d9a1900cc80001d2d1c2",10,"pos",82,58,"biology",13,"Pods are are similar to humans having the same 4 DNA genes and red blood where as the Toof have totally different DNA and yellow blood",4,24
+"245","5780d9a1900cc80001d2d1c2",10,"pos",86,53,"time",11,"Dobs are are more intellegent as the mainly pick the right shaped key to access a locked box whereas the Zags just picked random keys. Also, the Dobs would wait for berries to ripen whereas the Zags would eat the less good unripe berries",4,33
+"246","5780d9a1900cc80001d2d1c2",10,"neg",59,59,"unity",11,"Yubs are are able to be shown a picture of a fruit and the select it by touch whereas the Shuks cannot. However, when trained the Shuks can give a pavlovs dog reponse whereas the Yubs could not",4,0
+"247","5780d9a1900cc80001d2d1c2",10,"pos",26,27,"size",11,"Leems are are a lot heavier and very much taller than the Norps",4,-1
+"248","5780d9a1900cc80001d2d1c2",10,"neg",80,46,"self",13,"Fiks and Rubs like to keep themselves clean but if a Fik sees dirt on his face he will try to remove it whereas a Rub would ignore the device showing him the dirt. Also both spieces steal from their neighbours but when the Fiks are caught they try to hid whereas the Rubs do not",4,34
+"249","5eab095edf5d490aef65a2da",9,"pos",94,55,"biology",12,"Vems are... Vems have similar DNA to humans unlike pods Vems also have red blood whereas pods have yellow blood.",4,39
+"250","5eab095edf5d490aef65a2da",9,"neg",58,62,"eRichness",14,"Leems are able to feel good and bad moods, however when a leem is shown an angry face it will look away if in a bad mood, whereas shuks will look at the face no matter their mood.",4,-4
+"251","5eab095edf5d490aef65a2da",9,"neg",45,57,"time",12,"Rubs are... impatient compared to dobs, as they didn't wait for the berries to ripen. Rubs however understood they needed the triangle key to open the box and remembered that whereas the dobs didnt necessarily choose the triangfle key",4,-12
+"252","5eab095edf5d490aef65a2da",9,"pos",76,42,"pRichness",14,"Chups have stronger memories than elms",4,34
+"253","5eab095edf5d490aef65a2da",9,"neg",61,56,"appearance",10,"Huls have 5 arms and yubs have 2, yubs also have two eyes on top of eachother whereas huls have right and left eyes.",4,5
+"254","5eab095edf5d490aef65a2da",9,"neg",60,64,"unity",12,"When Geks are shown a printed image of a new fruit, they are able to recognise it by touch only even if they have never touched t before. When zags are shown the image they cannot recognise the fruit by only touch.",4,-4
+"255","5eab095edf5d490aef65a2da",9,"neg",77,72,"size",12,"Norps weight about 7 stone and are much taller than xons which are about 1g and a couple cm tall.",4,5
+"256","5eab095edf5d490aef65a2da",9,"pos",90,68,"self",12,"Toffs clean them self if they see dirt on them self in a mirror, they also live in small groups and steal food from their neighbours and hide if caught Fiks dont clean themselves if they notice they are dirty in the mirror and they also steal food but dont hide if they are caught.",4,22
+"257","5f5a4d7af233b40d54c6a53e",8,"pos",92,88,"self",11,"Toffs are... able to recognise themselves in the mirror, and have a sense of self-preservation (hide when they're caught stealing food from the neighbours)",4,4
+"258","5f5a4d7af233b40d54c6a53e",8,"pos",89,76,"eRichness",13,"Chups are... More in tune with their emotional state and can respond to external displays of emotion (when shown an angry/happy face for example). They're also able to weigh their needs and desires and decide on their course of action based on that.",4,13
+"259","5f5a4d7af233b40d54c6a53e",8,"pos",71,71,"biology",11,"Geks are... Biologically (genetically) more similar to humans; they have the same nucleic acids as humans do, and their blood looks the same to human blood (whether or not their composition is the same isn't known however).",4,0
+"260","5f5a4d7af233b40d54c6a53e",8,"pos",89,77,"pRichness",13,"Shuks are... able to spot the difference between 2 very similar objects (like shades of colour), and they're also able to retain pieces of information in their memory for some time",4,12
+"261","5f5a4d7af233b40d54c6a53e",8,"pos",90,79,"unity",11,"Zags are... able to combine information from different senses (like touch and sight), as well as integrate information between 2 eyes (so what they've learnt to do with one eye, they can replicate with the other)",4,11
+"262","5f5a4d7af233b40d54c6a53e",8,"pos",53,53,"appearance",9,"Elms are... Phenotypically more similar to humans, with the same eye orientation (right and left) and the same limb morphology (2 arm-like limbs)",4,0
+"263","5f5a4d7af233b40d54c6a53e",8,"pos",86,82,"time",11,"Huls are... able to plan ahead for the future, and also seem to be able to relate certain decisions/choices to what they've previously learned/experienced",4,4
+"264","5f5a4d7af233b40d54c6a53e",8,"pos",53,53,"size",11,"Leems are... phenotypically more similar to humans, with a weight and height that corresponds to a small human (maybe a child)",4,0
+"265","5cd59972141c860019dde025",7,"pos",100,100,"time",10,"Yubs are...more able to make plans for the future and take strategic decisions which are more likely to ensure their survival. We might say they are more intelligent than Toffs",4,0
+"266","5cd59972141c860019dde025",7,"pos",100,100,"pRichness",12,"Vems are...more able than Shuks to hold information for short periods of time",4,0
+"267","5cd59972141c860019dde025",7,"pos",100,100,"self",10,"Pods are...more likely to exhibit behaviour indicative of shame if they steal food from a neighbour. They also are able to understand that the reflection in the mirror is them. Rubs are unable to do this.",4,0
+"268","5cd59972141c860019dde025",7,"pos",100,100,"unity",10,"Geks are...better at using information from combined senses, and better at interpreting information shown to the eyes",4,0
+"269","5cd59972141c860019dde025",7,"neg",49,50,"size",12,"Elms are...smaller and lighter than Huls",4,-1
+"270","5cd59972141c860019dde025",7,"pos",100,100,"eRichness",12,"Fiks are...more able to choose between different priorities, eg able to tolerate the cold for longer in order to eat sweet berries that they like to eat",4,0
+"271","5cd59972141c860019dde025",7,"neg",100,100,"appearance",10,"Dobs are...five limbed. They have two yes which are one on top of the other. Chups have two eyes which are side by side. THEY HAVE TWO LIMBS. Chups look more like humans than Dobs",4,0
+"272","5cd59972141c860019dde025",7,"pos",50,51,"biology",10,"Leems are...more like humans because their blood is red and their DNA is similar to that of humans",4,-1
+"273","5f6b3438e9b7710ee0aa69b3",6,"neg",0,0,"size",13,"Geks are taller and heavier than Zags. Zags are 1cm tall and weigh the same as a paperclip, whilst Geks are as heavy as punching bags and 120cm tall.",4,0
+"274","5f6b3438e9b7710ee0aa69b3",6,"neg",0,0,"self",11,"Elms are clean and like to hide their wrongdoings, whilst Xons don't care about their outward appearance.",4,0
+"275","5f6b3438e9b7710ee0aa69b3",6,"neg",0,0,"appearance",11,"Fiks have 5 limbs and two eyes next to each other, whilst Dobs have two eyes above each other and 2 limbs.",4,0
+"276","5f6b3438e9b7710ee0aa69b3",6,"pos",100,100,"pRichness",11,"Toffs are smarter than Chups",4,0
+"277","5f6b3438e9b7710ee0aa69b3",6,"pos",100,100,"eRichness",11,"Shuks are picky but Vems don't care as long as they get their treat.",4,0
+"278","5f6b3438e9b7710ee0aa69b3",6,"neg",47,42,"biology",11,"Rubs are made of the same genetic material as humans and bleed the same colour, whereas Huls don't",4,5
+"279","5f6b3438e9b7710ee0aa69b3",6,"neg",78,78,"unity",11,"Norps are more intelligent when it comes to sight and object recognition",4,0
+"280","5f6b3438e9b7710ee0aa69b3",6,"neg",92,91,"time",11,"Yubs are smarter than Pods",4,1
+"281","5cf806142780ca001a9d5cee",5,"neg",100,100,"time",12,"Norps are... able to problem solve, have better space awareness, and understand delay for better reward. Leems sre less developed in these respacts.",4,0
+"282","5cf806142780ca001a9d5cee",5,"neg",62,61,"biology",12,"Xons are... like humans as same genetic make up and blood colour. Elms do not share our genetic makeup.",4,1
+"283","5cf806142780ca001a9d5cee",5,"pos",55,54,"appearance",10,"Pods are... more human like than rubs i their appearance. Pods eyes are spaced like ours and they have 2 arms unlike Rubs.",4,1
+"284","5cf806142780ca001a9d5cee",5,"neg",100,100,"eRichness",12,"Fiks are...emotionally more advanced than vems.",4,0
+"285","5cf806142780ca001a9d5cee",5,"neg",100,100,"unity",12,"Chups are... able to integrate information better than zags",4,0
+"286","5cf806142780ca001a9d5cee",5,"neg",100,100,"self",12,"Huls are...better at self recognition than Shuks. They also know how to stay away from danger better.",4,0
+"287","5cf806142780ca001a9d5cee",5,"pos",100,100,"pRichness",10,"Yubs are... better with short-term memory and can identify colours more easily.",4,0
+"288","5cf806142780ca001a9d5cee",5,"neg",100,100,"size",14,"Geks are... bigger and heavier than Toffs.",4,0
+"289","5f58ad1de350f30278169535",4,"neg",85,81,"pRichness",11,"Geks are able to to differentiate between similar object but pods are not, Pods have poor short term memory compared to Geks",4,4
+"290","5f58ad1de350f30278169535",4,"pos",93,76,"eRichness",11,"Fiks mood influences their behaviour whereas leems does not. Fiks can endure a degree of discomfort if sufficiently motivated, leems not.",4,17
+"291","5f58ad1de350f30278169535",4,"pos",51,51,"size",13,"Norps are lightwweight and short zags are tall and much heavier..",4,0
+"292","5f58ad1de350f30278169535",4,"pos",51,51,"biology",11,"Vems are Genetically similar to humans with similar appearing blood, neither is true of dobs...",4,0
+"293","5f58ad1de350f30278169535",4,"pos",97,28,"self",11,"Rubs are.able to recognise themselves in a mirror and are(possibly) aware stealing is wrong (or at least frowned upon) neither of these are true of Yubs..",4,69
+"294","5f58ad1de350f30278169535",4,"pos",78,69,"unity",11,"Huls are able to integrate information from different sensory modalities and also information presented to left or right eye neither of these things is true of toffs..",4,9
+"295","5f58ad1de350f30278169535",4,"pos",92,58,"time",11,"Elms are able to plan for the future and will delay gratification (eating berries) for a greater reward (better tasting berries later, shuks do not exhibit this behaviour",4,34
+"296","5f58ad1de350f30278169535",4,"pos",51,51,"appearance",9,"Xons are posseswed of two side by side eyes and two arems wheres chuups eyes are arranged on a verticle axis and they have 5 arms",4,0
+"297","5ffe9097b65b905549abe5f1",3,"neg",100,100,"appearance",10,"Norps are... creatures with 2 arms unlike geks who have 5. Norps also have a different placement of eyes on their body compared to geks",4,0
+"298","5ffe9097b65b905549abe5f1",3,"pos",100,100,"self",10,"Zags are... creautures that care about their appearance and reputation more than leems",4,0
+"299","5ffe9097b65b905549abe5f1",3,"pos",100,100,"unity",10,"Yubs are... more intelligent than elms and can better process information",4,0
+"300","5ffe9097b65b905549abe5f1",3,"pos",100,100,"time",10,"Pods are... more intelligent than chups and have much better memory",4,0
+"301","5ffe9097b65b905549abe5f1",3,"pos",100,100,"biology",10,"Shuks are... creatures who have a DNA with similar base structure to humans. Shuks have red blood whereas toffs have yellow blood",4,0
+"302","5ffe9097b65b905549abe5f1",3,"pos",100,100,"eRichness",10,"Dobs are... more likely to do something if the end result will make them happy. They are also more willing to undergo hardship to achieve a goal",4,0
+"303","5ffe9097b65b905549abe5f1",3,"pos",100,100,"size",12,"Rubs are... much heavier and much taller than vems",4,0
+"304","5ffe9097b65b905549abe5f1",3,"pos",100,100,"pRichness",10,"Xons are... more intelligent than fiks, they have better memory and can pay better attention to detail",4,0
+"305","5f619d46bfaddb146a5c04e6",2,"pos",100,100,"size",11,"Fiks are taller and heavier than Leems",4,0
+"306","5f619d46bfaddb146a5c04e6",2,"neg",100,100,"biology",11,"Vems are red blooded. Elms are yellow blooded",4,0
+"307","5f619d46bfaddb146a5c04e6",2,"neg",81,80,"time",11,"Geks are able to see the space berries through the glass and understand that they needed a triangular key to open the box and they can open it the next day",4,1
+"308","5f619d46bfaddb146a5c04e6",2,"neg",81,62,"eRichness",11,"When Chups are are shown an angry face, they keep looking at the face if they are in a good mood, but they look away from the face if they are in a bad mood.",4,19
+"309","5f619d46bfaddb146a5c04e6",2,"neg",87,82,"unity",11,"Yubs are shown s picture of a fruit they can later identify it by touch",4,5
+"310","5f619d46bfaddb146a5c04e6",2,"pos",78,80,"self",9,"Huls are thieves that steal food from their neighbours",4,-2
+"311","5f619d46bfaddb146a5c04e6",2,"pos",82,83,"appearance",9,"Pods have left and right eyes and two limbs",4,-1
+"312","5f619d46bfaddb146a5c04e6",2,"neg",74,76,"pRichness",11,"Rubs can make the association between light and a treat",4,-2
+"313","601056fe0e610a339db2e43b",1,"neg",49,100,"self",10,"Yubs are...thinking only of themselves and put on a good show. Geks are open and honest",4,-51
+"314","601056fe0e610a339db2e43b",1,"pos",0,0,"size",10,"Huls are... are large heavy whereas Chups are small and light",4,0
+"315","601056fe0e610a339db2e43b",1,"pos",100,100,"eRichness",10,"Xons are... more adaptable and tolerant",4,0
+"316","601056fe0e610a339db2e43b",1,"neg",100,100,"appearance",10,"Shuks are... Norps have 3 more arms",4,0
+"317","601056fe0e610a339db2e43b",1,"pos",100,100,"pRichness",10,"Dobs are... Dobs is able to compute information quicker",4,0
+"318","601056fe0e610a339db2e43b",1,"pos",100,100,"unity",10,"Fiks are... able to have 2 eyes working the same",4,0
+"319","601056fe0e610a339db2e43b",1,"pos",100,35,"biology",10,"Elms are... DNA",4,65
+"320","601056fe0e610a339db2e43b",1,"pos",100,100,"time",10,"Toffs are... able to see the bigger picture",4,0
+"321","5d8cef3c28e183001a335ab0",10,"neg",64,64,"size",11,"Rubs are...heaver and taller and Chups are much lighter and smaller in height",5,0
+"322","5d8cef3c28e183001a335ab0",10,"pos",87,28,"time",15,"Dobs are... cleverer and better able to problem solve and wait for reward whilst Geks are not as smart and want immediate gratification.",5,59
+"323","5d8cef3c28e183001a335ab0",10,"pos",70,24,"biology",11,"Pods are... more closely related to humans whilst Hul's DNA is completely unrelated from humans and they share none of the same genetic make up",5,46
+"324","5d8cef3c28e183001a335ab0",10,"neg",79,52,"pRichness",15,"Elms are... more visually aware and have better short term memory whereas Vems cannot distinguish small visual details and cannot hold information in their short term memory.",5,27
+"325","5d8cef3c28e183001a335ab0",10,"neg",55,56,"appearance",15,"Xons are... more like humans in that they have two eyes sat next to each other and two limbs for arms whereas Toffs features do not resemble those of humans because they have more arms and their eyes are placed differently.",5,-1
+"326","5d8cef3c28e183001a335ab0",10,"neg",83,40,"self",11,"Shuks are... better able to recognize themselves in the mirror and attempt to hide if they are caught stealing food.",5,43
+"327","5d8cef3c28e183001a335ab0",10,"pos",95,31,"eRichness",11,"Leems are... better able to recognise emotions and are able to tolerate disliked conditions if they get something out of it but Yubs could not weight up different needs against each other",5,64
+"328","5d8cef3c28e183001a335ab0",10,"pos",82,26,"unity",17,"Fiks are... able to make use of information from their different senses and also share information between their eyes whereas Zags could only respond to information if their specific eye was trained so are not as good at learning",5,56
+"329","57d5ab3a722df500017f3622",9,"pos",100,88,"unity",16,"Fiks can recognise a fruit once they have seen a picture of it even without touching it. Yubs have to touvh to recognise. Fiks can make a sound when they see a picture after covering either eye, yubs only play make a sound when they cover their right eye",5,12
+"330","57d5ab3a722df500017f3622",9,"pos",96,89,"appearance",14,"rubs have a left and right eye with two limbs. Shuks eyes have one above the other they also have 5 limbs",5,7
+"331","57d5ab3a722df500017f3622",9,"pos",100,75,"biology",10,"Geeks have 4 human bases and are red blooded. Dobs have no human bases and have yellow blood",5,25
+"332","57d5ab3a722df500017f3622",9,"neg",97,96,"size",12,"Pods are taller and weigh more",5,1
+"333","57d5ab3a722df500017f3622",9,"pos",98,93,"pRichness",14,"Xons are able to tell the difference between similar objects and Chups cannot. Xons are immediatly recognise a light with a treat. Chups do not recognise light with a treat if there is a delay in them seeing it",5,5
+"334","57d5ab3a722df500017f3622",9,"neg",94,97,"time",16,"Huls are able to associate triangular keys with berries and prefer to eat berries immediately. Norps do not associate any keys with berries. Norps prefer to ripen berries before they eat them as well",5,-3
+"335","57d5ab3a722df500017f3622",9,"neg",100,100,"self",12,"Zags like to clean even a small bit of dirt from their faces. When they still food they hide afterwards. Elms don't care if their face is slightly dirty. After elms steal food they do not hide",5,0
+"336","57d5ab3a722df500017f3622",9,"neg",98,98,"eRichness",12,"Toffs look away from an angry face if they are in a bad mood, vems do not look away no matter what their mood is. Toffs prefer their berries at a certain room temperature while vems do not mind what the room temperature is",5,0
+"337","5fba7e6893585f7e4ade81ee",8,"pos",38,13,"pRichness",13,"Dobs are able to differentiate different shades of similar colours from one another which Fiks cannot. Dobs also appear to have better short term memory than Fiks, being able to associate a treat with a stimulus after as much as a one second time gap, compared to Fiks which require immediate treat dispensation",5,25
+"338","5fba7e6893585f7e4ade81ee",8,"neg",37,37,"appearance",15,"Rubs are... circular creatures with two arm like limbs and two eyes, one of which is on the left and one on the right side of the face. Xons have five limbs and two eyes, but their two eyes are separated vertically with one above and one below.",5,0
+"339","5fba7e6893585f7e4ade81ee",8,"pos",57,30,"eRichness",11,"Yubs are... affected by the mood of others, as when in a bad mood they will not look at an angry face unlike Elms which do not care. Yubs also are more likely to shift priorities depending on different situations in low temperatures, as opposed to Elms which appear behave the same way regardless of pleasureable stimuli in the face of unpleasureable stimuli",5,27
+"340","5fba7e6893585f7e4ade81ee",8,"pos",41,23,"unity",15,"Huls are... more likely able to synthesise stimuli from different sensory organs to reach conclusions than Zags. They do this in a similar way both for utilising information from both eyes and for situations where combining stimuli from touch and visuals. They perform better in both of these than Zags",5,18
+"341","5fba7e6893585f7e4ade81ee",8,"neg",31,32,"biology",11,"Geks are...creatures that possess red blood compared to Geks yellow blood. They also have DNA consisting of the four bases that comprise human DNA, unlike Vems which posses none of these bases.",5,-1
+"342","5fba7e6893585f7e4ade81ee",8,"pos",59,33,"self",11,"Shuks are... more able to recognise images of the self than Leems, as well as be more aware of how their behavior can be seen by othersthan Leems",5,26
+"343","5fba7e6893585f7e4ade81ee",8,"pos",33,9,"size",11,"Toffs are... much taller and heavier than Chups, weighing thousands of times more and measuring over a hundred times taller.",5,24
+"344","5fba7e6893585f7e4ade81ee",8,"pos",62,31,"time",15,"Norps are... More able to solve problems than Pods and are more able to abstain from immediate gratification for future pleasure than Pods",5,31
+"345","5f68b388639cf2015e259207",7,"pos",3,4,"appearance",14,"Pods are... pods have 2 eyes beside each other and 2 arms whereas huls have 2 eyes one above the other and 5 arms",5,-1
+"346","5f68b388639cf2015e259207",7,"pos",75,4,"time",14,"Elms are... more inteligent than the toffs",5,71
+"347","5f68b388639cf2015e259207",7,"neg",44,45,"size",12,"Shuks are... fatter and taller than dobs",5,-1
+"348","5f68b388639cf2015e259207",7,"neg",73,77,"self",12,"Xons are... more attentive and clever whereas vems are courageous",5,-4
+"349","5f68b388639cf2015e259207",7,"pos",65,14,"unity",14,"Zags are... are more inteligent than rubs",5,51
+"350","5f68b388639cf2015e259207",7,"pos",53,56,"biology",10,"Norps are...almost identical to human genes whereas fiks are not",5,-3
+"351","5f68b388639cf2015e259207",7,"neg",60,64,"eRichness",12,"Chups are... moody whereas geks are not",5,-4
+"352","5f68b388639cf2015e259207",7,"pos",60,35,"pRichness",12,"Leems are... more clever than yubs",5,25
+"353","5fff5ebf438a3508aff94a13",6,"neg",36,58,"pRichness",13,"Leems are... They were almost identical apart from two things leems can tell the difference between similar objects but zags cannot",5,-22
+"354","5fff5ebf438a3508aff94a13",6,"pos",50,31,"appearance",13,"Elms are... Elms have right and left eyes toffs have two eyes one above the other , elms have 2 arms toff 5",5,19
+"355","5fff5ebf438a3508aff94a13",6,"pos",36,62,"eRichness",11,"Huls are... Huls have good and bad moods bur look away from the face when in a bad mood where ad pods keep looking at the face regardless",5,-26
+"356","5fff5ebf438a3508aff94a13",6,"pos",35,61,"time",13,"Vems are... Vems understood they needed a triangular key to open the box fiks didnt ,vems left the berries to ripen fiks ate them",5,-26
+"357","5fff5ebf438a3508aff94a13",6,"pos",27,36,"biology",9,"Geks are... Geks blood is red xons is yellow ,geks genesare made up of same 4 bases as a human where xons are not",5,-9
+"358","5fff5ebf438a3508aff94a13",6,"neg",28,26,"self",13,"Dobs are... Dobs hide when caught rubs dont ,",5,2
+"359","5fff5ebf438a3508aff94a13",6,"pos",27,38,"unity",13,"Norps are... Norpscan recognise fruits by touch alone shuks cannot norps have the ability to integrate imformation between both eyes",5,-11
+"360","5fff5ebf438a3508aff94a13",6,"pos",50,31,"size",11,"Yubs are... Chiups are significantly lighter than yubs but chups are much shorter than yubs",5,19
+"361","6011c02a550daa166e8fda4b",5,"pos",80,64,"eRichness",10,"Toffs are more likely to withstand more for greater rewards and have a larger selection criteria for their decisions. Geks are more one dimensional with their decision making.",5,16
+"362","6011c02a550daa166e8fda4b",5,"pos",79,65,"unity",12,"Zags are more abstract thinking than Dobs. Zags can discern reality a little better.",5,14
+"363","6011c02a550daa166e8fda4b",5,"pos",68,68,"appearance",12,"Norps are more big picture animals, maybe non-predators and Huls are more directed in their physiology.",5,0
+"364","6011c02a550daa166e8fda4b",5,"neg",52,52,"biology",10,"Fiks are different in that they derive their DNA from humans whereas Rubs come from a different origin.",5,0
+"365","6011c02a550daa166e8fda4b",5,"pos",68,55,"pRichness",12,"Vems are able to delay gratification where Chups can only concentrate on the immediate present.",5,13
+"366","6011c02a550daa166e8fda4b",5,"pos",84,58,"time",12,"Leems are able to process change over time as a concept whereas Xons can not.",5,26
+"367","6011c02a550daa166e8fda4b",5,"pos",88,54,"self",12,"Pods are more likely to recognize other beings as concious.",5,34
+"368","6011c02a550daa166e8fda4b",5,"pos",38,38,"size",10,"Elms are much larger than Shuks",5,0
+"369","5fc2cbb804670e1e15cb3b0d",4,"pos",92,92,"size",9,"Geks are... larger in mass",5,0
+"370","5fc2cbb804670e1e15cb3b0d",4,"pos",100,70,"self",11,"Fiks are... more self-aware",5,30
+"371","5fc2cbb804670e1e15cb3b0d",4,"neg",100,100,"unity",13,"Zags have better visual processing",5,0
+"372","5fc2cbb804670e1e15cb3b0d",4,"pos",94,94,"appearance",11,"Toffs are... more similar to humans",5,0
+"373","5fc2cbb804670e1e15cb3b0d",4,"neg",69,69,"biology",11,"Pods are... a very different form of life compared to anything we have seen",5,0
+"374","5fc2cbb804670e1e15cb3b0d",4,"pos",100,100,"eRichness",9,"Leems are more able to weigh advantages and disadvantages, and really like berries.",5,0
+"375","5fc2cbb804670e1e15cb3b0d",4,"pos",100,100,"pRichness",11,"Yubs have better short term memory",5,0
+"376","5fc2cbb804670e1e15cb3b0d",4,"pos",100,98,"time",11,"Xons are... more intelligent & able to plan ahead for the future better",5,2
+"377","5eb874c2bc3a2c0a0320008a",3,"pos",100,100,"unity",12,"Huls are... more able to understand the images/data they see. They have the ability to extrapolate the visual data they get and show individual thought. Norps tend to only be trained to recognise something how they have originally seen it.",5,0
+"378","5eb874c2bc3a2c0a0320008a",3,"pos",100,100,"time",10,"Leems are... more able to use thought processes from previous memories for future planning, they may be able to recall memories more easily than Vems.",5,0
+"379","5eb874c2bc3a2c0a0320008a",3,"neg",66,66,"size",10,"Xons are... much larger than toffs, their height and weight is much larger than toffs",5,0
+"380","5eb874c2bc3a2c0a0320008a",3,"pos",100,91,"pRichness",10,"Geks have a better memory than Zags, they can remember things even when they may not have an immediate use for that memory",5,9
+"381","5eb874c2bc3a2c0a0320008a",3,"pos",100,100,"self",10,"Rubs are more self-aware, they can tell it is themselves in the mirror and they try to hide when caught stealing, perhaps because they know it is wrong, Fiks don't do this.",5,0
+"382","5eb874c2bc3a2c0a0320008a",3,"pos",100,100,"biology",10,"Yubs are... have the same DNA bases as humans whereas Shuks have completely different bases and have yellow blood whereas Yubs have red blood.",5,0
+"383","5eb874c2bc3a2c0a0320008a",3,"neg",100,100,"eRichness",10,"Elms are... more likely to endure colder temperatures if the food tastes better, whereas Pods do not care how the food tastes, they will leave if they don't like the temperature",5,0
+"384","5eb874c2bc3a2c0a0320008a",3,"pos",100,100,"appearance",10,"Chups are... more human-like in their physical form, Dobs have more limbs and their eyes are top and bottom rather than left and right",5,0
+"385","5cb1e4f25a31b40001fb0c44",2,"pos",100,100,"size",9,"Fiks are... heavier and taller",5,0
+"386","5cb1e4f25a31b40001fb0c44",2,"pos",100,100,"biology",9,"Rubs are... similiar in DNA to humans and their blood is red, not yellow",5,0
+"387","5cb1e4f25a31b40001fb0c44",2,"neg",100,100,"time",11,"Leems are... able to make plans for the future by thinking ahead, ie by picking the berries, but waiting until they ripen. they are also smarter, as in choosing the triangular key",5,0
+"388","5cb1e4f25a31b40001fb0c44",2,"neg",100,100,"eRichness",11,"Zags are... able to have emotions and react when shown different faces. They also gauge that eating is perhaps more important than being cold.",5,0
+"389","5cb1e4f25a31b40001fb0c44",2,"pos",100,100,"unity",11,"Chups are... better able to use all their senses in their ability to recognise everyday objects",5,0
+"390","5cb1e4f25a31b40001fb0c44",2,"pos",100,100,"pRichness",9,"Dobs are...better able to hold information in their memory, and also to differentiate between shades of colour and objects of a similar shape.",5,0
+"391","5cb1e4f25a31b40001fb0c44",2,"pos",100,100,"appearance",9,"Norps are... odd looking, their eyes are horizontal like humans but they have 2 pairs of limbs making them look like a crab.",5,0
+"392","5cb1e4f25a31b40001fb0c44",2,"pos",100,100,"self",9,"Pods are... abelt to recognise themselves and also to know the difference between right and wrong, and be ashamed if they are caught stealing.",5,0
+"393","6012d27152fa5e09eb6a29e0",1,"pos",100,100,"eRichness",10,"Norps are... Aliens that dislike the Cold and are able to have good and bad moods. They like Space Berries.",5,0
+"394","6012d27152fa5e09eb6a29e0",1,"pos",100,100,"time",10,"Huls are... smarter than Geks and can plan better for the future.",5,0
+"395","6012d27152fa5e09eb6a29e0",1,"neg",100,99,"biology",10,"Elms are...Elms share some DNA in common with humans and have red blood Leems have no DNA in common with humans and have yellow blood.",5,1
+"396","6012d27152fa5e09eb6a29e0",1,"neg",100,100,"self",10,"Dobs are... Self aware and Xons are not.",5,0
+"397","6012d27152fa5e09eb6a29e0",1,"neg",100,100,"size",10,"Yubs are... heavier and taller than Toffs",5,0
+"398","6012d27152fa5e09eb6a29e0",1,"neg",100,100,"pRichness",10,"Fiks are... different to Pods in that Pods have shorter memories if they are not immediately rewarded and they have trouble distinguishing between similar objects/concepts.",5,0
+"399","6012d27152fa5e09eb6a29e0",1,"neg",100,100,"appearance",10,"Chups are... different because they have a left and right eye and 2 arm like limbs, Vems have 5 limbs and one eye above the other",5,0
+"400","6012d27152fa5e09eb6a29e0",1,"pos",100,100,"unity",10,"Zags are... able to recognise items by tough after only seeing a picture, they are also able to recognise things using either eye. The opposite is true of Shuks.",5,0
